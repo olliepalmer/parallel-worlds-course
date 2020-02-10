@@ -3,6 +3,15 @@
 //
 // stylelint-disable primer/selector-no-utility, primer/no-override, selector-no-type, selector-max-type
 
+
+
+@font-face {
+  font-family: 'Monofur';
+  src: url('https://github.com/olliepalmer/parallel-worlds-course/raw/master/assets/fonts/monofur_for_powerline-webfont.woff2') format('woff2'),
+       url('https://github.com/olliepalmer/parallel-worlds-course/raw/master/assets/fonts/monofur_for_powerline-webfont.woff') format('woff');
+}
+
+
 h1,
 .text-alpha {
   @include fs-8;
