@@ -166,11 +166,16 @@ $rlite: #FF0000;
 	height: 100%;
 }
 
-// @font-face {
-//   font-family: 'Monofur';
-//   src: url('https://github.com/olliepalmer/parallel-worlds-course/raw/master/assets/fonts/monofur_for_powerline-webfont.woff2') format('woff2'),
-//        url('https://github.com/olliepalmer/parallel-worlds-course/raw/master/assets/fonts/monofur_for_powerline-webfont.woff') format('woff'),
-//        url('https://github.com/olliepalmer/parallel-worlds-course/blob/master/assets/fonts/monofur_for_powerline.ttf') format('truetype');
-//   font-weight: normal;
-//   font-style: normal;
-// }
+@font-face {
+  font-family: 'monofur for Powerline';
+  src: url('https://github.com/olliepalmer/parallel-worlds-course/raw/master/assets/fonts/monofur_for_powerline-webfont.woff2') format('woff2'),
+       url('https://github.com/olliepalmer/parallel-worlds-course/raw/master/assets/fonts/monofur_for_powerline-webfont.woff') format('woff'),
+       url('https://github.com/olliepalmer/parallel-worlds-course/blob/master/assets/fonts/monofur_for_powerline.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3, .site-header {
+  font-family: 'monofur for Powerline';
+  letter-spacing: 0.2em;
+}

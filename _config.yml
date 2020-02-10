@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 footer_content:
-  "Copyright &copy; 2019 Ollie Palmer. Site content distributed under an
+  "Copyright &copy; 2020 Ollie Palmer. Site content distributed under an
   <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license</a>
   (you are free to reuse content as you like); student work remains their property."
 
