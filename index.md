@@ -8,4 +8,10 @@ title: Parallel Worlds
 
 ![](/assets/pw-02.png)
 
-# Welcome to Parallel Worlds
+<div style='text-align:center'>
+
+<h1>Parallel Worlds</h1>
+
+</div>
+
+![](/assets/pw-02.png)
