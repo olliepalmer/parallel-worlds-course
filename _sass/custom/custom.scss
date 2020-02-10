@@ -130,12 +130,12 @@ $link-color: $grey-dk-300;
 //xl: 1400px
 //);
 
-a:hover {
-    -webkit-animation: rainbow 0.5s infinite;
-    -ms-animation: rainbow 0.5s infinite;
-    -o-animation: rainbow 0.5s infinite;
-    animation: rainbow 0.5s infinite;
-}
+// a:hover {
+//     -webkit-animation: rainbow 0.5s infinite;
+//     -ms-animation: rainbow 0.5s infinite;
+//     -o-animation: rainbow 0.5s infinite;
+//     animation: rainbow 0.5s infinite;
+// }
 
 $rdark :#660033;
 $rlite: #FF0000;
@@ -152,6 +152,17 @@ $rlite: #FF0000;
     50%  { bgcolor: $rdark}
     100% { bgcolor: $rlite}
 }
+
+@keyframes flashy-rainbow {
+0% {
+    background-position: 0% 50%;
+}
+50% {
+    background-position: 100% 25%;
+}
+100% {
+    background-position: 0% 50%;
+}}
 
 .videoWrapper {
 	position: relative;
@@ -190,4 +201,18 @@ h1, h2, h3, .site-header {
 
 .page-header.nav-open {
   background-color: rgba(255,255,255,0) !important;
+}
+
+.main-content a:hover {
+  color: white;
+  background: black;
+  padding: 3px 0px 3px 0px;
+}
+
+.site-header a:hover {
+  background-image: repeating-linear-gradient(0deg, violet, indigo, blue, green, white, orange, red, violet);
+  background-size: 800% 800%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: flashy-rainbow 2s ease infinite;
 }
