@@ -216,3 +216,15 @@ h1, h2, h3, .site-header {
   -webkit-text-fill-color: transparent;
   animation: flashy-rainbow 2s ease infinite;
 }
+
+hr {
+  clear: both;
+  border-width: 1px 0 0;
+  margin: 30px 0;
+  height: 16px;
+  background-image: url("https://parallel.olliepalmer.com/assets/hr.svg");
+  background-position: -147px -91px;
+  border: none !important;
+  width: 103px !important;
+
+}

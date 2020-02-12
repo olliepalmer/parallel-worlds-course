@@ -6,7 +6,7 @@ layout: home
 title: Parallel Worlds
 ---
 
-![](/assets/pw-02.png)
+![](/assets/pw-02.svg)
 
 <div style='text-align:center'>
 
@@ -14,4 +14,4 @@ title: Parallel Worlds
 
 </div>
 
-![](/assets/pw-02.png)
+![](/assets/pw-02.svg)

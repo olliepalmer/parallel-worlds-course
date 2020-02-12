@@ -16,6 +16,14 @@ has_children: false
 
 # Course overview
 
+World-building is a valuable tool in art and design. The ability to immerse an audience in a complete world is crucial to the framing of TV shows and movies; corporations, nations, political parties, theatrical productions, and futurists all engage in ‘world-building’. What can artists and designers learn from world-building to enhance and augment their own practice?
+
+This 10-week elective module enables students to explore the worlds of world-building through a structured series of individual and group activities. The course is practice-led, consisting of structured design activities, and seminars (which always lead to a design outcome). The course encourages students to build on skills they already have, enhancing their current practice and projects by creating worlds to embed them in.
+
+We will be using philosopher Maurizio Ferraris’ concept of ‘social objects’ to create artefacts, and imagined social and individual memories. We will use theory and techniques from numerous places – theatre, counterfactuals, psychological operations, fiction, television and film production, propaganda, situationism – as well as testing new methods for world-building. By the end of the course, students will have designed maquettes and small sets, artefacts from imagined worlds, and produced a short film, audio production, performance, or related project. The course is methods-focused, but will also provide supplementary reading materials for students who wish to integrate these methods into their practice.
+
+The course will be performed in public: the syllabus and assignments will be made open source, and the course will culminate in a public exhibition (venue to be confirmed).
+
 ---
 
 # Course guidelines
@@ -26,7 +34,7 @@ has_children: false
 
 Seminars, workshops, presentations, and studio teaching.
 
-We meet on Fridays from 13.00-15.00 in the Seminar Room on the third floor. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance. Failure to attend 2 classes without a valid excuse is grounds for failing the course.
+We meet on Fridays from 14.00-17.00 in the Seminar Room on the third floor. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance. Failure to attend 2 classes, or the assessment at the end of the course is grounds for failing the course (with the exception of emergencies).
 
 The total time allocated for a 3EC course is 84 hours. This means that in addition to attending classes, you are also expected to carry out around 4-5 hours’ work on your assignments outside of class time.
 
@@ -114,11 +122,7 @@ There will be activities, conversations, presentations, feedback, and group work
 
 ## Marking
 
-Your work will be graded on 6th December 2019 by a panel consisting of your tutor and 1-2 other people. You will be awarded a grade according to the standard criteria for assessing work, namely:
-
-- Positioning
-- Methods
-- Self-directed learning
+Your work will be graded on 29th May 2020 by a panel consisting of your tutor and 1-2 other people. You will be awarded a grade according to the standard MIVC criteria for assessing work.
 
 
 ------
@@ -139,26 +143,14 @@ If you feel like your performance in the class is being impacted by your experie
 
 ## Assessment criteria
 
-You will be assessed at the end of the course on the following:
-
-- *1 film or mixed-media presentation consisting of your 'daily videos'* _40%_  
-Student has produced a high quality film or mixed-media presentation demonstrating that they have:
-  -	followed the procedure of making at least one rules-based video per day, leading to a body of work to draw from  
-  -	curated and assembled this body of work into a coherent film or mixed-media presentation which shows the breadth and variety of their videos.  
-The presentation will show the films in a mode which is appropriate for their subject matter, with a visual coherence and editing suitable for the content.
-
-- *2-3 short experimental ‘sketch’ films, made individually / in groups* _40%_
-You can demonstrate that you have followed rules laid out in class, or self-created rules, to create 2-3 experimental ‘sketch’ films to a high standard, with care and attention given to the genre, subject, editing, and mis-en-scene of the films.
-
-- *Documentation and description of process, to be presented in graphic and verbal format. This presentation is the means by which the students’ understanding of the module’s content and their own work within it.* _20%_  
-You are able to present a structured and logical overview of their work, and the processes, methods, and theories you have used to create their work, as well as critical reflections on your own practice. The presentation should utilise appropriate audiovisual methods (for example a Powerpoint presentation, a scripted performance, etc) to deliver its message.
+- Assessment criteria TBC
 
 -----
 
 ## Tutor
 
 
-This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com/), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org/). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu/), [the Bartlett](https://www.ucl.ac.uk/bartlett/), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), where he is Core Tutor on the [Situated Design](https://www.akvstjoostmasters.nl/programmes/situated-design) masters course.
+This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com/), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org/). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu/), [the Bartlett](https://www.ucl.ac.uk/bartlett/), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), where he is Core Tutor on the [Situated Design](https://www.akvstjoostmasters.nl/programmes/situated-design) masters course. He is currently working on a FilmFonds NL-funded immersive reality project entitled _All the Worlds_.
 
 ### Contact
 {: .no_toc}

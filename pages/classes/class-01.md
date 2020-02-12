@@ -11,7 +11,7 @@ has_children: false
 # Class 01 | 14 Feb 2020
 {: .no_toc}
 
-![](/assets/c01.png)
+![](/assets/c01.svg)
 
 
 1. TOC
