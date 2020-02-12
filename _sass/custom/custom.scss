@@ -17,12 +17,15 @@
 
 //$grey-dk-000: #959396;
 $grey-dk-000: black;
-//$grey-dk-100: #5c5962;
+$grey-dk-100: #5f6982; // dark-blue-grey
+// $grey-dk-100: #E41BAF; // bold pink
+// $grey-dk-100: red;
+
 //$grey-dk-200: #44434d;
 //$grey-dk-250: #302d36;
 // $grey-dk-300: #27262b;
 
-//$grey-lt-000: #f5f6fa;
+$grey-lt-000: #f5f6fa;
 //$grey-lt-100: #eeebee;
 //$grey-lt-200: #ecebed;
 //$grey-lt-300: #e6e1e8;
@@ -54,15 +57,15 @@ $grey-dk-000: black;
 
 //$body-background-color: $white;
 //$sidebar-color: $grey-lt-000;
-//$search-background-color: $white;
+$search-background-color: $white;
 //$table-background-color: $white;
 //$code-background-color: $grey-lt-000;
 
-//$body-text-color: $grey-dk-100;
+$body-text-color: $grey-dk-100;
 //$body-heading-color: $grey-dk-300;
 //$search-result-preview-color: $grey-dk-000;
-//$nav-child-link-color: $grey-dk-100;
-//$link-color: $purple-000;
+$nav-child-link-color: $grey-dk-100;
+$link-color: $grey-dk-100;
 $link-color: $grey-dk-300;
 //$btn-primary-color: $purple-100;
 //$base-button-color: #f7f7f7;
@@ -102,7 +105,7 @@ $link-color: $grey-dk-300;
 //// Borders
 ////
 
-//$border: 1px solid;
+$border: 0px solid;
 //$border-radius: 4px;
 //$border-color: $grey-lt-100;
 
@@ -187,16 +190,42 @@ $rlite: #FF0000;
   font-style: normal;
 }
 
-h1, h2, h3, .site-header {
+body{
+  color: $grey-dk-100;
+}
+h1, h2, h3, h4, h5, h6, .site-header {
   font-family: 'monofur for Powerline';
   letter-spacing: 0.2em;
+  color: $grey-dk-100 !important;
 }
 
+
+.page-content a {
+  color: $grey-dk-100 !important;
+}
+
+h1:after {
+    content: "";
+    display: block;
+    height: 30px;
+    background-image: url('/assets/hr3.svg');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+}
+
+h1.home {
+  text-align: center;
+}
+h1.home:after {
+  height:0px;
+}
+
+
 .side-bar {
-  background: linear-gradient(0deg, rgba(59,68,99,0.5) 0%, rgba(255,255,255,0) 100%);
+  background: linear-gradient(0deg, $grey-dk-100 0%, white 100%);
 }
 .site-footer {
-  color: black;
+  color: $grey-dk-100;
 }
 
 .page-header.nav-open {
@@ -218,12 +247,60 @@ h1, h2, h3, .site-header {
 }
 
 
+// hr {
+//   display: block;
+//   height: 100px !important;
+//   padding: 100px;
+//   background-color: $body-background-color !important;
+//   background-image: url("/assets/hr.svg");
+//   padding: 0;
+//   border: 0;
+// }
+
+hr:hover {
+  transform: rotate(180deg);
+}
+
 hr {
   display: block;
-  height: 50px !important;
-  padding: 50px;
+  height: 80px !important;
+  width:80px !important;
+  // padding: 100px;
   background-color: $body-background-color !important;
-  background-image: url("https://parallel.olliepalmer.com/assets/hr.svg");
+  background-image: url("/assets/hr2.svg");
+  background-size: cover;
   padding: 0;
   border: 0;
+  align: center;
+  animation: rotation 15s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+
+a:not([class]) {
+    text-decoration: none;
+    background-image: linear-gradient($grey-dk-100 0%, $grey-dk-100 100%) !important;
+    background-repeat: repeat-x;
+    background-position: 0 100%;
+    background-size: 1px 2px;
+  }
+
+.main-content a:hover {
+  color: white !important;
+}
+
+::selection {
+  background-color: $grey-dk-100 !important;
+}
+
+.page-content ol > li::before {
+  color: $grey-dk-100 !important;
 }

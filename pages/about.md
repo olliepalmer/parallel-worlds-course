@@ -12,11 +12,15 @@ has_children: false
 1. TOC
 {:toc}
 
-
+----
 
 # Course overview
 
+
 World-building is a valuable tool in art and design. The ability to immerse an audience in a complete world is crucial to the framing of TV shows and movies; corporations, nations, political parties, theatrical productions, and futurists all engage in ‘world-building’. What can artists and designers learn from world-building to enhance and augment their own practice?
+
+![Still from Synechdoche, New York, dir. Charlie Kaufman, 2008. © Copyright Sony Pictures Classics.](/assets/synechdoche.png)
+_Still from **Synechdoche, New York**, dir. Charlie Kaufman, 2008. © Copyright Sony Pictures Classics._
 
 This 10-week elective module enables students to explore the worlds of world-building through a structured series of individual and group activities. The course is practice-led, consisting of structured design activities, and seminars (which always lead to a design outcome). The course encourages students to build on skills they already have, enhancing their current practice and projects by creating worlds to embed them in.
 
@@ -27,8 +31,6 @@ The course will be performed in public: the syllabus and assignments will be mad
 ---
 
 # Course guidelines
-
----
 
 ## Teaching and participation
 
@@ -46,75 +48,26 @@ There will be activities, conversations, presentations, feedback, and group work
 
 ## Timetable
 
-
-
 <table>
-    <tr>
-        <td style="background:#000; color:white"><strong>Class</strong></td>
-        <td style="background:#000; color:white"><strong>Date</strong></td>
-        <td style="background:#000; color:white"><strong>Subject</strong></td>
-    </tr>
-    <tr>
-        <td>01</td>
-        <td>27 Sep 2019</td>
-        <td>Introduction</td>
-    </tr>
-    <tr>
-        <td>02</td>
-        <td>04 Oct 2019</td>
-        <td>Sensations</td>
-    </tr>
-    <tr>
-        <td>03</td>
-        <td>11 Oct 2019</td>
-        <td>Sensations</td>
-    </tr>
-    <tr>
-        <td style="background:#888; color:#eee">--</td>
-        <td style="background:#888; color:#eee">18 Oct 2019</td>
-        <td style="background:#888; color:#eee">Break (no teaching)</td>
-    </tr>
-    <tr>
-        <td>04</td>
-        <td>25 Oct 2019</td>
-        <td>Translations</td>
-    </tr>
-    <tr>
-        <td>05</td>
-        <td>01 Nov 2019</td>
-        <td>Translations</td>
-    </tr>
-    <tr>
-        <td>06</td>
-        <td>08 Nov 2019</td>
-        <td>Combinations</td>
-    </tr>
-    <tr style="bgcolor:#888; color:white">
-        <td style="background:#888; color:#eee">--</td>
-        <td style="background:#888; color:#eee">15 Nov 2019</td>
-        <td style="background:#888; color:#eee">Studium generale (no teaching)</td>
-    </tr>
-    <tr>
-        <td>07</td>
-        <td>22 Nov 2019</td>
-        <td>Combinations</td>
-    </tr>
-    <tr>
-        <td>08</td>
-        <td>29 Nov 2019</td>
-        <td>Combinations</td>
-    </tr>
-    <tr>
-        <td>09</td>
-        <td>06 Dec 2019</td>
-        <td>Assessment</td>
-    </tr>
-    <tr>
-        <td style="background:#f30; color:#eee">--</td>
-        <td style="background:#f30; color:#eee">17 Dec 2019</td>
-        <td style="background:#f30; color:#eee"><a href="https://v2.nl/events/film-exhibition-landscape-mode-1" target="\_blank">Show at V2_</a></td>
-    </tr>
-</table>
+<thead><tr><th style="background:#000; color:white;  text-align: left;">Class</th><th style="background:#000; color:white;  text-align: left;">Date</th><th style="background:#000; color:white;  text-align: left;">Subject</th></tr></thead><tbody>
+ <tr><td>01</td><td>14 Feb</td><td>Introduction</td></tr>
+ <tr><td>02</td><td>21 Feb</td><td>Personal objects</td></tr>
+ <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">28 Feb</td><td style="background:#888; color:#eee">no class</td></tr>
+ <tr><td>03</td><td>06 Mar</td><td>Trip to Metamaze</td></tr>
+ <tr><td>04</td><td>13 Mar</td><td>Narratives, social objects</td></tr>
+ <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">20 Mar</td><td style="background:#888; color:#eee">no class</td></tr>
+ <tr><td>05</td><td>27 Mar</td><td>Group experiment (all day class)</td></tr>
+ <tr><td>06</td><td>03 Apr</td><td>Experiment analysis</td></tr>
+ <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">10 Apr</td><td style="background:#888; color:#eee">no class</td></tr>
+ <tr><td>07</td><td>17 Apr</td><td>Psyops, deception</td></tr>
+ <tr><td>08</td><td>24 Apr</td><td>Counterfactuals</td></tr>
+ <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">01 May</td><td style="background:#888; color:#eee">no class</td></tr>
+ <tr><td>09</td><td>08 May</td><td>Your worlds (integrating w studio practice)</td></tr>
+ <tr><td>10</td><td>15 May</td><td>Tutorials</td></tr>
+ <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">22 May</td><td style="background:#888; color:#eee">no class</td></tr>
+ <tr><td style="background:#5f6982; color:#eee">--</td><td style="background:#5f6982; color:#eee">29 May</td><td style="background:#5f6982; color:#eee">Assessment</td></tr>
+ <tr><td>--</td><td>Date TBC</td><td>Exhibition</td></tr>
+</tbody></table>
 
 
 
@@ -149,14 +102,16 @@ If you feel like your performance in the class is being impacted by your experie
 
 ## Tutor
 
+This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com/), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org/). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu/), [the Bartlett](https://www.ucl.ac.uk/bartlett/), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), where he is Core Tutor on the [Situated Design](https://www.akvstjoostmasters.nl/programmes/situated-design) masters course. Alongside other projects, he is currently working on a FilmFonds NL-funded immersive reality project entitled _All the Worlds_.
 
-This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com/), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org/). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu/), [the Bartlett](https://www.ucl.ac.uk/bartlett/), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), where he is Core Tutor on the [Situated Design](https://www.akvstjoostmasters.nl/programmes/situated-design) masters course. He is currently working on a FilmFonds NL-funded immersive reality project entitled _All the Worlds_.
+![](https://olliepalmer.com/wp-content/uploads/2015/08/20067798450_066c1e47f5_k2.jpg)
+_[Ollie Palmer](https://olliepalmer.com) and team at [Nybble installation](https://olliepalmer.com/nybble), V&A Museum, 2013._
 
-### Contact
+
+### Contact details
 {: .no_toc}
 
-**Ollie Palmer**  
-[om.palmer@avans.nl](mailto:om.palmer@avans.nl) / [www.olliepalmer.com](https://olliepalmer.com) / [@_olliepalmer](https://twitter.com/_olliepalmer)
+[om.palmer@avans.nl](mailto:om.palmer@avans.nl)  •  [www.olliepalmer.com](https://olliepalmer.com)  •  [@_olliepalmer](https://twitter.com/_olliepalmer)
 
 -----
 

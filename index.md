@@ -8,10 +8,6 @@ title: Parallel Worlds
 
 ![](/assets/pw-02.svg)
 
-<div style='text-align:center'>
-
-<h1>Parallel Worlds</h1>
-
-</div>
+<h1 class='home'>Parallel Worlds</h1>
 
 ![](/assets/pw-02.svg)
