@@ -53,8 +53,8 @@ There will be activities, conversations, presentations, feedback, and group work
  <tr><td>01</td><td>14 Feb</td><td>Introduction</td></tr>
  <tr><td>02</td><td>21 Feb</td><td>Personal objects</td></tr>
  <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">28 Feb</td><td style="background:#888; color:#eee">no class</td></tr>
- <tr><td>03</td><td>06 Mar</td><td>Trip to Metamaze</td></tr>
- <tr><td>04</td><td>13 Mar</td><td>Narratives, social objects</td></tr>
+ <tr><td>03</td><td>06 Mar</td><td>Narratives, social objects</td></tr>
+ <tr><td>04</td><td>13 Mar</td><td>Trip to <a href="https://doloris.nl/metamaze/" target="_blank">Doloris Metamaze</a></td></tr>
  <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">20 Mar</td><td style="background:#888; color:#eee">no class</td></tr>
  <tr><td>05</td><td>27 Mar</td><td>Group experiment (all day class)</td></tr>
  <tr><td>06</td><td>03 Apr</td><td>Experiment analysis</td></tr>
