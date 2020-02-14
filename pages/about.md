@@ -30,11 +30,11 @@ Still from [Synechdoche, New York](https://www.imdb.com/title/tt0383028/), dir. 
 World-building is a valuable tool in art and design. The ability to immerse an audience in a complete world is crucial to the framing of TV shows and movies; corporations, nations, political parties, theatrical productions, and futurists all engage in ‘world-building’. What can artists and designers learn from world-building to enhance and augment their own practice?
 
 
-This 10-week elective module enables students to explore the worlds of world-building through a structured series of individual and group activities. The course is practice-led, consisting of structured design activities, and seminars (which always lead to a design outcome). The course encourages students to build on skills they already have, enhancing their current practice and projects by creating worlds to embed them in.
+This 10-class elective module enables students to explore the worlds of world-building through a structured series of individual and group activities. The course is practice-led, consisting of structured design activities, and seminars (which always lead to a design outcome). The course encourages students to build on skills they already have, enhancing their current practice and projects by creating worlds to embed them in.
 
-We will be using philosopher Maurizio Ferraris’ concept of ‘social objects’ to create artefacts, and imagined social and individual memories. We will use theory and techniques from numerous places – theatre, counterfactuals, psychological operations, fiction, television and film production, propaganda, situationism – as well as testing new methods for world-building. By the end of the course, students will have designed maquettes and small sets, artefacts from imagined worlds, and produced a short film, audio production, performance, or related project. The course is methods-focused, but will also provide supplementary reading materials for students who wish to integrate these methods into their practice.
+We will be using philosopher Maurizio Ferraris’ concept of [social objects](https://en.wikipedia.org/wiki/Documentality) to create artefacts, and imagined social and individual memories. We will use theory and techniques from numerous places – theatre, [counterfactuals](https://plato.stanford.edu/entries/counterfactuals/), [psychological operations](https://en.wikipedia.org/wiki/Psychological_operations_(United_States)), fiction, television and film production, propaganda, [situationism](https://www.cddc.vt.edu/sionline/si/situ.html) – as well as testing new methods for world-building. By the end of the course, students will have designed maquettes and small sets, artefacts from imagined worlds, and produced a short film, audio production, performance, or related project. The course is methods-focused, but will also provide supplementary reading materials for students who wish to integrate these methods into their practice.
 
-The course will be performed in public: the syllabus and assignments will be made open source, and the course will culminate in a public exhibition (venue to be confirmed).
+The course will be performed in public: the syllabus and assignments will be made open source at [parallel.olliepalmer.com](https://parallel.olliepalmer.com), and the course will culminate in a public exhibition (venue to be confirmed).
 
 ---
 
@@ -62,7 +62,7 @@ There will be activities, conversations, presentations, feedback, and group work
  <tr><td>02</td><td>21 Feb</td><td>Personal objects</td></tr>
  <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">28 Feb</td><td style="background:#888; color:#eee">no class</td></tr>
  <tr><td>03</td><td>06 Mar</td><td>Narratives, social objects</td></tr>
- <tr><td>04</td><td>13 Mar</td><td>Trip to <a href="https://doloris.nl/metamaze/" target="_blank">Doloris Metamaze</a></td></tr>
+ <tr><td>04</td><td>13 Mar</td><td>Trip to <a href="https://doloris.nl/metamaze/" target="\_blank">Doloris Metamaze</a></td></tr>
  <tr><td style="background:#888; color:#eee">--</td><td style="background:#888; color:#eee">20 Mar</td><td style="background:#888; color:#eee">no class</td></tr>
  <tr><td>05</td><td>27 Mar</td><td>Group experiment (all day class)</td></tr>
  <tr><td>06</td><td>03 Apr</td><td>Experiment analysis</td></tr>
@@ -104,7 +104,11 @@ If you feel like your performance in the class is being impacted by your experie
 
 ## Assessment criteria
 
-- Assessment criteria TBC
+Assessment criteria for the final examination will be announced in due time for you to prepare for the assessment itself (29 May). The criteria will be in line with the other elective modules in the Master Institute; after the assessment you will be given a pass/fail grade, and written feedback.
+
+The class before assessment is dedicated to 1:1 (and if applicable, group) tutorials to help you get the best out of the assessment.
+
+
 
 -----
 
@@ -121,7 +125,7 @@ This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, d
 <div class='caption' markdown='1'>
 
 ![](/assets/olliepalmer.jpg)
-[Ollie Palmer](https://olliepalmer.com) and team at [Nybble installation](https://olliepalmer.com/nybble), [V&A Museum](https://vam.ac.uk), 2013.
+[Ollie Palmer](https://olliepalmer.com) and performance/production team at [Nybble installation](https://olliepalmer.com/nybble), [V&A Museum](https://vam.ac.uk), 2013.
 
 </div>
 
@@ -130,4 +134,4 @@ This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, d
 
 ## Feedback
 
-This course is designed for you! If there is anything that is unclear, anything that could be better organised, or you have any ideas you think might make the course better, please just tell me.
+This course is designed for you! If there is anything that is unclear, anything that could be better organised, or you have any ideas you think might make the course or your experience better, please just tell me.

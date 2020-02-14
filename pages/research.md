@@ -8,4 +8,4 @@ has_toc: false
 
 # Studio research
 
-Content coming soon
+Our in-class research will be published here - stay tuned.
