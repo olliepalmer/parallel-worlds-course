@@ -20,6 +20,7 @@ $grey-dk-000: black;
 $grey-dk-100: #5f6982; // dark-blue-grey
 // $grey-dk-100: #E41BAF; // bold pink
 // $grey-dk-100: #4b0038; // dark purple/pink
+$grey-dk-100: #40758A; // turquoise
 
 //$grey-dk-200: #44434d;
 //$grey-dk-250: #302d36;
@@ -201,7 +202,7 @@ h1, h2, h3, h4, h5, h6, .site-header {
 }
 
 
-.page-content a {
+li.breadcrumb-nav-list-item a, .page-content a {
   color: $grey-dk-100 !important;
 }
 
@@ -223,7 +224,7 @@ h1.home:after {
 
 
 .side-bar {
-  background: linear-gradient(0deg, $grey-dk-100 0%, $grey-lt-000 100%);
+  background: linear-gradient(0deg, $grey-dk-100 20%, $grey-lt-000 100%);
 }
 .site-footer {
   color: $grey-dk-100;

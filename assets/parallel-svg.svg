@@ -1,0 +1,130 @@
+<svg id="ten" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 1600">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.57;
+      }
+      .cls-2 {
+        fill: url("#linear-gradient");
+      }
+      .cls-3 {
+        fill: url("#linear-gradient-2");
+      }
+      .cls-4 {
+        fill: url("#linear-gradient-3");
+      }
+      .cls-5 {
+        fill: url("#linear-gradient-4");
+      }
+      .cls-6 {
+        fill: url("#linear-gradient-5");
+      }
+      .cls-7 {
+        fill: url("#linear-gradient-6");
+      }
+      .cls-8 {
+        fill: url("#linear-gradient-7");
+      }
+      .cls-9 {
+        fill: url("#linear-gradient-8");
+      }
+      .cls-10 {
+        fill: url("#linear-gradient-9");
+      }
+      .cls-11 {
+        fill: url("#linear-gradient-10");
+      }
+      .cls-12 {
+        fill: url("#linear-gradient-11");
+      }
+      .cls-13 {
+        fill: url("#linear-gradient-12");
+      }
+      .cls-14 {
+        fill: url("#linear-gradient-13");
+      }
+      .cls-15 {
+        fill: url("#linear-gradient-14");
+      }
+      .cls-16 {
+        fill: url("#linear-gradient-15");
+      }
+      .cls-17 {
+        fill: url("#linear-gradient-16");
+      }
+      .cls-18 {
+        fill: url("#linear-gradient-17");
+      }
+      .cls-19 {
+        fill: url("#linear-gradient-18");
+      }
+      .cls-20 {
+        fill: url("#linear-gradient-19");
+      }
+      .cls-21 {
+        fill: url("#linear-gradient-20");
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="15743" y1="249.94" x2="15743" gradientTransform="matrix(-1, 0, 0, 1, 15868, 0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b4463"/><stop offset="1" stop-color="#fff"/></linearGradient>
+      <linearGradient id="linear-gradient-2" x1="15721.3" y1="248.12" x2="15764.7" y2="1.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-3" x1="15628.56" y1="399.94" x2="15628.56" y2="150" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-4" x1="15606.85" y1="398.12" x2="15650.26" y2="151.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-5" x1="15514.11" y1="549.94" x2="15514.11" y2="300" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-6" x1="15492.41" y1="548.12" x2="15535.82" y2="301.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-7" x1="15399.67" y1="699.94" x2="15399.67" y2="450" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-8" x1="15377.96" y1="698.12" x2="15421.37" y2="451.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-9" x1="15285.22" y1="849.94" x2="15285.22" y2="600" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-10" x1="15263.52" y1="848.12" x2="15306.93" y2="601.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-11" x1="15170.78" y1="999.94" x2="15170.78" y2="750" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-12" x1="15149.07" y1="998.12" x2="15192.48" y2="751.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-13" x1="15056.33" y1="1149.94" x2="15056.33" y2="900" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-14" x1="15034.63" y1="1148.12" x2="15078.04" y2="901.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-15" x1="14941.89" y1="1299.94" x2="14941.89" y2="1050" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-16" x1="14920.18" y1="1298.12" x2="14963.59" y2="1051.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-17" x1="14827.44" y1="1449.94" x2="14827.44" y2="1200" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-18" x1="14805.74" y1="1448.12" x2="14849.15" y2="1201.93" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-19" x1="14713" y1="1599.94" x2="14713" y2="1350" xlink:href="#linear-gradient"/>
+      <linearGradient id="linear-gradient-20" x1="14691.3" y1="1598.12" x2="14734.7" y2="1351.93" xlink:href="#linear-gradient"/></defs>
+  <title>parallel-svg</title>
+  <g id="c01">
+    <g id="zero" class="cls-1"><ellipse class="cls-2" cx="125" cy="124.97" rx="125" ry="124.97"/></g>
+    <g id="one" class="cls-1"><ellipse class="cls-3" cx="125" cy="125.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c02">
+    <g id="zero-2" data-name="zero" class="cls-1"><ellipse class="cls-4" cx="239.44" cy="274.97" rx="125" ry="124.97"/></g>
+    <g id="one-2" data-name="one" class="cls-1"><ellipse class="cls-5" cx="239.44" cy="275.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c03">
+    <g id="zero-3" data-name="zero" class="cls-1"><ellipse class="cls-6" cx="353.89" cy="424.97" rx="125" ry="124.97"/></g>
+    <g id="one-3" data-name="one" class="cls-1"><ellipse class="cls-7" cx="353.89" cy="425.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c04">
+    <g id="zero-4" data-name="zero" class="cls-1"><ellipse class="cls-8" cx="468.33" cy="574.97" rx="125" ry="124.97"/></g>
+    <g id="one-4" data-name="one" class="cls-1"><ellipse class="cls-9" cx="468.33" cy="575.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c05">
+    <g id="zero-5" data-name="zero" class="cls-1"><ellipse class="cls-10" cx="582.78" cy="724.97" rx="125" ry="124.97"/></g>
+    <g id="one-5" data-name="one" class="cls-1"><ellipse class="cls-11" cx="582.78" cy="725.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c06">
+    <g id="zero-6" data-name="zero" class="cls-1"><ellipse class="cls-12" cx="697.22" cy="874.97" rx="125" ry="124.97"/></g>
+    <g id="one-6" data-name="one" class="cls-1"><ellipse class="cls-13" cx="697.22" cy="875.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c07">
+    <g id="zero-7" data-name="zero" class="cls-1"><ellipse class="cls-14" cx="811.67" cy="1024.97" rx="125" ry="124.97"/></g>
+    <g id="one-7" data-name="one" class="cls-1"><ellipse class="cls-15" cx="811.67" cy="1025.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c08">
+    <g id="zero-8" data-name="zero" class="cls-1"><ellipse class="cls-16" cx="926.11" cy="1174.97" rx="125" ry="124.97"/></g>
+    <g id="one-8" data-name="one" class="cls-1"><ellipse class="cls-17" cx="926.11" cy="1175.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c09">
+    <g id="zero-9" data-name="zero" class="cls-1"><ellipse class="cls-18" cx="1040.56" cy="1324.97" rx="125" ry="124.97"/></g>
+    <g id="one-9" data-name="one" class="cls-1"><ellipse class="cls-19" cx="1040.56" cy="1325.03" rx="125" ry="124.97"/></g>
+  </g>
+  <g id="c10">
+    <g id="zero-10" data-name="zero" class="cls-1"><ellipse class="cls-20" cx="1155" cy="1474.97" rx="125" ry="124.97"/></g>
+    <g id="one-10" data-name="one" class="cls-1"><ellipse class="cls-21" cx="1155" cy="1475.03" rx="125" ry="124.97"/></g>
+  </g>
+</svg>
