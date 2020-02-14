@@ -83,13 +83,17 @@ Think about:
 - How do you engage with this world? What are the 'hooks' that give it resonance for you?
 - How do an audience engage with the world? Is there a strong fan community?
 
-Please make this presentation in Google Slides. The presentation will consist of 1-2 images per world you're representing (only one image on a slide please!), and a description of 100 words.
+Please fill in [this form](https://forms.gle/3baR8gXC6h7x5US59) on Google Drive to upload your work. The form asks for a few factual questions about the fictional world you're describing, a 100-word description of the world (you can write more if you like), and up to 5 representative images with copyright attribution (so we can embed the images and text on this website later).
 
-The link to the document will be shared later. Please also provide copyright information for the image you've used.
+Fill in the form once per fictional world you're describing - you should fill it in 2-3 times! You'll present the world using what you've uploaded next session.
+
+👉️[Form: your fictional worlds](https://forms.gle/3baR8gXC6h7x5US59) 👈️
 
 ## Object
 
 Bring in an object which has emotional resonance for you. Prepare a short presentation (2-3 mins) which tells us about the object: where did it come from, how does it signify a world you’ve inhabited? Why does it mean something to you?
+
+----
 
 # Resources
 
