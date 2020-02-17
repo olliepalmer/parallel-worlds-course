@@ -93,6 +93,13 @@ Fill in the form once per fictional world you're describing - you should fill it
 
 Bring in an object which has emotional resonance for you. Prepare a short presentation (2-3 mins) which tells us about the object: where did it come from, how does it signify a world you’ve inhabited? Why does it mean something to you?
 
+Your object does not have to have a high or low value, but should be something that evokes a memory or emotion for you. Please note, your object will be treated with respect in class, but may be passed around to your colleagues.
+
+Stuck for ideas? You could bring in:
+
+- an object you use every day (e.g. a pen, a notebook, a water flask, keys)
+- an object which reminds you of another place or another time (e.g. a photograph, a piece of jewelry, an old toy, a memento of a person or place)
+
 ----
 
 # Resources

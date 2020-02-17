@@ -135,3 +135,9 @@ This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, d
 ## Feedback
 
 This course is designed for you! If there is anything that is unclear, anything that could be better organised, or you have any ideas you think might make the course or your experience better, please just tell me.
+
+-----
+
+# Website / open source
+
+The contents of this course and its associated website are all open-source; however please respect copyright for students' work and other work that is denoted with a copyright notice. You can find the website and all files on [Github](https://github.com/olliepalmer/parallel-worlds-course).
