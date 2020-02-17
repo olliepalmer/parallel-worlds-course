@@ -196,7 +196,7 @@ body{
   color: $grey-dk-100;
 }
 h1, h2, h3, h4, h5, h6, .site-header {
-  font-family: 'monofur for Powerline';
+  font-family: 'monofur for Powerline',-apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   letter-spacing: 0.2em;
   color: $grey-dk-100 !important;
 }
