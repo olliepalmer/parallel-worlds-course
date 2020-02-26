@@ -44,7 +44,7 @@ The course will be performed in public: the syllabus and assignments will be mad
 
 Seminars, workshops, presentations, and studio teaching.
 
-We meet on Fridays from 14.00-17.00 in the Seminar Room on the third floor. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance. Failure to attend 2 classes, or the assessment at the end of the course is grounds for failing the course (with the exception of emergencies).
+We meet on Fridays from 14.00-17.00 in the Situation Room on the first floor of the Masters Institute. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance. Failure to attend 2 classes, or the assessment at the end of the course is grounds for failing the course (with the exception of emergencies).
 
 The total time allocated for a 3EC course is 84 hours. This means that in addition to attending classes, you are also expected to carry out around 4-5 hours’ work on your assignments outside of class time.
 
@@ -114,7 +114,7 @@ The class before assessment is dedicated to 1:1 (and if applicable, group) tutor
 
 ## Tutor
 
-This course is taught by [Ollie Palmer](https://olliepalmer.com/) - an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com/), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org/). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu/), [the Bartlett](https://www.ucl.ac.uk/bartlett/), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), where he is Core Tutor on the [Situated Design](https://www.akvstjoostmasters.nl/programmes/situated-design) masters course. Alongside other projects, he is currently working on a FilmFonds NL-funded immersive reality project entitled _All the Worlds_.
+This course is taught by [Ollie Palmer](https://olliepalmer.com) - an artist, designer and film-maker whose work critically questions control systems and contemporary use of technology, and takes place across installations, films and performances. Projects often include collaborations with scientists, dancers, and other people outside of his own discipline. From 2015-16 he was [Pavillon artist-in-residence](https://www.palaisdetokyo.com/en/page/ollie-palmer) at the [Palais de Tokyo](https://www.palaisdetokyo.com), Paris, and his work has been shown internationally (V&A Museum, Seoul Museum of Art, Opera Garnier de Paris). He holds a PhD by Design from the Bartlett School of Architecture entitled ‘Scripted performances: designing performative architectures through digital and absurd machines’, and is alumni of the Bartlett’s [Interactive Architecture Lab](http://www.interactivearchitecture.org). He has taught at the [School of the Art Institute Chicago](http://www.saic.edu), [the Bartlett](https://www.ucl.ac.uk/bartlett), [TU Delft Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment/), and [AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), where he is Core Tutor on the [Situated Design](https://www.akvstjoostmasters.nl/programmes/situated-design) masters course. Alongside other projects, he is currently working on a FilmFonds NL-funded immersive reality project entitled _All the Worlds_.
 
 ### Contact details
 {: .no_toc}
@@ -138,6 +138,12 @@ This course is designed for you! If there is anything that is unclear, anything 
 
 -----
 
-# Website / open source
+# Website: open access, open source
 
-The contents of this course and its associated website are all open-source; however please respect copyright for students' work and other work that is denoted with a copyright notice. You can find the website and all files on [Github](https://github.com/olliepalmer/parallel-worlds-course).
+## Open access
+
+The contents of this course are open access. Please feel free to take and adapt any of the learning materials, try the exercises, start teaching your own course, etc. However, please respect the copyright of students' work, and copyrighted material on this site (which is clearly denoted; all copyright belongs to the original authors). If you see something you like on this site - e.g. a podcast or film etc - please support its author. :)
+
+## Open source
+
+The website this course runs on is open source; you can find the whole code-base on [Github](https://github.com/olliepalmer/parallel-worlds-course). Please use, adapt, and modify the site as you see fit.
