@@ -17,6 +17,11 @@ We will be using philosopher Maurizio Ferraris’ concept of social objects to c
 The course will be performed in public: the syllabus and assignments will be made open source at [parallel.olliepalmer.com](https://parallel.olliepalmer.com), and the course will culminate in a public exhibition (venue to be confirmed).
 
 
+## Syllabus
+
+If you've come here because you just want to copy/modify/look at parts of the syllabus, great! The syllabus itself is written in Markdown, and all of the pages can be found in the [/pages/](https://github.com/olliepalmer/parallel-worlds-course/tree/master/pages) folder. Dig in and see. Alternatively you can see the syllabus in a more user-readable format on the [course website itself](https://parallel.olliepalmer.com).
+
+
 
 ## Website
 
@@ -28,13 +33,18 @@ The website uses a template called [Just the Docs](https://pmarsceill.github.io/
 
 If you just want the syllabus content, go straight to the [pages](/pages) folder, or head to the [course website](https://sd.olliepalmer.com). If you want to clone the whole thing and play around, I'd recommend Netlify as a way to create a site from a GitHub repo.
 
+# Fonts
+
+This site uses 'Monofur for Powerline' by Tobias B Koehler for its titles - font licence and description can be found [over here](https://github.com/powerline/fonts/tree/master/Monofur).
+
 
 ## License
 
 This syllabus has an [MIT licence](https://choosealicense.com/licenses/mit/) please feel free to use it in your own teaching or creative practice. All featured student work remains the copyright of its creator and will be clearly marked as such. Please re-use the course content, but don't steal the students' work. If you adapt the course to your own needs, please let me know! I'd love to talk about what worked and didn't, and how I can make this better for students and teachers. I'm hoping that making the course open source others will improve upon my work and make it their own.
 
+
+## Thanks
+
 Thanks to all of the Oulipians and writers and world-builders who inspired this course. Tim Clare's [Couch to 80k Writing Bootcamp](http://www.timclarepoet.co.uk/couchto80kwritingbootcamp) was an excellent and highly enjoyable writing course, and has also morphed into an interesting interview series for anyone vaguely interested in writing or creative work. Ross Sutherland's [Imaginary Advice](https://www.imaginaryadvice.com) features a couple of times on this website, and I can't recommend listening to it enough.
 
-# Fonts
-
-This site uses 'Monofur for Powerline' by Tobias B Koehler for its titles - font licence and description can be found [over here](https://github.com/powerline/fonts/tree/master/Monofur).
+Thanks also to the people who've authored web publishing frameworks that made creating this site so easy. :)
