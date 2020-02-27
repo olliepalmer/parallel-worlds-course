@@ -138,12 +138,14 @@ This course is designed for you! If there is anything that is unclear, anything 
 
 -----
 
-# Website: open access, open source
+# Website
 
 ## Open access
 
-The contents of this course are open access. Please feel free to take and adapt any of the learning materials, try the exercises, start teaching your own course, etc. However, please respect the copyright of students' work, and copyrighted material on this site (which is clearly denoted; all copyright belongs to the original authors). If you see something you like on this site - e.g. a podcast or film etc - please support its author. :)
+The contents of this course are open access. Please feel free to take and adapt any of the learning materials, try the exercises, start teaching your own course, etc.
+
+Whilst the site and course are open access, there are copyrighted materials on the site. This includes students' work, and images from relevant films, etc. Copyrighted material is clearly marked as such: please respect the original copyright holder. If you like the look of something on the site (e.g. a film, podcast, book, etc), please support the creator! :)
 
 ## Open source
 
-The website this course runs on is open source; you can find the whole code-base on [Github](https://github.com/olliepalmer/parallel-worlds-course). Please use, adapt, and modify the site as you see fit.
+The website this course runs on is open source; you can find the whole code-base on [Github](https://github.com/olliepalmer/parallel-worlds-course). The website is built with Jekyll, and uses a slightly modified version of [Just the Docs](https://pmarsceill.github.io/just-the-docs/). The site uses 'Monofur for Powerline' by Tobias B Koehler for its titles - font licence and description can be found [over here](https://github.com/powerline/fonts/tree/master/Monofur). Please use, adapt, and modify the site as you see fit. More information about how it's all put together, and how you can copy it to your own site, on [GitHub](https://github.com/olliepalmer/parallel-worlds-course#website).
