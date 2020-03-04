@@ -7,7 +7,7 @@ has_children: false
 
 ---
 
-# Class022 | 21 Feb 2020
+# Class 02 | 21 Feb 2020
 {: .no_toc}
 
 1. TOC
@@ -71,7 +71,7 @@ You must follow the instructions on the cue card, and give the envelope to someo
 
 When you receive an envelope, how did you know its significance? Did its contents meet your expectations? How could you have made the back-story more believable?
 
-## presentation
+## Presentation
 
 Finally, present your objects to the class. We'll have a small discussion about what they are, and why they have significance.
 
@@ -86,10 +86,4 @@ There is one assignment for next class:
 
 By next class, you must design and document a ritual around an object. The ritual can be real or imagined, and take place anywhere. The only constraints are that the documentation must be entirely non-verbal. You can make a film, take photos, draw, perform – any medium you see fit.
 
-There will be an upload form online soon; don't worry about the file sizes.
-
-----
-
-# Resources
-
-Coming soon
+Upload your film 👉️[HERE](https://forms.gle/EAgU2Gia9EhzNy1y8) before Thursday evening!
