@@ -87,3 +87,21 @@ There is one assignment for next class:
 By next class, you must design and document a ritual around an object. The ritual can be real or imagined, and take place anywhere. The only constraints are that the documentation must be entirely non-verbal. You can make a film, take photos, draw, perform – any medium you see fit.
 
 Upload your film 👉️[HERE](https://forms.gle/EAgU2Gia9EhzNy1y8) before Thursday evening!
+
+## Reading/watching before next class
+
+### Grayson Perry: Rites of Passage
+In 2018 the British artist Grayson Perry made a series of films about defining new rituals for a secular era. His working process is highly reactive to peoples’ opinions and needs, and his work shows true compassion to the people he's working with. This film is the only episode I can find online that works in the Netherlands, but if you can find a way to watch the entire series I’d recommend it:
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x6syr0m" allowfullscreen allow="autoplay"></iframe>
+[The series on Channel 4 (British)](https://www.channel4.com/programmes/grayson-perry-rites-of-passage)
+
+
+### Maurizio Ferraris: Social Objects
+We will be looking at the concept of _documentality_ in the next class – an idea about how we come to believe in institutions, ceremonies, legal systems, corporations, etc. Ferraris defines this idea in more detail in his book Manifesto of New Materialism, but this text is a playful lecture in which he spells out a lot of the key concepts. The text is 15 pages, but 6 are images.
+[Documentality/social objects](http://j.mp/38u5F8B)
+
+If you want the whole book, it’s: _Maurizio Ferraris, Sarah De Sanctis, and Graham Harman. Manifesto of New Realism. SUNY Series in Contemporary Italian Philosophy. Albany: SUNY Press, State University of New York Press, 2014._
+
+If you want to get ahead of the crowd, also research artists who are interestd in creating legal documentation or ritualistic processes. Some names to start: Paolo Cirio ([Loophole 4 All!](https://paolocirio.net/work/loophole-for-all/)), The Umma Chroma ([currently on display in Rotterdam](https://gdthyself.hetnieuweinstituut.nl/)), Heath Bunting ([The Status Project](http://status.irational.org/)), [Mark Lombardi](https://en.wikipedia.org/wiki/Mark_Lombardi), [Isaac Julien](https://www.isaacjulien.com/artworks/).
+
+The next class will be on the 13th April.
