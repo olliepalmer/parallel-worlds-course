@@ -104,4 +104,7 @@ If you want the whole book, it’s: _Maurizio Ferraris, Sarah De Sanctis, and Gr
 
 If you want to get ahead of the crowd, also research artists who are interestd in creating legal documentation or ritualistic processes. Some names to start: Paolo Cirio ([Loophole 4 All!](https://paolocirio.net/work/loophole-for-all/)), The Umma Chroma ([currently on display in Rotterdam](https://gdthyself.hetnieuweinstituut.nl/)), Heath Bunting ([The Status Project](http://status.irational.org/)), [Mark Lombardi](https://en.wikipedia.org/wiki/Mark_Lombardi), [Isaac Julien](https://www.isaacjulien.com/artworks/).
 
+
+# Next class - date change!
+
 The next class will be on the 13th April.
