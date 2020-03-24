@@ -208,12 +208,21 @@ li.breadcrumb-nav-list-item a, .page-content a {
 }
 
 h1:after {
-    content: "";
-    display: block;
-    height: 30px;
-    background-image: url('/assets/hr3.svg');
-    background-repeat: repeat-x;
-    background-position: center bottom;
+    position: absolute;
+    height: 6px;
+    margin: 0 auto;
+    content: '';
+    left: 0;
+    right: 0;
+    background-color: $grey-dk-100;
+    left: 0;
+    bottom: -0.5em;
+    // content: "";
+    // display: block;
+    // height: 30px;
+    // background-image: url('/assets/hr3.svg');
+    // background-repeat: repeat-x;
+    // background-position: center bottom;
 }
 
 h1 {
