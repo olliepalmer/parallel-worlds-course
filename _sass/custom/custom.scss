@@ -17,10 +17,11 @@
 
 //$grey-dk-000: #959396;
 $grey-dk-000: black;
-$grey-dk-100: #5f6982; // dark-blue-grey
+// $grey-dk-100: #5f6982; // dark-blue-grey
+$grey-dk-100: #ff0077; // bold pink
 // $grey-dk-100: #E41BAF; // bold pink
 // $grey-dk-100: #4b0038; // dark purple/pink
-$grey-dk-100: #40758A; // turquoise
+// $grey-dk-100: #40758A; // turquoise
 
 //$grey-dk-200: #44434d;
 //$grey-dk-250: #302d36;
@@ -224,10 +225,14 @@ h1.home:after {
 
 
 .side-bar {
-  background: linear-gradient(0deg, $grey-dk-100 20%, $grey-lt-000 100%);
+  background: linear-gradient(0deg, $grey-dk-100 20%, $grey-dk-100 100%);
 }
 .site-footer {
-  color: $grey-dk-100;
+  color: white;
+}
+
+footer .site-footer p {
+  color: white;
 }
 
 .page-header.nav-open {
@@ -240,12 +245,12 @@ h1.home:after {
   padding: 3px 0px 3px 0px;
 }
 
-.site-header a:hover {
-  background-image: repeating-linear-gradient(0deg, violet, indigo, blue, green, white, orange, red, violet);
+.site-header a:hover, .site-header a {
+  background-image: repeating-linear-gradient(0deg, $grey-dk-100, white, $grey-dk-100, $grey-dk-100, white, $grey-dk-100, $grey-dk-100, white, $grey-dk-100, white,$grey-dk-100, white, $grey-dk-100, white);
   background-size: 800% 800%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: flashy-rainbow 2s ease infinite;
+  animation: flashy-rainbow 5s ease infinite;
 }
 
 .caption {
@@ -348,4 +353,21 @@ h3:after {
   hr {
     display: none;
   }
+}
+
+footer {
+  color: white;
+}
+
+footer p {
+  color:white;
+}
+
+p.text-small.text-grey-dk-000.mb-0,
+p.text-small.text-grey-dk-000.mb-0 a {
+  color: $grey-dk-100 !important;
+}
+
+p.text-small.text-grey-dk-000.mb-0 a:hover {
+  color: white !important;
 }

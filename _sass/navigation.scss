@@ -13,7 +13,7 @@
   list-style: none;
 
   .navigation-list-link {
-    color: $nav-child-link-color;
+    color: white;
   }
 
   .navigation-list-item {
@@ -23,13 +23,13 @@
       position: absolute;
       margin-top: 0.3em;
       margin-left: -0.8em;
-      color: rgba($body-text-color, 0.3);
+      color: rgba(white, 0.3);
       content: "- ";
     }
 
     &.active {
       &::before {
-        color: $body-text-color;
+        color: white;
       }
     }
   }
@@ -58,10 +58,11 @@
   display: block;
   padding-top: $sp-1;
   padding-bottom: $sp-1;
+  color:white;
 
   &.active {
     font-weight: 600;
-    color: $body-heading-color;
+    color: white;
     text-decoration: none;
   }
 }
