@@ -48,8 +48,8 @@ You don’t need expensive equipment to produce audio stories! Most production c
 
 * *List of podcasts here?*
 
-- **[Imaginary Advice](https://imaginaryadvice.com)**
-*Experiments in audio fiction by Ross Sutherland*
+- [Imaginary Advice](https://imaginaryadvice.com)  
+*Experiments in audio fiction by Ross Sutherland*  
 Ross is one of my favourite writers, and over the past 5 years he has used podcasts to create a whole series of audio worlds. I like that each episode can be a completely different style of writing, have a completely different topic, but still be unmistakably Imaginary Advice. I also love the audio production on many of them (Black Eye is my favourite for this).
   - Genre: storytelling, fiction
   - Length: 20-60 minutes
@@ -59,7 +59,7 @@ Ross is one of my favourite writers, and over the past 5 years he has used podca
     - [Tony Gang Flame War](https://soundcloud.com/ross-sutherland/63-tony-gang-flame-war-5th-birthday-episode) (a Jackie Chan film framed as a memoir)
     - [Black Eye](https://soundcloud.com/ross-sutherland/67-black-eye-w-abi-palmer) (an audio odyssey based on a book from the 1600s; incredible production)
 
-- [99 Percent Invisible](https://99pi.org)
+- [99 Percent Invisible](https://99pi.org)  
 This is a podcast about design, hosted by Roman Mars. Each week it focuses on a different aspect of the built environment, and explores something in design you might not have considered before. Episodes are generally 15-30 minutes long, and the supplementary materials on their website are quite good if you want further reading.
 I listen to this podcast whenever I'm in a curious mood – just selecting an episode at random from the archive always brings up something useful.
   - Genre: factual/essay, sometimes interview
@@ -69,7 +69,7 @@ I listen to this podcast whenever I'm in a curious mood – just selecting an ep
     - [Money makers](https://99percentinvisible.org/episode/money-makers/)
     - [Kowloon walled city](https://99percentinvisible.org/episode/episode-66-kowloon-walled-city/)
     - [Separation anxiety](https://99percentinvisible.org/episode/separation-anxiety/)
-- [Heavyweight](https://gimletmedia.com/shows/heavyweight/episodes#show-tab-picker)
+- [Heavyweight](https://gimletmedia.com/shows/heavyweight/episodes#show-tab-picker)  
 I love this podcast. I listen to it whenever I need to feel that the world is actually a great place! What I particularly like is that the episodes all seem to start with something completely mundane, a silly problem that someone wants to solve, but always turn into something much more profound and life-affirming.
   - Genre: not sure factual storytelling?
   - Length: 35-60 minutes
@@ -82,7 +82,7 @@ This is quite a UK-based podcast, but builds on the writer Reni Eddo-Lodge's boo
   - Genre: factual
   - Episode length: 20-30 mins
   - Good starter episodes: start at #1 and work through, otherwise some parts won't make sense.
-- [Radiolab](https://radiolab.org)
+- [Radiolab](https://radiolab.org)  
 One of my all-time favourite podcasts! I listen when I want to feel a sense of wonder. I like that they can explain complex topics in such a way that you end up feeling like you really know a lot about them, and could describe them to friends. So many of these episodes have continued to linger in my mind after I stopped listening.
   - Genre: factual, mostly science-based
   - Length: 20-60 minutes
@@ -90,8 +90,8 @@ One of my all-time favourite podcasts! I listen when I want to feel a sense of w
     - [Unravelling Bolero](https://www.wnycstudios.org/podcasts/radiolab/articles/unraveling-bolero) – the unexpected connections between a piece of music, repetitive art, and a deadly disease.
     - [From Tree to Shining Tree](https://www.wnycstudios.org/podcasts/radiolab/articles/from-tree-to-shining-tree) – this one blew my mind. A communication layer between trees!
     - [The Other Latif](https://www.wnycstudios.org/podcasts/radiolab/articles/other-latif-episode-1) mini-series: a history of Guantanamo Bay through the story of one inmate.
-- [Reply All](https://gimletmedia.com/shows/reply-all)
-A show predominantly about technology, but sometimes about weird and interesting subcultures.
+- [Reply All](https://gimletmedia.com/shows/reply-all)  
+A show predominantly about technology, but sometimes about weird and interesting subcultures.  
 Sometimes the podcast is conversational, and sometimes it's investigative journalism, and sometimes both. The part of me that likes this show is the same part that gets lost on Wikipedia for hours reading about bizarre conspiracy theories.
   - Genre: investigative journalism, usually technology-based
   - Length: 30-60 minutes
