@@ -1,16 +1,23 @@
 ---
 layout: page
-title: Podcast
-permalink: /podcast/
-nav_order: 4
-has_children: true
+title: W01E01 Freewriting
+parent: Podcast
+has_children: false
 ---
 
+
+# Week 1 Episode 1: Freewriting
+
 [![](/assets/parallel-worlds-cover.png)](https://anchor.fm/olliepalmer)
+<iframe iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-1-Freewriting-ebua3i/a-a1p671f" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-## Podcast
 
-We now have a podcast! Full descriptions and transcripts of each extended podcast coming soon. In the meantime, you can subscribe via nearly all of the main podcast channels [here](https://anchor.fm/olliepalmer), and leave a voice message for the show [here](https://anchor.fm/olliepalmer/message) (contributions may be used in future episodes).
+## Exercises
+
+Two 5-minute free-writing exercises. Write on a blank piece of paper, in whatever language you feel most comfortable with, about:
+
+- Your daily life
+- "Stuck"
 
 ### Subscribe
 
@@ -20,3 +27,5 @@ We now have a podcast! Full descriptions and transcripts of each extended podcas
 - [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K)
 - [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM)
 - [Breaker](https://www.breaker.audio/parallel-worlds)
+
+[Send a voice message!](https://anchor.fm/olliepalmer/message)
