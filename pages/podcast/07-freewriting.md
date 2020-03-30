@@ -9,7 +9,7 @@ has_children: false
 # Episode 7: Exercises
 
 [![](/assets/parallel-worlds-cover.png)](https://anchor.fm/olliepalmer)
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Counterfactuals-ebvvhb/a-a1pfeeq" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-2-Episode-1-Exercises-ec53uf/a-a1qbsga" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
 
