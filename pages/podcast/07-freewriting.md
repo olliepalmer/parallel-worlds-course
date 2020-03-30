@@ -41,12 +41,12 @@ So, welcome. Welcome to Parallel Worlds.
 
 As you know we’re on a journey, a journey together.
 
-```[digetic sound stops suddenly]
-```
+```[digetic sound stops suddenly]```
+
 See what I did there? A journey?
 
-```[the sound of a bus continues again]
-```
+```[the sound of a bus continues again]```
+
 And we’re working towards a project about Wanderlust, working in parallel between reality, your daily life, work, your artistic or design practice, and fictional worlds, an imagined place which you’re building.
 
 I am here to guide you, maybe to point out a couple of things along the way, but what you’ll see on the journey is up to you.
