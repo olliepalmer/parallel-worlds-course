@@ -13,10 +13,9 @@ has_children: false
 
 ## Transcript
 
-[Digetic sounds of a bus]
+```[Digetic sounds of a bus]```
 
 Hello.
-
 
 Hi.
 
@@ -42,12 +41,12 @@ So, welcome. Welcome to Parallel Worlds.
 
 As you know we’re on a journey, a journey together.
 
-[digetic sound stops suddenly]
-
+```[digetic sound stops suddenly]
+```
 See what I did there? A journey?
 
-[the sound of a bus continues again]
-
+```[the sound of a bus continues again]
+```
 And we’re working towards a project about Wanderlust, working in parallel between reality, your daily life, work, your artistic or design practice, and fictional worlds, an imagined place which you’re building.
 
 I am here to guide you, maybe to point out a couple of things along the way, but what you’ll see on the journey is up to you.
@@ -66,7 +65,7 @@ So, let’s focus on the tasks we have to do today.
 
 First up, this is a normal writing task, the same as you’ve done for the past week already. If you look under your seat, you’ll find a pair of noise-cancelling headphones. I’d like you to put them on.
 
-Excuse me, yes, you, yes, they go on your head. Here, put this bit here [right audio channel disappears], and this bit here [left audio channel disappears].
+Excuse me, yes, you, yes, they go on your head. Here, put this bit here ```[right audio channel disappears]```, and this bit here ```[left audio channel disappears]```.
 
 How’s that?
 
@@ -77,9 +76,9 @@ You’ll have five minutes to write whatever you like, in whatever language you 
 Are you ready? Then let’s write!
 
 
-[5 minutes]
+```[5 minutes]```
 
-[sound]
+```[sound]```
 
 Welcome back! How was that? Did you manage to keep writing the whole time? Did you hit a blank? Anything unexpected? What voice is coming through these bits of writing? Is that what you expected? Does it feel like you are writing, or someone else is?
 
@@ -97,7 +96,7 @@ So, please pause the podcast, and record a five-minute tourist guide to your imm
 
 I’ll meet you back here when you’re done. Now go!
 
-[...]
+```[...]```
 
 Welcome back, welcome back to the bus.
 
