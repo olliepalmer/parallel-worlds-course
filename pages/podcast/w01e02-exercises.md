@@ -1,15 +1,14 @@
 ---
 layout: page
-title: W01E05 Freewriting
+title: W01E02 Freewriting
 parent: Podcast
 has_children: false
 ---
 
 
-# Episode 5: Freewriting
+# Week 01 Episode 02: Exercises
 
-[![](/assets/parallel-worlds-cover.png)](https://anchor.fm/olliepalmer)
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-5-Freewriting-ebuc46" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-2-Freewriting-ebuahi/a-a1p69v5" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ### Subscribe
 

@@ -1,14 +1,23 @@
 ---
 layout: page
-title: W01E02 Freewriting
+title: W01E01 Freewriting
 parent: Podcast
 has_children: false
 ---
 
 
-## Week 1 Episode 2: Freewriting
+# Week 01 Episode 01: Exercises
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-2-Freewriting-ebuahi/a-a1p69v5" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+[![](/assets/parallel-worlds-cover.png)](https://anchor.fm/olliepalmer)
+<iframe iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-1-Freewriting-ebua3i/a-a1p671f" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+
+## Exercises
+
+Two 5-minute free-writing exercises. Write on a blank piece of paper, in whatever language you feel most comfortable with, about:
+
+- Your daily life
+- "Stuck"
 
 ### Subscribe
 

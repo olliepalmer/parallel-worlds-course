@@ -6,7 +6,7 @@ has_children: false
 ---
 
 
-# Episode 7: Exercises
+# Week 02 Episode 01: Exercises
 
 [![](/assets/parallel-worlds-cover.png)](https://anchor.fm/olliepalmer)
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-2-Episode-1-Exercises-ec53uf/a-a1qbsga" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
@@ -109,6 +109,17 @@ So I’d like you to record the sounds of your daily life. What does it sound li
 But try to capture the sounds that make up your day. Listen back to them. If the recording is bad, just think – hey, I can do better tomorrow! If you want to send me some of your daily sounds, you can also record them on a voicemail, link in the show notes!
 
 That is it for today. I hope you enjoyed this little journey. I look forward to hearing your sounds.
+
+## Exercises
+
+### Today’s writing exercise
+
+- 5-minute free write about life and surroundings at the moment
+
+### Today’s audio exercise
+
+- A tour around your immediate surroundings as if you’re a tour guide
+
 
 
 ## Further Reading

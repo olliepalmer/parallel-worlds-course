@@ -6,7 +6,8 @@ has_children: false
 ---
 
 
-## Week 1 Episode 5: Freewriting
+# Week 01 Episode 04: Exercises
+
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-5-Freewriting-ebuc46/a-a1p6iu0" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ### Subscribe
