@@ -46,7 +46,6 @@ You don’t need expensive equipment to produce audio stories! Most production c
 
 ## Inspiration
 
-* *List of podcasts here?*
 
 - [Imaginary Advice](https://imaginaryadvice.com)  
 *Experiments in audio fiction by Ross Sutherland*  
