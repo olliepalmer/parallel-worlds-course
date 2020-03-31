@@ -41,11 +41,15 @@ So, welcome. Welcome to Parallel Worlds.
 
 As you know we’re on a journey, a journey together.
 
-```[digetic sound stops suddenly]```
+```
+[digetic sound stops suddenly]
+```
 
 See what I did there? A journey?
 
-```[the sound of a bus continues again]```
+```
+[the sound of a bus continues again]
+```
 
 And we’re working towards a project about Wanderlust, working in parallel between reality, your daily life, work, your artistic or design practice, and fictional worlds, an imagined place which you’re building.
 
@@ -76,9 +80,13 @@ You’ll have five minutes to write whatever you like, in whatever language you 
 Are you ready? Then let’s write!
 
 
-```[5 minutes]```
+```
+[5 minutes]
+```
 
-```[sound]```
+```
+[sound]
+```
 
 Welcome back! How was that? Did you manage to keep writing the whole time? Did you hit a blank? Anything unexpected? What voice is coming through these bits of writing? Is that what you expected? Does it feel like you are writing, or someone else is?
 
@@ -96,7 +104,9 @@ So, please pause the podcast, and record a five-minute tourist guide to your imm
 
 I’ll meet you back here when you’re done. Now go!
 
-```[...]```
+```
+[...]
+```
 
 Welcome back, welcome back to the bus.
 
@@ -109,6 +119,7 @@ So I’d like you to record the sounds of your daily life. What does it sound li
 But try to capture the sounds that make up your day. Listen back to them. If the recording is bad, just think – hey, I can do better tomorrow! If you want to send me some of your daily sounds, you can also record them on a voicemail, link in the show notes!
 
 That is it for today. I hope you enjoyed this little journey. I look forward to hearing your sounds.
+
 
 ## Exercises
 
