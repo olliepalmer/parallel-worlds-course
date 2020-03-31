@@ -8,7 +8,7 @@ has_children: false
 
 # Week 01 Episode 06: Counterfactuals
 
-[![](/assets/parallel-worlds-cover.png)](https://anchor.fm/olliepalmer)
+[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/Counterfactuals-ebvvhb/a-a1pfeeq" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript

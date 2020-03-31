@@ -6,7 +6,7 @@ nav_order: 4
 has_children: true
 ---
 
-[![](/assets/parallel-worlds-cover.png)](https://anchor.fm/olliepalmer)
+[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
 
 ## Podcast
 
