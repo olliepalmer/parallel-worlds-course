@@ -143,7 +143,9 @@ We do the same in art and design. We’re often told that creativity is a strang
 
 I wonder, as a design exercise, if you could think about the work you are most proud of, the work that in some way defines your practice, and try to run through a downward counterfactual of its creation. I think it’s quite hard to do! What might it have looked like, how might your life have been different if it hadn’t worked out the way it did?
 
-```-- pause --```
+```
+-- pause --
+```
 
 I actually find that thought quite a scary one to take on. I feel passionately about the work I do, and it’s hard to decouple the work from myself. But the exercise is kind of useful, in thinking about what the components and workflows are to my creative process. Thinking how the best bits happened before, and the consequences that could have occurred if they hadn’t been there, could help you to shape the circumstances for future success.
 
@@ -192,11 +194,6 @@ Coming soon! :)
 
 ### Subscribe
 
-- [RSS](https://anchor.fm/s/1884b008/podcast/rss)
-- [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz)
-- [PocketCasts](https://pca.st/ha20534r)
-- [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K)
-- [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM)
-- [Breaker](https://www.breaker.audio/parallel-worlds)
+[RSS](https://anchor.fm/s/1884b008/podcast/rss) / [Apple Podcasts](https://podcasts.apple.com/gb/podcast/parallel-worlds/id1504529134) / [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz) / [PocketCasts](https://pca.st/ha20534r) / [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODg0YjAwOC9wb2RjYXN0L3Jzcw%3D%3D) / [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K) / [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM) / [Breaker](https://www.breaker.audio/parallel-worlds)
 
-[Send a voice message!](https://anchor.fm/olliepalmer/message)
+_Want to contribute? [Send a voice message!](https://anchor.fm/olliepalmer/message)_

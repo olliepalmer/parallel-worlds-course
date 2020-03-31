@@ -6,9 +6,11 @@ has_children: false
 ---
 
 
-# Episode 1: Introduction
 
 [![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
+
+# Episode 0: Introduction
+
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/Introduction-ebsm8j/a-a1p5e2i" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 
@@ -30,7 +32,7 @@ With each part of the course, we will be thinking in parallel between the real w
 
 There are two types of podcast, long ones and short ones. The long ones are the equivalent of a lecture in class, an audio introduction to the topics we’ll be thinking about in class. I’ll use them to get across as much information as I can, so that you can use the ideas as a starting point to produce your own work. If you’re not in the school, please use them too!
 
-The short podcasts are daily activities for you to do. I want this course to fit around your life and daily routine, not to intrude upon it. I’ve modelled parts of this course on a podcast I enjoyed myself, the writer Tim Clare’s ‘Couch to 80k Bootcamp’ on the podcast ‘Death of 1000 Cuts’. Tim is a fantastic writing teacher, and I highly recommend his podcast if you have any inclination towards writing.
+The short podcasts are daily activities for you to do. I want this course to fit around your life and daily routine, not to intrude upon it. I’ve modelled parts of this course on a podcast I enjoyed myself, the writer Tim Clare’s ‘[Couch to 80k Bootcamp](http://www.timclarepoet.co.uk/couchto80kwritingbootcamp/)’ on the podcast ‘[Death of 1000 Cuts](https://soundcloud.com/timclare/tracks)’. Tim is a fantastic writing teacher, and I highly recommend his podcast if you have any inclination towards writing.
 
 One of the things Tim talks about is the idea of being ‘match-fit’. If you were, say, a boxer, you wouldn’t just jump in the ring for a big fight without practice. Or if you hadn’t run for a while, you’d be a fool to pop on some trainers and run a marathon. Instead, you’d train every day, bit bby nit improving your skills, dexterity, coordination, stamina, so that when the time came for the big push, you were ready.
 
@@ -40,7 +42,7 @@ In each podcast description, there will be a link to send me a voice message. I�
 
 Finally, I want to talk about the context of this course. I’m launching this podcast in the midst of the COVID-19 crisis. Our school is based in the Netherlands, and we are currently, like many other places around the world, in a lockdown. We’re all stuck at home. This course was originally meant to ask students to create parallel stories and worlds between real places in the real world – city centres – and fictional worlds. Since the start of this crisis, the course has had to change rapidly, switching to online learning. The exercises which were city-based are now going to be bedroom-based, and our fictional worlds are going to be created inside and around the rooms we’re confined to.
 
-This presents a strange paradox. Whilst our work is not taking place in public spaces, we will be distributing it online for the whole world to see, or at least hear.
+This presents a strange paradox. Whilst our work is not taking place _in_ public spaces, we will be distributing it online for the whole world to see, or at least hear.
 
 Which reminds me – there is one more type of podcast episode you’ll hear here: our students’ work. We’re going to publish the final projects students make for anyone to hear. These will be audio journeys that anyone can listen to from the comfort of their own room, which transport you to another place or a different perspective.
 
@@ -50,13 +52,13 @@ Before I go, I have one final thing to say, and that is that everything on this 
 
 Welcome to Parallel Worlds.
 
+## Links
+
+- I can't recommend Tim Clare's [Couch to 80k Bootcamp](http://www.timclarepoet.co.uk/couchto80kwritingbootcamp/) enough!
+
+
 ### Subscribe
 
-- [RSS](https://anchor.fm/s/1884b008/podcast/rss)
-- [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz)
-- [PocketCasts](https://pca.st/ha20534r)
-- [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K)
-- [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM)
-- [Breaker](https://www.breaker.audio/parallel-worlds)
+[RSS](https://anchor.fm/s/1884b008/podcast/rss) / [Apple Podcasts](https://podcasts.apple.com/gb/podcast/parallel-worlds/id1504529134) / [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz) / [PocketCasts](https://pca.st/ha20534r) / [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODg0YjAwOC9wb2RjYXN0L3Jzcw%3D%3D) / [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K) / [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM) / [Breaker](https://www.breaker.audio/parallel-worlds)
 
-[Send a voice message!](https://anchor.fm/olliepalmer/message)
+_Want to contribute? [Send a voice message!](https://anchor.fm/olliepalmer/message)_

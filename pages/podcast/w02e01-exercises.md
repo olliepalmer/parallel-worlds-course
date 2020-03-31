@@ -13,7 +13,9 @@ has_children: false
 
 ## Transcript
 
-```[Digetic sounds of a bus]```
+```
+[Digetic sounds of a bus]
+```
 
 Hello.
 
@@ -84,9 +86,11 @@ Are you ready? Then let’s write!
 [5 minutes]
 ```
 
+
 ```
 [sound]
 ```
+
 
 Welcome back! How was that? Did you manage to keep writing the whole time? Did you hit a blank? Anything unexpected? What voice is coming through these bits of writing? Is that what you expected? Does it feel like you are writing, or someone else is?
 
@@ -140,11 +144,6 @@ That is it for today. I hope you enjoyed this little journey. I look forward to 
 
 ### Subscribe
 
-- [RSS](https://anchor.fm/s/1884b008/podcast/rss)
-- [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz)
-- [PocketCasts](https://pca.st/ha20534r)
-- [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K)
-- [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM)
-- [Breaker](https://www.breaker.audio/parallel-worlds)
+[RSS](https://anchor.fm/s/1884b008/podcast/rss) / [Apple Podcasts](https://podcasts.apple.com/gb/podcast/parallel-worlds/id1504529134) / [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz) / [PocketCasts](https://pca.st/ha20534r) / [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODg0YjAwOC9wb2RjYXN0L3Jzcw%3D%3D) / [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K) / [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM) / [Breaker](https://www.breaker.audio/parallel-worlds)
 
-[Send a voice message!](https://anchor.fm/olliepalmer/message)
+_Want to contribute? [Send a voice message!](https://anchor.fm/olliepalmer/message)_

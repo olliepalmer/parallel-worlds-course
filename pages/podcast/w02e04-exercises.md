@@ -6,9 +6,11 @@ has_children: false
 ---
 
 
-# Week 02 Episode 04: Exercises
 
 [![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
+
+# Week 02 Episode 04: Exercises
+
 <!--<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-2-Episode-1-Exercises-ec53uf/a-a1qbsga" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>-->
 
 ## Transcript
@@ -60,11 +62,6 @@ I will be back tomorrow. I hope you have a nice day, or night.
 
 ### Subscribe
 
-- [RSS](https://anchor.fm/s/1884b008/podcast/rss)
-- [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz)
-- [PocketCasts](https://pca.st/ha20534r)
-- [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K)
-- [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM)
-- [Breaker](https://www.breaker.audio/parallel-worlds)
+[RSS](https://anchor.fm/s/1884b008/podcast/rss) / [Apple Podcasts](https://podcasts.apple.com/gb/podcast/parallel-worlds/id1504529134) / [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz) / [PocketCasts](https://pca.st/ha20534r) / [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODg0YjAwOC9wb2RjYXN0L3Jzcw%3D%3D) / [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K) / [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM) / [Breaker](https://www.breaker.audio/parallel-worlds)
 
-[Send a voice message!](https://anchor.fm/olliepalmer/message)
+_Want to contribute? [Send a voice message!](https://anchor.fm/olliepalmer/message)_

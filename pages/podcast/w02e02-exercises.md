@@ -6,9 +6,10 @@ has_children: false
 ---
 
 
+[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
+
 # Week 02 Episode 02: Exercises
 
-[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-2-Episode-1-Exercises-ec53uf/a-a1qk0l4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
@@ -21,13 +22,17 @@ The same rules as normal apply here - don’t police your writing, just let the 
 
 If it helps, you can record this part on your smartphone using the Voice Memo app, or write – it’s up to you.
 
-```5 mins```
+```
+5 mins
+```
 
 Great, now let’s do the same again, but this time I’d like you to write about your own artistic practice. How do you define yourself? What would you say to someone who’s never seen your work before? Feel free to record rather than write if this helps.
 
 You’ll have five minutes to do this, starting now.
 
-```5 mins```
+```
+5 mins
+```
 
 OK, now we’re going to jump into audio. How much do your surroundings reflect the artistic identity you just wrote about?
 
@@ -39,7 +44,9 @@ If you’re in the class at MIVC, you’ll be uploading this for your colleauges
 When you’re ready, pause this podcast and record your crime scene. Go!
 
 
-```pause```
+```
+pause
+```
 
 Welcome back. How was that? The final thing I’d like you to do today is to keep on recording the sounds of daily life. What does it sound like when you answer an email? When you take a shower? When you open the window? Be careful not to drop your phone down the toilet or anything like that, but try to capture the sounds of life happening to you.
 
@@ -62,11 +69,6 @@ Welcome back. How was that? The final thing I’d like you to do today is to kee
 
 ### Subscribe
 
-- [RSS](https://anchor.fm/s/1884b008/podcast/rss)
-- [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz)
-- [PocketCasts](https://pca.st/ha20534r)
-- [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K)
-- [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM)
-- [Breaker](https://www.breaker.audio/parallel-worlds)
+[RSS](https://anchor.fm/s/1884b008/podcast/rss) / [Apple Podcasts](https://podcasts.apple.com/gb/podcast/parallel-worlds/id1504529134) / [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz) / [PocketCasts](https://pca.st/ha20534r) / [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODg0YjAwOC9wb2RjYXN0L3Jzcw%3D%3D) / [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K) / [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM) / [Breaker](https://www.breaker.audio/parallel-worlds)
 
-[Send a voice message!](https://anchor.fm/olliepalmer/message)
+_Want to contribute? [Send a voice message!](https://anchor.fm/olliepalmer/message)_
