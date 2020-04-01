@@ -69,9 +69,9 @@ There will be activities, conversations, presentations, feedback, and group work
  <tr><td>03</td><td>13 Mar</td><td>Narratives, social objects</td></tr>
  <tr><td>04</td><td>20 Mar</td><td>Recalibration (in response to shutdown)</td></tr>
  <tr><td>05</td><td>27 Mar</td><td>Counterfactuals</td></tr>
- <tr><td>06</td><td>03 Apr</td><td>Narrative structures (with Sarah Lugthart)</td></tr>
+ <tr><td>06</td><td>03 Apr</td><td>Psyops, deception</td></tr>
  <tr><td style="background:#fc126861; color:#eee">--</td><td style="background:#fc126861; color:#eee">10 Apr</td><td style="background:#fc126861; color:#eee">no class</td></tr>
- <tr><td>07</td><td>17 Apr</td><td>Psyops, deception</td></tr>
+ <tr><td>07</td><td>17 Apr</td><td>Narrative structures (with Sarah Lugthart)</td></tr>
  <tr><td>08</td><td>24 Apr</td><td>Sound design and framing narratices</td></tr>
  <tr><td style="background:#fc126861; color:#eee">--</td><td style="background:#fc126861; color:#eee">01 May</td><td style="background:#fc126861; color:#eee">no class</td></tr>
  <tr><td>09</td><td>08 May</td><td>Your worlds (integrating w studio practice)</td></tr>
