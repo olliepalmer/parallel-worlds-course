@@ -46,6 +46,7 @@ You don’t need expensive equipment to produce audio stories! Most production c
 
 ## Inspiration
 
+Here are a list of some of the many podcasts that I enjoy, which you might also like to listen to!
 
 - [Imaginary Advice](https://imaginaryadvice.com)  
 *Experiments in audio fiction by Ross Sutherland*  
@@ -99,3 +100,9 @@ Sometimes the podcast is conversational, and sometimes it's investigative journa
     - [The Crime Machine](https://gimletmedia.com/shows/reply-all/76h967/127-the-crime-machine-part-i) - how the New York Police Department moved to algorithmic surveillance, detection, and policing, and the implications this has for residents.
     - [The Case of the Phantom Caller](https://gimletmedia.com/shows/reply-all/n8ho3a/104-the-case-of-the-phantom-caller) - a bizarre series of voicemails uncover a huge scam.
     - [The Cathedral](https://gimletmedia.com/shows/reply-all/6nh34m/50-the-cathedral) - tragic: listen if you want a good ol' cry.
+- [Death of 1000 Cuts](http://www.timclarepoet.co.uk/tag/death-of-1000-cuts/)  
+A great podcast by [Tim Clare](http://www.timclarepoet.co.uk) about writing. There is so much to recommend:
+  - If you want to write creatively in any genre, then the [Couch to 80k Bootcamp](http://www.timclarepoet.co.uk/couchto80kwritingbootcamp/) is a great place to start. It's a free 8-week course with a ten-minute exercise per day, which will give you plenty of ideas and techniques to hone your skills. Highly, highly recommended!
+  - Other episodes in later series are interviews with writers or people who can help with creativity. Tim is candid and honest about writing, and has great insights into the creative process and how it can integrate with our actual, lived lives. Good starter episodes:
+    - [Procrastination with Dr Tim Pychil](http://www.timclarepoet.co.uk/death-of-1000-cuts-season-2-episode-37-chatting-with-tim-pychyl/) – really interesting interview about the psychology of procrastination, including tips on how to avoid being a procrastinator.
+    - [Interview with Ross Sutherland](Death Of 1000 Cuts – Season 2 Episode 36 – Chatting With Ross Sutherland) – a conversation between Tim Clare, writer and host of this podcast, and Ross Sutherland, writer and host of Imaginary Advice (see above!).
