@@ -380,3 +380,7 @@ p.text-small.text-grey-dk-000.mb-0 a {
 p.text-small.text-grey-dk-000.mb-0 a:hover {
   color: white !important;
 }
+
+.search-results-wrap::placeholder {
+  color: pink;
+}
