@@ -65,23 +65,24 @@ There will be activities, conversations, presentations, feedback, and group work
 **New timetable**
 
 <table>
-<thead><tr><th style="background:#fc1268; color:white;  text-align: left;">Class</th><th style="background:#000; color:white;  text-align: left;">Date</th><th style="background:#000; color:white;  text-align: left;">Subject</th></tr></thead><tbody>
+<thead><tr><th style="background:#fc1268; color:white;  text-align: left;">Class</th><th style="background:#fc1268; color:white;  text-align: left;">Date</th><th style="background:#fc1268; color:white;  text-align: left;">Subject</th></tr></thead><tbody>
  <tr><td>01</td><td>14 Feb</td><td>Introduction</td></tr>
  <tr><td>02</td><td>21 Feb</td><td>Personal objects</td></tr>
- <tr><td style="background:#fc126861; color:#eee">--</td><td style="background:#fc126861; color:#eee">28 Feb</td><td style="background:#fc126861; color:#eee">no class</td></tr>
- <tr><td style="background:#fc126861; color:#eee">--</td><td style="background:#fc126861; color:#eee">06 Mar</td><td style="background:#fc126861; color:#eee">class cancelled (illness)</td></tr>
+ <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">28 Feb</td><td style="background:#fc126861; color:#fff">no class</td></tr>
+ <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">06 Mar</td><td style="background:#fc126861; color:#fff">class cancelled (illness)</td></tr>
  <tr><td>03</td><td>13 Mar</td><td>Narratives, social objects</td></tr>
  <tr><td>04</td><td>20 Mar</td><td>Recalibration (in response to shutdown)</td></tr>
  <tr><td>05</td><td>27 Mar</td><td>Counterfactuals</td></tr>
- <tr><td>06</td><td>03 Apr</td><td>Narrative structures (with Sarah Lugthart)</td></tr>
- <tr><td style="background:#fc126861; color:#eee">--</td><td style="background:#fc126861; color:#eee">10 Apr</td><td style="background:#fc126861; color:#eee">no class</td></tr>
- <tr><td>07</td><td>17 Apr</td><td>Psyops, deception</td></tr>
+ <tr><td>06</td><td>03 Apr</td><td>Psyops, deception</td></tr>
+ <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">10 Apr</td><td style="background:#fc126861; color:#fff">no class</td></tr>
+ <tr><td>07</td><td>17 Apr</td><td>Narrative structures (with Sarah Lugthart)</td></tr>
  <tr><td>08</td><td>24 Apr</td><td>Sound design and framing narratices</td></tr>
- <tr><td style="background:#fc126861; color:#eee">--</td><td style="background:#fc126861; color:#eee">01 May</td><td style="background:#fc126861; color:#eee">no class</td></tr>
+ <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">01 May</td><td style="background:#fc126861; color:#fff">no class</td></tr>
  <tr><td>09</td><td>08 May</td><td>Your worlds (integrating w studio practice)</td></tr>
  <tr><td>10</td><td>15 May</td><td>Tutorials</td></tr>
- <tr><td style="background:#fc126861; color:#eee">--</td><td style="background:#fc126861; color:#eee">22 May</td><td style="background:#fc126861; color:#eee">no class</td></tr>
+ <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">22 May</td><td style="background:#fc126861; color:#fff">no class</td></tr>
  <tr><td style="background:#fc1268; color:white">--</td><td style="background:#fc1268; color:white">29 May</td><td style="background:#fc1268; color:white">Assessment</td></tr>
+ <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">Early June</td><td style="background:#fc126861; color:#fff">Student projects published on podcast</td></tr>
 </tbody></table>
 
 
