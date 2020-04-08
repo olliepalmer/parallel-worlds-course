@@ -45,13 +45,14 @@ The course will be performed in public: the syllabus and assignments will be mad
 
 A new podcast episode, with 15-20 minutes' writing and world-building exercises, is released every weekday during term-time. A longer podcast is released once a week, with issues that will be discussed in class.
 
-<strike>MIVC students meet on Fridays from 14.00-17.00in the Situation Room on the first floor of the Masters Institute. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance.</strike>
 
 **Please note there are changes due to the coronavirus crisis**
 
-We meet online once a week on Fridays between 14.00-17.00 CET (check with your time zone [here](https://www.worldtimebuddy.com/?pl=1&lid=2759794&h=2759794)). These classes are a place to discuss the work you've done this week, set collective agendas and goals, and have tutorials. Normally, failure to attend 2 classes, or the assessment at the end of the course is grounds for failing the course (with the exception of emergencies). However, since shifting to online tuition for this course, we realise that not everyone has equal access to technology, bandwidth, and may have other commitments in the current climate – no penalty will be imposed if you can't attend classes. Just let me know if you need extra tuition or help. :)
-
 The total time allocated for a 3EC course is 84 hours. This means that in addition to attending classes, you are also expected to carry out around 4-5 hours’ work on your assignments outside of class time.
+
+<strike>MIVC students meet on Fridays from 14.00-17.00in the Situation Room on the first floor of the Masters Institute. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance.</strike>
+
+We meet online once a week on Fridays between 14.00-17.00 CET (check with your time zone [here](https://www.worldtimebuddy.com/?pl=1&lid=2759794&h=2759794)). These classes are a place to discuss the work you've done this week, set collective agendas and goals, and have tutorials. In normal circumstances, failure to attend 2 classes or the assessment at the end of the course is grounds for failing the course (with the exception of emergencies). However, since shifting to online tuition for this course, I realise that not everyone has equal access to technology, bandwidth, and may have other commitments. Consequently, no penalty will be imposed if you can't attend classes. Please do let me know if you need extra tuition or help – just email [om.palmer@avans.nl](mailto:om.palmer@avans.nl).
 
 There will be activities, conversations, presentations, feedback, and group work in class. Please try to engage with these activities as fully as possible. If for any reason you feel uncomfortable with any of these activities please let your tutor know.
 
