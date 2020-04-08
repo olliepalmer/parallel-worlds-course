@@ -76,7 +76,7 @@ There will be activities, conversations, presentations, feedback, and group work
  <tr><td>06</td><td>03 Apr</td><td>Psyops, deception</td></tr>
  <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">10 Apr</td><td style="background:#fc126861; color:#fff">no class</td></tr>
  <tr><td>07</td><td>17 Apr</td><td>Narrative structures (with Sarah Lugthart)</td></tr>
- <tr><td>08</td><td>24 Apr</td><td>Sound design and framing narratices</td></tr>
+ <tr><td>08</td><td>24 Apr</td><td>Sound design and framing narratives</td></tr>
  <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">01 May</td><td style="background:#fc126861; color:#fff">no class</td></tr>
  <tr><td>09</td><td>08 May</td><td>Your worlds (integrating w studio practice)</td></tr>
  <tr><td>10</td><td>15 May</td><td>Tutorials</td></tr>
