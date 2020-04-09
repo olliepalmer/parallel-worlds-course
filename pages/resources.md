@@ -7,6 +7,8 @@ nav_order: 5
 ---
 
 # Resources
+{: .no_toc}
+
 
 ### Table of contents
 {: .no_toc}
@@ -44,11 +46,11 @@ You don’t need expensive equipment to produce audio stories! Most production c
 
 - [Anchor.fm](https://anchor.fm) - if you want to publish your work as a podcast, this is an easy-to-use publishing platform. It can put your podcast online and instantly send it to all of the major podcast publishers (Apple, Spotify, etc). It’s also easy to set up the artwork and the description, etc.
 
-## Inspiration
+# Inspiration
 
 Here are a list of some of the many podcasts that I enjoy, which you might also like to listen to!
 
-### [Imaginary Advice](https://imaginaryadvice.com)  
+## [Imaginary Advice](https://imaginaryadvice.com)  
 
 *Experiments in audio fiction by Ross Sutherland*  
 
@@ -61,7 +63,7 @@ Ross is one of my favourite writers, and over the past 5 years he has used podca
   - [Tony Gang Flame War](https://soundcloud.com/ross-sutherland/63-tony-gang-flame-war-5th-birthday-episode) (a Jackie Chan film framed as a memoir)
   - [Black Eye](https://soundcloud.com/ross-sutherland/67-black-eye-w-abi-palmer) (an audio odyssey based on a book from the 1600s; incredible production)
 
-### [99 Percent Invisible](https://99pi.org)
+## [99 Percent Invisible](https://99pi.org)
 
 This is a podcast about design, hosted by Roman Mars. Each week it focuses on a different aspect of the built environment, and explores something in design you might not have considered before. Episodes are generally 15-30 minutes long, and the supplementary materials on their website are quite good if you want further reading.
 I listen to this podcast whenever I'm in a curious mood – just selecting an episode at random from the archive always brings up something useful.
@@ -74,7 +76,7 @@ I listen to this podcast whenever I'm in a curious mood – just selecting an ep
   - [Kowloon walled city](https://99percentinvisible.org/episode/episode-66-kowloon-walled-city/)
   - [Separation anxiety](https://99percentinvisible.org/episode/separation-anxiety/)
 
-### [Heavyweight](https://gimletmedia.com/shows/heavyweight/episodes#show-tab-picker)  
+## [Heavyweight](https://gimletmedia.com/shows/heavyweight/episodes#show-tab-picker)  
 
 I love this podcast. I listen to it whenever I need to feel that the world is actually a great place! What I particularly like is that the episodes all seem to start with something completely mundane, a silly problem that someone wants to solve, but always turn into something much more profound and life-affirming.
 
@@ -85,14 +87,14 @@ I love this podcast. I listen to it whenever I need to feel that the world is ac
   - [Dr. Muller](https://gimletmedia.com/shows/heavyweight/gmhr53/28-dr-muller)
   - [Scott](https://gimletmedia.com/shows/heavyweight/j4h646/27-scott)
 
-### [About Race](https://www.aboutracepodcast.com/)
+## [About Race](https://www.aboutracepodcast.com/)
 
 This is quite a UK-based podcast, but builds on the writer Reni Eddo-Lodge's book[ Why I'm No Longer Talking to White People About Race](http://renieddolodge.co.uk/books/). It tells the story of racism in the UK, questioning the myth that the British live in a post-racial society. I learnt so much listening to this series.
   - Genre: factual
   - Episode length: 20-30 mins
   - Good starter episodes: start at #1 and work through, otherwise some parts won't make sense.
 
-### [Radiolab](https://radiolab.org)  
+## [Radiolab](https://radiolab.org)  
 
 One of my all-time favourite podcasts! I listen when I want to feel a sense of wonder. I like that they can explain complex topics in such a way that you end up feeling like you really know a lot about them, and could describe them to friends. So many of these episodes have continued to linger in my mind after I stopped listening.
 
@@ -103,7 +105,8 @@ One of my all-time favourite podcasts! I listen when I want to feel a sense of w
     - [From Tree to Shining Tree](https://www.wnycstudios.org/podcasts/radiolab/articles/from-tree-to-shining-tree) – this one blew my mind. A communication layer between trees!
     - [The Other Latif](https://www.wnycstudios.org/podcasts/radiolab/articles/other-latif-episode-1) mini-series: a history of Guantanamo Bay through the story of one inmate.
 
-### [Reply All](https://gimletmedia.com/shows/reply-all)  
+## [Reply All](https://gimletmedia.com/shows/reply-all)  
+
 A show predominantly about technology, but sometimes about weird and interesting subcultures.  
 Sometimes the podcast is conversational, and sometimes it's investigative journalism, and sometimes both. The part of me that likes this show is the same part that gets lost on Wikipedia for hours reading about bizarre conspiracy theories.
 
@@ -115,7 +118,7 @@ Sometimes the podcast is conversational, and sometimes it's investigative journa
   - [The Case of the Phantom Caller](https://gimletmedia.com/shows/reply-all/n8ho3a/104-the-case-of-the-phantom-caller) - a bizarre series of voicemails uncover a huge scam.
   - [The Cathedral](https://gimletmedia.com/shows/reply-all/6nh34m/50-the-cathedral) - tragic: listen if you want to be reminded how precious life is (and maybe have a good ol' cry).
 
-### [Death of 1000 Cuts](http://www.timclarepoet.co.uk/tag/death-of-1000-cuts/)  
+## [Death of 1000 Cuts](http://www.timclarepoet.co.uk/tag/death-of-1000-cuts/)  
 
 A great podcast by [Tim Clare](http://www.timclarepoet.co.uk) about writing. There is so much to recommend:
 
@@ -124,7 +127,7 @@ A great podcast by [Tim Clare](http://www.timclarepoet.co.uk) about writing. The
   - [Procrastination with Dr Tim Pychil](http://www.timclarepoet.co.uk/death-of-1000-cuts-season-2-episode-37-chatting-with-tim-pychyl/) – really interesting interview about the psychology of procrastination, including tips on how to avoid being a procrastinator.
   - [Interview with Ross Sutherland](Death Of 1000 Cuts – Season 2 Episode 36 – Chatting With Ross Sutherland) – a conversation between Tim Clare, writer and host of this podcast, and Ross Sutherland, writer and host of Imaginary Advice (see above!).
 
-### [This American Life](https://thisamericanlife.org)  
+## [This American Life](https://thisamericanlife.org)
 
 One of the grand-daddies of podcasts – the podcast that got a whole generation addicted to podcasts. This American Life has been broadcasting since 1995, and the podcast version now boasts 3.6 million listeners a week (in addition to the 2.2 million who listen to it on the radio). The format varies slightly each week, but generally the hour-long show starts with the host Ira Glass introducing a theme, then bringing 3-4 stories on that theme. Occasionally there’ll be just one in-depth story. This American Life is a great show because it has a breadth of content and subjects, and a back-catalogue of hundreds of episodes. It also frequently features contributions from great writers and broadcasters like [Jon Ronson](https://www.thisamericanlife.org/archive?keyword=jon%20ronson) and [David Sedaris](https://www.thisamericanlife.org/archive?keyword=david%20sedaris). Personally, I find it annoying when they feature fiction stories; the journalism and essays are what I listen for.
 
