@@ -7,11 +7,12 @@ has_children: false
 
 
 
-[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
 
 # Week 02 Episode 05: Exercises
 
-<!--<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-2-Episode-1-Exercises-ec53uf/a-a1qbsga" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>-->
+## Listen
+
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-2-Episode-5-Exercises-ec6lou/a-a1qk9t6" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
 

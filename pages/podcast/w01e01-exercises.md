@@ -8,7 +8,8 @@ has_children: false
 
 # Week 01 Episode 01: Exercises
 
-[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
+## Listen
+
 <iframe iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-1-Freewriting-ebua3i/a-a1p671f" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 

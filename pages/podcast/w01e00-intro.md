@@ -7,9 +7,11 @@ has_children: false
 
 
 
-[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
 
 # Episode 0: Introduction
+
+
+## Listen
 
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/Introduction-ebsm8j/a-a1p5e2i" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 

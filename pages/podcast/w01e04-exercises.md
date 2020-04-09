@@ -7,11 +7,12 @@ has_children: false
 
 
 
-[![](/assets/parallel-worlds-cover.svg)](https://anchor.fm/olliepalmer)
 
 # Week 01 Episode 04: Exercises
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-5-Freewriting-ebuc46/a-a1p6iu0" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+## Listen
+
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-1-Episode-4-Freewriting-ebubvn/a-a1p6hpo" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Exercises
 
