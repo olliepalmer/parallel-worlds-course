@@ -10,11 +10,16 @@ has_children: true
 
 ## Podcast
 
-We now have a podcast! Full descriptions and transcripts of each extended podcast can be found here, and every exercise . In the meantime, you can subscribe via nearly all of the main podcast channels [here](https://anchor.fm/olliepalmer), and leave a voice message for the show [here](https://anchor.fm/olliepalmer/message) (contributions may be used in future episodes).
+We now have a podcast! This means anybody, anywhere in the world can follow this course at their own pace. There's a new podcast episode every day of our term.
+
+Full descriptions and transcripts of each podcast episode can be found on this website, along with all of the exercises on the short episodes. There's a new episode every day of our term with exercises to do, which build towards our final assignment (a parallel audio journey).
+
+
+You can subscribe via nearly all of the main podcast channels [here](https://anchor.fm/olliepalmer), and leave a voice message for the show [here](https://anchor.fm/olliepalmer/message) (contributions may be used in future episodes).
 
 There are two types of podcast episode:
 
-**Long episodes***
+***Long episodes***
 
 These introduce a topic or idea, the equivalent of a lecture or talk in class. They're about 20-40 minutes long, and introduce a field or set of ideas like a spoken essay. There is one long episode per class.
 
