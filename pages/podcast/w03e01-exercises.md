@@ -14,9 +14,9 @@ has_children: false
 1. TOC
 {:toc}
 
-<!--## Listen
+## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-2-Episode-5-Exercises-ec6lou/a-a1qk9t6" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>-->
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-3-Episode-1-Exercises-ecn13s" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
 
