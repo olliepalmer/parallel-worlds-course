@@ -68,7 +68,7 @@ Thanks for listening, I’ll be back tomorrow.
 
 
 ## Further reading
-- This American Life, the one with an artist with a deceptive origin story ???
+<!-- This American Life, the one with an artist with a deceptive origin story ???-->
 - No Direction Home (film; 2005, dir. Martin Scorcese). Film focusing on Bob Dylan’s career from his arrival in New York City in 1961 until his near-death motorbike crash in 1966. In the film, numerous people describe the fictional origin stories he presented early on in his career.
 - Grayson Perry, ‘Nice Rebellion, Welcome In!’, lecture 3 of 4 in the Reith Lectures '[Welcome to the Gallery](https://www.bbc.co.uk/programmes/b03969vt)', 2013. Audio and transcript available on the [BBC Website](https://www.bbc.co.uk/programmes/b03f9bg7)
 
