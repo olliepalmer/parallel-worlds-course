@@ -8,7 +8,7 @@ has_children: false
 
 
 
-# Week 02 Episode 05: Exercises
+# Week 03 Episode 01: Exercises
 
 <!--## Listen
 
