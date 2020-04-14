@@ -7,6 +7,10 @@ has_children: false
 
 
 # Week 01 Episode 05: Exercises
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Listen
 

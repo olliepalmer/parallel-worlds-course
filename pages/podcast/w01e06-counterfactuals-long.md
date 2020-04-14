@@ -8,6 +8,10 @@ has_children: false
 
 
 # Week 01 Episode 06: Counterfactuals
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Listen
 
