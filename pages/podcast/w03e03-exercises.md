@@ -1,6 +1,6 @@
 ---
 layout: page
-title: W03E02 Exercises
+title: W03E03 Exercises
 parent: Podcast
 has_children: false
 ---
