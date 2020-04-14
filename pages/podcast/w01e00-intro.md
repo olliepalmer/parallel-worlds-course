@@ -7,13 +7,11 @@ has_children: false
 
 
 
-
-# Episode 0: Introduction
-{: .no_toc}
-
 1. TOC
 {:toc}
 
+# Episode 0: Introduction
+{: .no_toc}
 
 ## Listen
 
