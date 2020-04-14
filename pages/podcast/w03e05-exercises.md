@@ -68,6 +68,7 @@ Once you’re done, listen to the original sound, the sound you recorded yesterd
 
 - "[Rain is sizzling bacon, cars are lions roaring: the art of sound in movies](https://www.theguardian.com/film/2015/jul/22/rain-is-sizzling-bacon-cars-lions-roaring-art-of-sound-in-movies)" by Jordan Kisner, _The Guardian_, 2015. An excellent article giving an overview of the foley artist Skip Lievsay's working process. You can read it [here](https://www.theguardian.com/film/2015/jul/22/rain-is-sizzling-bacon-cars-lions-roaring-art-of-sound-in-movies), or listen to it as a podcast [here](https://www.theguardian.com/news/audio/2015/aug/07/coenbrothers-martinscorsese).
 - Even nature documentaries use Foley! Listen to "[Sounds Natural](https://99percentinvisible.org/episode/sounds-natural/)" on [99% Invisible](https://99pi.org), produced by Emmet FitzGerald, 2017.
+- ...or you can read about this (and watch clips) on the [BBC's Nature website](http://www.bbc.com/earth/story/20160314-sounds-of-nature-for-wildlife-films).
 
 
 ## Subscribe

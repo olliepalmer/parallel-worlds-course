@@ -16,13 +16,11 @@ has_children: false
 {:toc}
 
 
-<!--## Listen
+## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-3-Episode-2-Exercises-ecp2ue" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>-->
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-3-Episode-2-Exercises-ecp2ue/a-a1ucchl" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
-
-Script
 
 Hi and welcome back to Parallel Worlds. Please note today’s tasks will involve some sound editing, and you’ll need to use a device that you can edit multi-track audio on. This could be a phone – if you’re using an iPhone, GarageBand is a free app that can edit audio – or you could use a computer. The programme Audacity is free and quite easy to use. There’s a list of programmes that you can use on the [resources page](/resources) of the website, at [parallel.olliepalmer.com](/resources). But today is the day when we’re moving into the world of audio production.
 
