@@ -16,9 +16,6 @@ has_children: false
 {:toc}
 
 
-## Listen
-
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-3-Episode-2-Exercises-ecp2ue/a-a1ucchl" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
 
