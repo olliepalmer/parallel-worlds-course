@@ -26,7 +26,7 @@ This week, I speak to [Sarah Lugthart](https://www.akvstjoostmasters.nl/communit
 
 This is delayed due to coronavirus limitations (I'm at very low time-capacity at the moment, sorry!).
 
-## Works we discuss in this episodes
+## Works we discuss in this episode
 
 - [Duncan Speakman](https://duncanspeakman.net), various sound walks and works (highly recommended!)
 - [Secret Cinema presents: Brazil](https://www.youtube.com/watch?v=MS4cX-lAC6k), 2013.
