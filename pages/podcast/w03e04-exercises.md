@@ -16,9 +16,9 @@ has_children: false
 {:toc}
 
 
-<!--## Listen
+## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-3-Episode-2-Exercises-ecp2ue" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>-->
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-3-Episode-4-Exercises-ecpgel" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Transcript
 
