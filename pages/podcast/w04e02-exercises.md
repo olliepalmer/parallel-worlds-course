@@ -6,6 +6,13 @@ has_children: false
 ---
 
 # Week 04 Episode 02: List of things
+{: .no_toc}
+
+### Table of contents
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Listen
 
