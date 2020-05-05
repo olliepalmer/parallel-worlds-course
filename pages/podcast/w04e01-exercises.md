@@ -62,8 +62,7 @@ So, here is Six House Parties, with kind permission of Ross Sutherland. I will b
 <the audio story Six House Parties by Ross Sutherland>
 ```
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219788959&color=%23fc1268&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></iframe>
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219788959&color=fc1268"></iframe>
 
 Hi and welcome back. I hope you enjoyed that story as much as I did – please do consider subscribing to Imaginary Advice, it’s a great podcast with a whole new world every month.
 

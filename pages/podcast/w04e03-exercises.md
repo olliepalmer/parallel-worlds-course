@@ -170,4 +170,4 @@ Thanks for sticking with me to the end – I will be back tomorrow. See you then
 ## Exercises
 
 - Free-write / record / draw / reflection on the here and now. (5 minutes)
-- Combining two concepts (from [yesterday’s exercise](/pages/podcast/w04e01-exercises.html#exercises)) and one context (from [Week 2, Episode 5](/pages/podcast/w02e05-exercises.html)) into a new synposis or story
+- Combining two concepts (from [yesterday’s exercise](/pages/podcast/w04e01-exercises.html#exercises)) and one context (from [Week 2, Episode 5](pages/podcast/w02e05-exercises.html#exercises)) into a new synposis or story
