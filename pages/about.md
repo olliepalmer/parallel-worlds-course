@@ -113,9 +113,60 @@ If you feel like your performance in the class is being impacted by your experie
 
 ## Assessment criteria
 
-Assessment criteria for the final examination will be announced in due time for you to prepare for the assessment itself (29 May). The criteria will be in line with the other elective modules in the Master Institute; after the assessment you will be given a pass/fail grade, and written feedback.
+You will be graded on three elements:
 
-The class before assessment is dedicated to 1:1 (and if applicable, group) tutorials to help you get the best out of the assessment.
+### Narrative audio work: 60% of final grade
+
+- Make a narrative audio work of 5-12 minutes’ length which includes elements of:
+  - your real, daily life and/or artistic practice
+  - a parallel, fictional world of your choosing
+- The role of this exercise is to enact the learnings of this course – the process of world-building and narrative writing – in one concise audio work.
+- The audio work can be real and/or fictionalised. It can use autobiography, fiction, found sounds, your own foley – whatever helps you to take the listener on a journey between two worlds.
+- It should carefully consider the emotional journey you wish for a listener to go through, using principles of ‘framing’ we have discussed in class.
+
+### Overview of process to reach narrative audio work: 20% of final grade
+
+- This work should help an audience ‘frame’ your work more.
+- Present a 2-4 minute overview of the narrative audio work, in audio/visual format. This can be a presentation, a pre-recorded video or audio file, a PDF, or another format of your choosing.
+- The role of this activity is to enable you to describe your process, and the work that you have put into your narrative audio work. It lets you add value to the work you have submitted through explanation of the elements which might otherwise be hidden
+- You can play elements of your narrative audio work and describe what they are and how they are made, or your thought process
+- This overview could be presented in several different ways, depending on your own preference, for example:
+  - An introduction to the work, like curators’ introductions to a gallery show
+  - A ‘behind the scenes’ expose of your working process
+  - A series of working notes
+  - Footnotes to subjects or themes in your work
+  - Et cetera
+- Use this presentation to _add value to the narrative audio work_, highlighting elements that you want listeners to hear.
+
+
+### Overview of creative processes from the course: 20% of final grade
+
+- Choose a small selection of the exercises you have completed in class, or through the class podcast. Present the exercises, and what you personally learnt from them, as if you are presenting to an audience who have never heard of them before.
+- The presentation should be 2-4 minutes long, and can use any audiovisual media you see fit, e.g. a presentation, a pre-recorded video or audio file, a PDF, or another format of your choosing.
+- This assessment allows you to demonstrate your understanding of activities within the course, and provides a place to reflect on your own personal practice.
+
+
+## Assessment procedure
+
+The course assessment is on Friday 29 May, with award-winning writer, film-maker and audio producer [Ross Sutherland](https://www.imaginaryadvice.com/) as external examiner, and [Ollie Palmer](https://olliepalmer.com) as internal examiner.
+
+You will be sent a Zoom link via email. Please download Zoom in advance and familiarise yourself with how to present a slideshow.
+
+Because video calls can be exhausting, the day will be split into four 40-60 minute presentation sessions. You are only expected to be present for the session you're in, but you're welcome to join us for the other sessions. Students are also encouraged to
+
+You have up to 10 minutes to present your work (see above), and up to 10 minutes for questions and answers. The examiners will have listened to your work in advance, but might play an excerpt of your work to discuss. You can also play extracts if it helps your presentation.
+
+### Deadlines
+
+- You must upload your narrative audio file [here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU) by **Tuesday 26 May 23:00 CEST**.
+- The file must be in ```.mp3```, ```.mp4```, or ```.wav``` format.
+- The file should be named ```yourname_audio-title.extension``` (so a story called 'now and then' made by Ollie Palmer would be ```olliepalmer_now-and-then.mp3```)
+
+- You must upload your presentations [here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k) by **Thursday 28 May 23:00 CEST**.
+- You can upload in ```PDF``` format, or ```PowerPoint```/```Keynote```.
+
+[Upload audio work here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU){: .btn } [Upload presentations here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k){: .btn } 
+
 
 
 
