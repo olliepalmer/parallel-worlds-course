@@ -131,7 +131,7 @@ The course assessment is on Friday 29 May, with award-winning writer, film-maker
 
 You will be sent a Zoom link via email. Please download Zoom in advance and familiarise yourself with how to present a slideshow.
 
-Because video calls can be exhausting, the day will be split into four 40-60 minute presentation sessions. You are only expected to be present for the session you're in, but you're welcome to join us for the other sessions. Students are also encouraged to
+Because video calls can be exhausting, the day will be split into four 40-60 minute presentation sessions. You are only expected to be present for the session you're in, but you're welcome to join us for the other sessions. Students are also encouraged to ask their colleagues questions about their work and methods.
 
 You have up to 10 minutes to present your work (see above), and up to 10 minutes for questions and answers. The examiners will have listened to your work in advance, but might play an excerpt of your work to discuss. You can also play extracts if it helps your presentation.
 
