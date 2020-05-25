@@ -92,27 +92,6 @@ There will be activities, conversations, presentations, feedback, and group work
 
 ## Marking
 
-Your work will be graded on 29th May 2020 by a panel consisting of your tutor and 1-2 other people. You will be awarded a grade according to the standard MIVC criteria for assessing work.
-
-
-------
-
-## Inclusivity
-
-This course is designed to further your creativity and allow you to explore new ideas, techniques, and concepts.
-
-In order to do this, we need to make sure that everybody feels able to express themselves in a safe environment. At AKV St Joost we embrace an atmosphere of creativity which is enriched and enhanced by diversity along a number of dimensions, including race, ethnicity and national origins, gender and gender identity, sexuality, class and religion. We are especially committed to increasing the representation of those populations which have historically been excluded from participation in Dutch higher education.
-
-It is critical that each class member show respect for all world-views expressed in class. If you feel that something said or done in class is troubling or has caused discomfort, please contact Ollie confidentially. If you would like to speak to someone outside of the classroom, please contact Study Coach [Rosie Heinrich](https://www.akvstjoostmasters.nl/community/tutors/rosie-heinrich).
-
-If you have a name or pronoun which differs from the one we have on record, please let me know. Like many people, I am still in the process of learning about diverse perspectives and identities, and am always eager to hear from students how I can improve in this respect.
-
-If you feel like your performance in the class is being impacted by your experiences outside of class, please speak to Ollie or Rosie. Ollie is also available for individual tutorials on Fridays outside of class for students across MIVC.
-
------
-
-## Assessment criteria
-
 You will be graded on three elements:
 
 ### Narrative audio work: 60% of final grade
@@ -146,7 +125,7 @@ You will be graded on three elements:
 - This assessment allows you to demonstrate your understanding of activities within the course, and provides a place to reflect on your own personal practice.
 
 
-## Assessment procedure
+## Assessment procedure
 
 The course assessment is on Friday 29 May, with award-winning writer, film-maker and audio producer [Ross Sutherland](https://www.imaginaryadvice.com/) as external examiner, and [Ollie Palmer](https://olliepalmer.com) as internal examiner.
 
@@ -165,7 +144,7 @@ You have up to 10 minutes to present your work (see above), and up to 10 minutes
 - You must upload your presentations [here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k) by **Thursday 28 May 23:00 CEST**.
 - You can upload in ```PDF``` format, or ```PowerPoint```/```Keynote```.
 
-[Upload audio work here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU){: .btn } [Upload presentations here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k){: .btn } 
+[Upload audio work here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU){: .btn } [Upload presentations here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k){: .btn }
 
 
 
