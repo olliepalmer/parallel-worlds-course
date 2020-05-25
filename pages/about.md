@@ -144,7 +144,7 @@ You have up to 10 minutes to present your work (see above), and up to 10 minutes
 - You must upload your presentations [here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k) by **Thursday 28 May 23:00 CEST**.
 - You can upload in ```PDF``` format, or ```PowerPoint```/```Keynote```.
 
-[Upload audio work here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU){: .btn } [Upload presentations here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k){: .btn }
+**[Upload audio work here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU)** | **[Upload presentations here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k)**
 
 
 
