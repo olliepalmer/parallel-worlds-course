@@ -5,7 +5,7 @@ parent: Podcast
 has_children: false
 ---
 
-# Week 05 Episode 05: Interview with Tim timclarepoet
+# Week 05 Episode 05: Interview with Tim Clare
 {: .no_toc}
 
 ### Table of contents
