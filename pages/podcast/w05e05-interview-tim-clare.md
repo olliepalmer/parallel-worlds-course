@@ -18,6 +18,9 @@ has_children: false
 
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/Week-5-Episode-5-Interview-with-Tim-Clare-ej8m84" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
+<iframe width="100%" height="195" src="https://plinkhq.com/i/1504529134?to=embed" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
+
 ## Links
 
 - Tim Clare's podcast [Death of 1000 Cuts](https://plinkhq.com/i/1101278771) (recommended for anyone who wants to write)
