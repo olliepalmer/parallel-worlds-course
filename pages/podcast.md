@@ -27,6 +27,7 @@ These introduce a topic or idea, the equivalent of a lecture or talk in class. T
 
 These are episodes filled with exercises that you can do every day, which build on the ideas presented in the long episodes. They should take 10-20 minutes to do and listen to. Episodes are released every weekday (but not during weeks when there is no class!).
 
+<iframe src="https://castbox.fm/app/castbox/player/id2710471?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
 
 
 ### Subscribe
