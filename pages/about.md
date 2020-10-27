@@ -16,7 +16,7 @@ has_children: false
 
 <div class='caption' markdown='1'>
 
-![Still from Synechdoche, New York, dir. Charlie Kaufman, 2008. © Copyright Sony Pictures Classics.](/assets/synechdoche.png)
+<div class="img-wrapper"><img src="/assets/synechdoche.png"></div>
 Still from [Synechdoche, New York](https://www.imdb.com/title/tt0383028/), dir. Charlie Kaufman, 2008. © Copyright Sony Pictures Classics.
 
 </div>
@@ -163,7 +163,8 @@ This course is taught by [Ollie Palmer](https://olliepalmer.com) - an artist, de
 
 <div class='caption' markdown='1'>
 
-![](/assets/olliepalmer.jpg)
+<div class="img-wrapper"><img src="/assets/olliepalmer.jpg"></div>
+
 [Ollie Palmer](https://olliepalmer.com) and performance/production team at [Nybble installation](https://olliepalmer.com/nybble), [V&A Museum](https://vam.ac.uk), 2013.
 
 </div>
