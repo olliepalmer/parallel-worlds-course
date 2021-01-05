@@ -16,7 +16,7 @@ has_children: false
 
 <div class='caption' markdown='1'>
 
-<div class="img-wrapper"><img src="/assets/synechdoche.png"></div>
+<div class="img-wrapper"><img src="/assets/synechdoche.jpg"></div>
 Still from [Synechdoche, New York](https://www.imdb.com/title/tt0383028/), dir. Charlie Kaufman, 2008. © Copyright Sony Pictures Classics.
 
 </div>
@@ -94,7 +94,9 @@ There will be activities, conversations, presentations, feedback, and group work
 
 You will be graded on three elements:
 
-### Narrative audio work: 60% of final grade
+### Narrative audio work
+
+Narrative audio work: 60% of final grade
 
 - Make a narrative audio work of 5-12 minutes’ length which includes elements of:
   - your real, daily life and/or artistic practice
@@ -103,7 +105,9 @@ You will be graded on three elements:
 - The audio work can be real and/or fictionalised. It can use autobiography, fiction, found sounds, your own foley – whatever helps you to take the listener on a journey between two worlds.
 - It should carefully consider the emotional journey you wish for a listener to go through, using principles of ‘framing’ we have discussed in class.
 
-### Overview of process to reach narrative audio work: 20% of final grade
+### Overview of process
+
+Overview of process to reach narrative audio work: 20% of final grade
 
 - This work should help an audience ‘frame’ your work more.
 - Present a 2-4 minute overview of the narrative audio work, in audio/visual format. This can be a presentation, a pre-recorded video or audio file, a PDF, or another format of your choosing.
@@ -118,7 +122,9 @@ You will be graded on three elements:
 - Use this presentation to _add value to the narrative audio work_, highlighting elements that you want listeners to hear.
 
 
-### Overview of creative processes from the course: 20% of final grade
+### Overview of creative processes
+
+Overview of creative processes from the course: 20% of final grade
 
 - Choose a small selection of the exercises you have completed in class, or through the class podcast. Present the exercises, and what you personally learnt from them, as if you are presenting to an audience who have never heard of them before.
 - The presentation should be 2-4 minutes long, and can use any audiovisual media you see fit, e.g. a presentation, a pre-recorded video or audio file, a PDF, or another format of your choosing.

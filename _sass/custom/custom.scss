@@ -17,11 +17,12 @@
 
 //$grey-dk-000: #959396;
 $grey-dk-000: black;
-// $grey-dk-100: #5f6982; // dark-blue-grey
-$grey-dk-100: rgb(252,18,104); // bold pink
-// $grey-dk-100: #E41BAF; // bold pink
-// $grey-dk-100: #4b0038; // dark purple/pink
-// $grey-dk-100: #40758A; // turquoise
+// $bold-pink: #5f6982; // dark-blue-grey
+$bold-pink: #fc1268; // bold pink
+$dark-blue: #000770;
+// $bold-pink: #E41BAF; // bold pink
+// $bold-pink: #4b0038; // dark purple/pink
+// $bold-pink: #40758A; // turquoise
 
 //$grey-dk-200: #44434d;
 //$grey-dk-250: #302d36;
@@ -64,11 +65,11 @@ $search-background-color: $white;
 //$table-background-color: $white;
 //$code-background-color: $grey-lt-000;
 
-$body-text-color: $grey-dk-100;
+$body-text-color: $bold-pink;
 //$body-heading-color: $grey-dk-300;
 //$search-result-preview-color: $grey-dk-000;
-$nav-child-link-color: $grey-dk-100;
-$link-color: $grey-dk-100;
+$nav-child-link-color: $bold-pink;
+$link-color: $bold-pink;
 $link-color: $grey-dk-300;
 //$btn-primary-color: $purple-100;
 //$base-button-color: #f7f7f7;
@@ -194,27 +195,40 @@ $rlite: #FF0000;
 }
 
 body{
-  color: $grey-dk-100;
+  color: $bold-pink;
 }
 h1, h2, h3, h4, h5, h6, .site-header {
   font-family: 'monofur for Powerline',-apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
   letter-spacing: 0.2em;
-  color: $grey-dk-100 !important;
+  color: $bold-pink !important;
+}
+
+h1 {
+  color: $dark-blue !important;
 }
 
 
 li.breadcrumb-nav-list-item a, .page-content a {
-  color: $grey-dk-100 !important;
+  color: $bold-pink !important;
+}
+
+.main-content h1 {
+  margin-bottom: 1.5em;
+  color: $dark-blue !important;
+}
+
+.main-content .anchor-heading {
+  display: none;
 }
 
 h1:after {
     position: absolute;
     height: 6px;
-    margin: 0 auto;
+    // margin: 0 auto;
     content: '';
     left: 0;
     right: 0;
-    background-color: $grey-dk-100;
+    background-color: $dark-blue;
     left: 0;
     bottom: -0.5em;
     // content: "";
@@ -234,14 +248,16 @@ h1.home:after {
 
 
 .side-bar {
-  background: linear-gradient(0deg, $grey-dk-100 20%, $grey-dk-100 100%);
+  background: linear-gradient(0deg, $dark-blue 0%, $bold-pink 100%);
 }
 .site-footer {
   color: white;
+  display: none;
 }
 
 footer .site-footer p {
   color: white;
+  display: none;
 }
 
 .page-header.nav-open {
@@ -255,11 +271,27 @@ footer .site-footer p {
 }
 
 .site-header a:hover, .site-header a {
-  background-image: repeating-linear-gradient(0deg, $grey-dk-100, white, $grey-dk-100, $grey-dk-100, white, $grey-dk-100, $grey-dk-100, white, $grey-dk-100, white,$grey-dk-100, white, $grey-dk-100, white);
+  background-image: repeating-linear-gradient(0deg,
+  rgba(255,255,255,0),
+  rgba(255,255,255,1),
+  rgba(255,255,255,1),
+  rgba(255,255,255,0),
+  rgba(255,255,255,1),
+  rgba(255,255,255,1),
+  rgba(255,255,255,0),
+  rgba(255,255,255,1),
+  rgba(255,255,255,1),
+  rgba(255,255,255,0),
+  rgba(255,255,255,1),
+  rgba(255,255,255,1));
   background-size: 800% 800%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: flashy-rainbow 5s ease infinite;
+}
+
+.site-header {
+  border-bottom: none;
 }
 
 .caption {
@@ -312,7 +344,7 @@ hr {
 
 a:not([class]) {
     text-decoration: none;
-    background-image: linear-gradient($grey-dk-100 0%, $grey-dk-100 100%) !important;
+    background-image: linear-gradient($bold-pink 0%, $bold-pink 100%) !important;
     background-repeat: repeat-x;
     background-position: 0 100%;
     background-size: 1px 2px;
@@ -323,11 +355,11 @@ a:not([class]) {
 }
 
 ::selection {
-  background-color: $grey-dk-100 !important;
+  background-color: $bold-pink !important;
 }
 
 .page-content ol > li::before {
-  color: $grey-dk-100 !important;
+  color: $bold-pink !important;
 }
 
 h2 {
@@ -348,20 +380,21 @@ h3:after {
     left: 0;
     right: 0;
     color: #000;
-    background-color: $grey-dk-100;
+    background-color: $bold-pink;
     left: 0;
     bottom: -0.5em; /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
 }
 
-
+.main-content ul > li::before,
 .page-content ul > li::before {
-  color: $grey-dk-100 !important;
+  color: $bold-pink !important;
 }
 
 @media print {
   hr {
     display: none;
   }
+  $bold-pink: black;
 }
 
 footer {
@@ -374,7 +407,7 @@ footer p {
 
 p.text-small.text-grey-dk-000.mb-0,
 p.text-small.text-grey-dk-000.mb-0 a {
-  color: $grey-dk-100 !important;
+  color: $bold-pink !important;
 }
 
 p.text-small.text-grey-dk-000.mb-0 a:hover {
@@ -382,7 +415,7 @@ p.text-small.text-grey-dk-000.mb-0 a:hover {
 }
 
 .search-icon {
-  fill: $grey-dk-100 !important;
+  fill: $bold-pink !important;
 }
 .search-results-wrap::placeholder {
   color: pink;
@@ -390,4 +423,116 @@ p.text-small.text-grey-dk-000.mb-0 a:hover {
 
 input.js-search-input.search-input::placeholder {
   color: pink;
+}
+
+.navigation-list-child-list .navigation-list-link {
+  color: white !important;
+}
+
+.nav-list .nav-list-item .nav-list-link,
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link,
+.nav-list .nav-list-item .nav-list-expander {
+  color: $white;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+  background: none;
+  color: white;
+}
+
+a {
+  color: $bold-pink;
+}
+
+.main-content ol > li::before {
+  color: $bold-pink;
+  opacity: 0.5;
+}
+
+.search-result-doc .search-result-icon,
+.main-content .anchor-heading svg {
+  color: $bold-pink;
+}
+
+// tables
+
+.table-wrapper {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  overflow-x: auto;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th, td {
+  border: 0px;
+}
+
+.icon {
+  color: $white;
+}
+
+@media (max-width: 800px) {
+.nav-list .nav-list-item .nav-list-link {
+    font-size: 2em;
+    line-height:2em;
+    border-top: 0.2em dotted $white;
+    text-align: center;
+  }
+}
+
+
+// image masks - from https://cssduotone.com/
+// image filters
+
+:root {
+  --base:              #fc1268;
+  --bg-blend:          multiply;
+  --blur:              0px;
+  --fg-blend:          lighten;
+  --foreground:        #000770;
+  --opacity:           1;
+  --spacing:           0px;
+}
+.img-wrapper {
+  background-color:    var(--base);
+  display:             flex;
+  flex:                1 1 100%;
+  height:              100%;
+  overflow:            hidden;
+  padding:             var(--spacing);
+  position:            relative;
+}
+
+.img-wrapper img {
+  filter:              grayscale(100%) contrast(1) blur(var(--blur));
+  flex:                1 0 100%;
+  height:              100%;
+  max-width:           100%;
+  mix-blend-mode:      var(--bg-blend);
+  object-fit:          cover;
+  opacity:             var(--opacity);
+  position:            relative;
+  width:               100%;
+}
+
+.img-wrapper::before {
+  background-color:    var(--foreground);
+  bottom:              0;
+  content:             '';
+  height:              100%;
+  left:                0;
+  mix-blend-mode:      var(--fg-blend);
+  position:            absolute;
+  right:               0;
+  top:                 0;
+  width:               100%;
+  z-index:             1;
 }
