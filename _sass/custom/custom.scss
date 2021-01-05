@@ -228,9 +228,10 @@ h1:after {
     content: '';
     left: 0;
     right: 0;
-    background-color: $dark-blue;
+    background: linear-gradient(45deg, $dark-blue 0%, $bold-pink 80%);
     left: 0;
     bottom: -0.5em;
+    border-radius: 5px;
     // content: "";
     // display: block;
     // height: 30px;

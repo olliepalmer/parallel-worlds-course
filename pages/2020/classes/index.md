@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Classes
-permalink: /classes/
+permalink: 2020/classes/
+parent: 2020
 nav_order: 2
-has_toc: true 
+has_toc: true
 has_children: true
 ---
 

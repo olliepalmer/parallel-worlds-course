@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Resources
-permalink: /resources/
+permalink: 2020/resources/
+parent: 2020
 has_toc: true
 nav_order: 5
 ---

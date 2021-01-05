@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Module information
-permalink: /2020/about/
-parent: 2020
+permalink: /2021/about/
+parent: 2021
 nav_order: 1
 has_children: false
 ---
@@ -30,9 +30,9 @@ Still from [Synechdoche, New York](https://www.imdb.com/title/tt0383028/), dir. 
 
 World-building is a valuable tool in art and design. The ability to immerse an audience in a complete world is crucial to the framing of TV shows and movies; corporations, nations, political parties, theatrical productions, and futurists all engage in ‘world-building’. What can artists and designers learn from world-building to enhance and augment their own practice?
 
-This 10-class elective module enables students to explore the worlds of world-building through a structured series of individual and group activities. The course is practice-led, consisting of structured design activities, and seminars (which always lead to a design outcome). The course encourages students to build on skills they already have, enhancing their current practice and projects by creating worlds to embed them in.
+This elective module encourages students to explore the possibilities of world-building in their own practice through a series of structured activities. The course is practice-led, and taught via a series of open-access podcasts, and classes, we will gather to discuss ideas and work. The course encourages students to build on skills they already have, enhancing their current practice and projects by creating worlds to embed them in.
 
-We will be using philosopher Maurizio Ferraris’ concept of [social objects](https://en.wikipedia.org/wiki/Documentality) to create artefacts, and imagined social and individual memories. We will use theory and techniques from numerous places – theatre, [counterfactuals](https://plato.stanford.edu/entries/counterfactuals/), [psychological operations](https://en.wikipedia.org/wiki/Psychological_operations_(United_States)), fiction, television and film production, propaganda, [situationism](https://www.cddc.vt.edu/sionline/si/situ.html) – as well as testing new methods for world-building. By the end of the course, students will have designed maquettes and small sets, artefacts from imagined worlds, and produced a short film, audio production, performance, or related project. The course is methods-focused, but will also provide supplementary reading materials for students who wish to integrate these methods into their practice.
+We will be using philosopher Maurizio Ferraris’ concept of [social objects](https://en.wikipedia.org/wiki/Documentality) to create artefacts, and imagined social and individual memories. We will use theory and techniques from numerous places – theatre, [counterfactuals](https://plato.stanford.edu/entries/counterfactuals/), [psychological operations](https://en.wikipedia.org/wiki/Psychological_operations_(United_States)), fiction, television and film production, propaganda, [situationism](https://www.cddc.vt.edu/sionline/si/situ.html) – as well as testing new methods for world-building. By the end of the course, students will have designed maquettes and small sets, artefacts from imagined worlds, presented and re-framed aspects of their own work, and produced a short audio production which blends their everyday practice or life with a fantastical version of it. The course is methods-focused, but will also provide supplementary reading materials for students who wish to integrate these methods into their practice.
 
 Please note that the scope of the course, the mode of teaching, and the expected outputs have changed since the beginning of the course in reaction to the global COVID-19 crisis. [MIVC](https://www.akvstjoostmasters.nl/) is based in the Netherlands, and our school's building has been closed since mid-March 2020. The upside of this is that the mode of disseminating our work has become a [podcast](/podcast), which anyone in the world can listen to for free, and where we will disseminate our students' work at the end of the course.
 
@@ -51,8 +51,6 @@ A new podcast episode, with 15-20 minutes' writing and world-building exercises,
 
 The total time allocated for a 3EC course is 84 hours. This means that in addition to attending classes, you are also expected to carry out around 4-5 hours’ work on your assignments outside of class time.
 
-<strike>MIVC students meet on Fridays from 14.00-17.00in the Situation Room on the first floor of the Masters Institute. You are expected to attend all classes. If you cannot make it to class please email [om.palmer@avans.nl](mailto:om.palmer@avans.nl) in advance.</strike>
-
 The class is taught primarily via [podcast](/podcast), which enables you to work in your own time. We also meet online once a week on Fridays between 14.00-17.00 CET (check with your time zone [here](https://www.worldtimebuddy.com/?pl=1&lid=2759794&h=2759794)). These classes are a place to discuss the work you've done this week, set collective agendas and goals, and have tutorials. In normal circumstances, failure to attend 2 classes or the assessment at the end of the course is grounds for failing the course (with the exception of emergencies). However, since shifting to online tuition for this course, I realise that not everyone has equal access to technology, bandwidth, and may have other commitments. Consequently, no penalty will be imposed if you can't attend classes. Please do let me know if you need extra tuition or help – just email [om.palmer@avans.nl](mailto:om.palmer@avans.nl).
 
 There will be activities, conversations, presentations, feedback, and group work in class. Please try to engage with these activities as fully as possible. If for any reason you feel uncomfortable with any of these activities please let your tutor know.
@@ -63,29 +61,7 @@ There will be activities, conversations, presentations, feedback, and group work
 
 ## Timetable
 
-
-**New timetable**
-
-<table>
-<thead><tr><th style="background:#fc1268; color:white;  text-align: left;">Class</th><th style="background:#fc1268; color:white;  text-align: left;">Date</th><th style="background:#fc1268; color:white;  text-align: left;">Subject</th></tr></thead><tbody>
- <tr><td>01</td><td>14 Feb</td><td>Introduction</td></tr>
- <tr><td>02</td><td>21 Feb</td><td>Personal objects</td></tr>
- <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">28 Feb</td><td style="background:#fc126861; color:#fff">no class</td></tr>
- <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">06 Mar</td><td style="background:#fc126861; color:#fff">class cancelled (illness)</td></tr>
- <tr><td>03</td><td>13 Mar</td><td>Narratives, social objects</td></tr>
- <tr><td>04</td><td>20 Mar</td><td>Recalibration (in response to shutdown)</td></tr>
- <tr><td>05</td><td>27 Mar</td><td>Counterfactuals</td></tr>
- <tr><td>06</td><td>03 Apr</td><td>Psyops, deception</td></tr>
- <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">10 Apr</td><td style="background:#fc126861; color:#fff">no class</td></tr>
- <tr><td>07</td><td>17 Apr</td><td>Narrative structures (with Sarah Lugthart)</td></tr>
- <tr><td>08</td><td>24 Apr</td><td>Sound design and framing narratives</td></tr>
- <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">01 May</td><td style="background:#fc126861; color:#fff">no class</td></tr>
- <tr><td>09</td><td>08 May</td><td>Your worlds (integrating w studio practice)</td></tr>
- <tr><td>10</td><td>15 May</td><td>Tutorials</td></tr>
- <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">22 May</td><td style="background:#fc126861; color:#fff">no class</td></tr>
- <tr><td style="background:#fc1268; color:white">--</td><td style="background:#fc1268; color:white">29 May</td><td style="background:#fc1268; color:white">Assessment</td></tr>
- <tr><td style="background:#fc126861; color:#fff">--</td><td style="background:#fc126861; color:#fff">Early June</td><td style="background:#fc126861; color:#fff">Student projects published on podcast</td></tr>
-</tbody></table>
+To be announced
 
 
 
@@ -134,15 +110,17 @@ Overview of creative processes from the course: 20% of final grade
 
 ## Assessment procedure
 
-The course assessment is on Friday 29 May, with award-winning writer, film-maker and audio producer [Ross Sutherland](https://www.imaginaryadvice.com/) as external examiner, and [Ollie Palmer](https://olliepalmer.com) as internal examiner.
+To be announced
+
+<!-- The course assessment is on Friday 29 May, with award-winning writer, film-maker and audio producer [Ross Sutherland](https://www.imaginaryadvice.com/) as external examiner, and [Ollie Palmer](https://olliepalmer.com) as internal examiner.
 
 You will be sent a Zoom link via email. Please download Zoom in advance and familiarise yourself with how to present a slideshow.
 
 Because video calls can be exhausting, the day will be split into four 40-60 minute presentation sessions. You are only expected to be present for the session you're in, but you're welcome to join us for the other sessions. Students are also encouraged to ask their colleagues questions about their work and methods.
 
-You have up to 10 minutes to present your work (see above), and up to 10 minutes for questions and answers. The examiners will have listened to your work in advance, but might play an excerpt of your work to discuss. You can also play extracts if it helps your presentation.
+You have up to 10 minutes to present your work (see above), and up to 10 minutes for questions and answers. The examiners will have listened to your work in advance, but might play an excerpt of your work to discuss. You can also play extracts if it helps your presentation. -->
 
-### Deadlines
+<!-- ### Deadlines
 
 - You must upload your narrative audio file [here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU) by **Tuesday 26 May 23:00 CEST**.
 - The file must be in ```.mp3```, ```.mp4```, or ```.wav``` format.
@@ -151,7 +129,7 @@ You have up to 10 minutes to present your work (see above), and up to 10 minutes
 - You must upload your presentations [here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k) by **Thursday 28 May 23:00 CEST**.
 - You can upload in ```PDF``` format, or ```PowerPoint```/```Keynote```.
 
-**[Upload audio work here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU)** / **[Upload presentations here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k)**
+**[Upload audio work here](https://www.dropbox.com/request/Zs1Ssvo20cPPnvA26SPU)** / **[Upload presentations here](https://www.dropbox.com/request/xGvpPiBYiExLe1R7LK2k)** -->
 
 
 
