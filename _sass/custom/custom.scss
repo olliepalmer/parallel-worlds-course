@@ -432,7 +432,8 @@ input.js-search-input.search-input::placeholder {
 
 .nav-list .nav-list-item .nav-list-link,
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link,
-.nav-list .nav-list-item .nav-list-expander {
+.nav-list .nav-list-item .nav-list-expander,
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-expander {
   color: $white;
 }
 
