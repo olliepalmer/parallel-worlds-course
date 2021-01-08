@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Class 02 – Objects
+title: 2020 Class 02 – Objects
 parent: Classes
+grand_parent: 2020
+permalink: /2020/classes/02
 has_toc: true
 has_children: true
 

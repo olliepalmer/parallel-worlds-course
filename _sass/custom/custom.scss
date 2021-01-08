@@ -490,6 +490,12 @@ th, td {
   }
 }
 
+@media (min-width: 66.5rem) {
+  .site-header {
+    max-width: 80%;
+  }
+}
+
 
 // image masks - from https://cssduotone.com/
 // image filters

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: W05E03 Final exercise
+title: 2020.W05E03 Final exercise
 parent: Podcast
+grand_parent: 2020
+permalink: /2020/podcast/w05e03
 has_children: false
 ---
 

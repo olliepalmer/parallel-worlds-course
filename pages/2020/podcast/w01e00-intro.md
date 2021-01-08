@@ -1,7 +1,9 @@
 ---
 layout: page
-title: W01E00 Introduction
+title: 2020.W01E00 Introduction
 parent: Podcast
+grand_parent: 2020
+permalink: /2020/podcast/w01e00
 has_children: false
 ---
 

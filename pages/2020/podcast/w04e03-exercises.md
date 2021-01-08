@@ -1,7 +1,9 @@
 ---
 layout: page
-title: W04E03 Exercises
+title: 2020.W04E03 Exercises
 parent: Podcast
+grand_parent: 2020
+permalink: /2020/podcast/w04e03
 has_children: false
 ---
 

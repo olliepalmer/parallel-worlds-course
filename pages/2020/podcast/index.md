@@ -2,7 +2,7 @@
 layout: page
 title: Podcast
 parent: 2020
-permalink: /podcast/
+permalink: 2020/podcast/
 nav_order: 4
 has_children: true
 ---

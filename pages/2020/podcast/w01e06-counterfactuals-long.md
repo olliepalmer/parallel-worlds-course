@@ -1,7 +1,9 @@
 ---
 layout: page
-title: W01E06 Counterfactuals
+title: 2020.W01E06 Counterfactuals
 parent: Podcast
+grand_parent: 2020
+permalink: /2020/podcast/w01e06
 has_children: false
 ---
 

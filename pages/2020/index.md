@@ -8,8 +8,10 @@ permalink: /2020/
 has_children: true
 ---
 
-![](/assets/pw-02.svg)
+<h1>Parallel Worlds 2020</h1>
 
-<h1 class='home'>Parallel Worlds</h1>
+The whole of the Parallel Worlds course from 2020 is archived here.
 
-![](/assets/pw-02.svg)
+Note that 2020 was a strange year for the course (as it was for everything else). It was meant to be a ten-week course, but just as we got into our stride, the Coronavirus global pandemic hit the Netherlands. Consequently the entire course went from anin-person course with 14-16 people in a room to being reformatted to a daily podcast with weekly meet-ups (as you can see in [Class 04: Recalibration](/2020/classes/class-04)).
+
+All of the in-person classes, the podcast, the module information, and resources, are archived here for reference. Feel free to take any of the course content and use it for anything you like. Students' work, however, is their own.

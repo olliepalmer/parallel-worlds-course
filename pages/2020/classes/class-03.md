@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Class 03 – Social Objects
+title: 2020 Class 03 – Social Objects
 parent: Classes
+grand_parent: 2020
+permalink: /2020/classes/03
 has_toc: true
 has_children: false
 

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: W04E05 Interview with Amy Butt, Part 2
+title: 2020.W04E05 Interview with Amy Butt, Part 2
 parent: Podcast
+grand_parent: 2020
+permalink: /2020/podcast/w04e05
 has_children: false
 ---
 

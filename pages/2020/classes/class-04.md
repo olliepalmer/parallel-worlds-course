@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Class 04 – Recalibration
+title: 2020 Class 04 – Recalibration
 parent: Classes
+grand_parent: 2020
+permalink: /2020/classes/04
 has_toc: true
 has_children: false
 

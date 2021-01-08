@@ -1,7 +1,9 @@
 ---
 layout: page
-title: W03 Bonus episode
+title: 2020.W03 Bonus episode
 parent: Podcast
+grand_parent: 2020
+permalink: /2020/podcast/w02e06
 has_children: false
 ---
 
@@ -127,7 +129,7 @@ I know I’m not alone in this. Ross Sutherland, whose award-winning podcast Ima
 Here I should mention that I got the idea of using sofa cushions from a great website of audio resources called Transom.org. Transom is the Public Radio Exchange’s programme about making audio programmes, and it’s a great resource. There is a link to Transom, and a load of other resources, on the ‘resources’ page of our course website at parallel.olliepalmer.com – please do spend some time looking around there. You’ll find resources for writing, recording audio, editing, a list of software, a load of great podcasts to listen to if you’re new to podcasts – it has links to all the things you might need to complete this course.
 
 Finally, I heard a British broadcaster called Louis Theroux speaking about microphone technique a while ago. He said that he was once given microphone training for radio. The trainer took him into a room with a microphone, and put little cat ears on the mic. Imagine you’re talking to a little cat, they said. That way, you’re talking gently enough that you have a perceived intimacy with your audience. You’re not too loud, nor too quiet. Now, you’re probably recording your audio on your phone. The same technique works – a quiet room, speaking softly. I’m not saying that you have to dress your phone up to make these recordings, but if it helps, do it!
-*CORRECTION: The interview was with Louis Theroux, Joe Cornish and Adam Buxton – and it was Joe Cornish who described the cat-ears method. [Listen here > 28 miuntes in!](https://www.breaker.audio/the-adam-buxton-podcast/e/48926857)* 
+*CORRECTION: The interview was with Louis Theroux, Joe Cornish and Adam Buxton – and it was Joe Cornish who described the cat-ears method. [Listen here > 28 miuntes in!](https://www.breaker.audio/the-adam-buxton-podcast/e/48926857)*
 
 Thanks for listening. I will be back soon with a LONG episode about Foley, and Psychological Operations, and more, and in the meantime, please do stay safe and take care of the people you love.
 
