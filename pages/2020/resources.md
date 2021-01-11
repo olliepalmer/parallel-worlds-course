@@ -32,6 +32,7 @@ nav_order: 5
 ## Recording audio
 
 - [Guide to producing audio](https://medium.com/@hannah_rfh/how-to-super-quick-diy-podcasting-for-museums-other-nonprofits-closed-by-covid-19-82f5e95691f6) - has lots of tips about equipment, recording, editing
+- [Free audio resources](https://medium.com/podcast-101/40-free-audio-resources-to-help-make-your-podcast-sound-great-9731ea24c657) - a list of 40 free audio resources to help you record, edit and mix. Some of the links are podcast-specific, but many are for general audio production.
 
 ## Editing, post-production
 
