@@ -47,9 +47,9 @@ atom:
 
 
 # additional links at top-right
-# aux_links:
-#   "Just the Docs on GitHub":
-#     - "//github.com/pmarsceill/just-the-docs"
+aux_links:
+  "Subscribe to the podcast!":
+    - "https://anchor.fm/olliepalmer"
 
 
 # Exclude from processing.

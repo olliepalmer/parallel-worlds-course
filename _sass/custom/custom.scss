@@ -437,6 +437,10 @@ input.js-search-input.search-input::placeholder {
   color: $white;
 }
 
+.nav-list .nav-list-item > .nav-list {
+
+}
+
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
   background: none;
   color: white;
@@ -487,6 +491,15 @@ th, td {
     line-height:2em;
     border-top: 0.2em dotted $white;
     text-align: center;
+  }
+
+.nav-list .nav-list-item > .nav-list {
+  font-size: 0.8em;
+  padding: 0;
+  opacity: 0.8;
+  }
+  .site-title {
+    font-size: 36px !important;
   }
 }
 

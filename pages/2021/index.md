@@ -10,6 +10,9 @@ has_children: true
 
 <h1>Parallel Worlds 2021</h1>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaEKB8auOhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Welcome to Parallel Worlds course for 2021.
 
 All of our in-class exercises, the course podcast, the module information, and resources, are archived here for reference. Feel free to take any of the course content and use it for anything you like. Students' work, however, is their own.
