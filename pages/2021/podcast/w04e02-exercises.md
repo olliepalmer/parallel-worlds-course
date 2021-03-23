@@ -22,6 +22,7 @@ has_children: false
 ## Listen
 
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W4-E2-Action-etapac" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
 ## Transcript
 
 Hello and welcome back to the Parallel Worlds podcast. This is week 2 episode 2. Yesterday I asked you to record a tour guide around your immediate surroundings, recommending the elements that people should enjoy, pointing out the parts that they might avoid, and sewing the odd fact, rumour or anecdote here and there. How did this work out? Did you discover anything new, did you get frustrated, did you love or hate the exercise? As ever, please do leave a voice message to let me know what you found out, or what you thought – these messages may be included on future podcasts, but you can also keep them private just by saying don’t publish this.
