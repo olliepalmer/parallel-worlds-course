@@ -25,7 +25,7 @@ has_children: false
 
 ## Transcript
 
-Hello and welcome back to the Parallel Worlds podcast. This is week 2 episode 2. Yesterday I asked you to record a tour guide around your immediate surroundings, recommending the elements that people should enjoy, pointing out the parts that they might avoid, and sewing the odd fact, rumour or anecdote here and there. How did this work out? Did you discover anything new, did you get frustrated, did you love or hate the exercise? As ever, please do leave a voice message to let me know what you found out, or what you thought – these messages may be included on future podcasts, but you can also keep them private just by saying don’t publish this.
+Hello and welcome back to the Parallel Worlds podcast. Yesterday I asked you to record a tour guide around your immediate surroundings, recommending the elements that people should enjoy, pointing out the parts that they might avoid, and sewing the odd fact, rumour or anecdote here and there. How did this work out? Did you discover anything new, did you get frustrated, did you love or hate the exercise? As ever, please do leave a voice message to let me know what you found out, or what you thought – these messages may be included on future podcasts, but you can also keep them private just by saying don’t publish this.
 
 Let’s get straight into the writing today. As ever, I’m going to ask you to start with a free write about your current context. What’s going on right now? How are you feeling? Have you felt any slow shifting of identity recently? What are you looking forward to, what are you thinking?
 
