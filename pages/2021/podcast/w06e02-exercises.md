@@ -1,6 +1,6 @@
 ---
 layout: page
-title: W06E02 Exercises
+title: W06.E02 Exercises
 parent: Podcast
 grand_parent: 2021
 permalink: /2021/podcast/w06e02
