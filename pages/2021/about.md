@@ -64,28 +64,28 @@ There will be activities, conversations, presentations, feedback, and group work
 <style type="text/css">
 .tg  {border-collapse:collapse;border:none;border-spacing:0;}
 .tg td{background-color:#F9CDAD;border:none;border-style:solid;border-width:1px;color:#002b36;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:5px;word-break:normal;}
 .tg th{background-color:#FE4365;border:none;border-style:solid;border-width:1px;color:#fdf6e3;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-p5oo{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  font-weight:normal;overflow:hidden;padding:5px;word-break:normal;}
+.tg .tg-p5oo{background-color:#FC1268;border:none;color:#FFF;;
   text-align:left;vertical-align:top}
-.tg .tg-stf2{background-color:#000770;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-stf2{background-color:#000770;border:none;color:#FFF;;
   text-align:left;vertical-align:bottom}
-.tg .tg-bui8{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-bui8{background-color:#FC1268;border:none;color:#FFF;;
   font-style:italic;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-471q{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-471q{background-color:#FC1268;border:none;color:#FFF;;
   text-align:left;vertical-align:bottom}
-.tg .tg-f8z6{background-color:#000770;border:none;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-f8z6{background-color:#000770;border:none;;
   text-align:left;vertical-align:bottom}
-.tg .tg-f2ch{background-color:#000770;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-f2ch{background-color:#000770;border:none;color:#FFF;;
   font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-3opt{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-3opt{background-color:#FC1268;border:none;color:#FFF;;
   font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-nwom{background-color:#FF9FC2;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-nwom{background-color:#FF9FC2;border:none;color:#FFF;;
   text-align:left;vertical-align:bottom}
-.tg .tg-b1ph{background-color:#FF9FC2;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-b1ph{background-color:#FF9FC2;border:none;color:#FFF;;
   font-style:italic;text-align:left;vertical-align:bottom}
-.tg .tg-g984{background-color:#FF9FC2;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+.tg .tg-g984{background-color:#FF9FC2;border:none;color:#FFF;;
   font-style:italic;font-weight:bold;text-align:left;vertical-align:bottom}
 </style>
 <table class="tg">
@@ -251,10 +251,10 @@ Overview of creative processes from the course: 20% of final grade
 - This assessment allows you to demonstrate your understanding of activities within the course, and provides a place to reflect on your own personal practice.
 
 
-## Assessment procedure
+<!-- ## Assessment procedure
 
 To be announced
-
+ -->
 <!-- The course assessment is on Friday 29 May, with award-winning writer, film-maker and audio producer [Ross Sutherland](https://www.imaginaryadvice.com/) as external examiner, and [Ollie Palmer](https://olliepalmer.com) as internal examiner.
 
 You will be sent a Zoom link via email. Please download Zoom in advance and familiarise yourself with how to present a slideshow.
