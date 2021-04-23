@@ -61,8 +61,151 @@ There will be activities, conversations, presentations, feedback, and group work
 
 ## Timetable
 
-To be announced
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border:none;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border:none;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border:none;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-p5oo{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  text-align:left;vertical-align:top}
+.tg .tg-stf2{background-color:#000770;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  text-align:left;vertical-align:bottom}
+.tg .tg-bui8{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  font-style:italic;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-471q{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  text-align:left;vertical-align:bottom}
+.tg .tg-f8z6{background-color:#000770;border:none;font-family:"Lucida Console", Monaco, monospace !important;;
+  text-align:left;vertical-align:bottom}
+.tg .tg-f2ch{background-color:#000770;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-3opt{background-color:#FC1268;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-nwom{background-color:#FF9FC2;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  text-align:left;vertical-align:bottom}
+.tg .tg-b1ph{background-color:#FF9FC2;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  font-style:italic;text-align:left;vertical-align:bottom}
+.tg .tg-g984{background-color:#FF9FC2;border:none;color:#FFF;font-family:"Lucida Console", Monaco, monospace !important;;
+  font-style:italic;font-weight:bold;text-align:left;vertical-align:bottom}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Date</span></th>
+    <th class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Week</span></th>
+    <th class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Class</span></th>
+    <th class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Week type</span></th>
+    <th class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Subject</span></th>
+    <th class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Staff</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">26 Feb 2021</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">00</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Yes</span></td>
+    <td class="tg-3opt"><span style="color:#FFF;background-color:#FC1268">Introduction</span></td>
+    <td class="tg-3opt"><span style="color:#FFF;background-color:#FC1268">Introduction</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Ollie + Nick</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">05 Mar 2021</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">01</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Yes</span></td>
+    <td class="tg-b1ph"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Reflection week</span></td>
+    <td class="tg-b1ph"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Building worlds</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Nick</span></td>
+  </tr>
+  <tr>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">12 Mar 2021</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">02</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Yes</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Action week</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Objects and spaces</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Ollie</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">19 Mar 2021</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">03</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Yes</span></td>
+    <td class="tg-b1ph"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Reflection week</span></td>
+    <td class="tg-b1ph"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Counterfactuals</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Nick</span></td>
+  </tr>
+  <tr>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">26 Mar 2021</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">04</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Yes</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Action week</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Audio recording; examination of surrounding environments; social objects</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Ollie</span></td>
+  </tr>
+  <tr>
+    <td class="tg-stf2"><span style="color:#FFF;background-color:#000770">02 Apr 2021</span></td>
+    <td class="tg-f8z6"></td>
+    <td class="tg-stf2"><span style="color:#FFF;background-color:#000770">No</span></td>
+    <td class="tg-stf2"></td>
+    <td class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Holiday (Good Friday)</span></td>
+    <td class="tg-stf2"></td>
+  </tr>
+  <tr>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">09 Apr 2021</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">05</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Yes</span></td>
+    <td class="tg-b1ph"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Reflection week</span></td>
+    <td class="tg-b1ph"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Audio techniques</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Nick</span></td>
+  </tr>
+  <tr>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">16 Apr 2021</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">06</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Yes</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Action week</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Audio recording</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Ollie</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">23 Apr 2021</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">07</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Yes</span></td>
+    <td class="tg-b1ph"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Reflection week</span></td>
+    <td class="tg-g984"><span style="font-style:italic;color:#FFF;background-color:#FF9FC2">Framing your practice</span></td>
+    <td class="tg-nwom"><span style="color:#FFF;background-color:#FF9FC2">Nick</span></td>
+  </tr>
+  <tr>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">30 Apr 2021</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">08</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Yes</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Action week</span></td>
+    <td class="tg-bui8"><span style="color:#FFF;background-color:#FC1268">Creation of stories</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Ollie</span></td>
+  </tr>
+  <tr>
+    <td class="tg-stf2"><span style="color:#FFF;background-color:#000770">07 May 2021</span></td>
+    <td class="tg-f8z6"></td>
+    <td class="tg-stf2"><span style="color:#FFF;background-color:#000770">No</span></td>
+    <td class="tg-stf2"></td>
+    <td class="tg-f2ch"><span style="color:#FFF;background-color:#000770">Holiday (May break)</span></td>
+    <td class="tg-stf2"></td>
+  </tr>
+  <tr>
+    <td class="tg-stf2"><span style="color:#FFF;background-color:#000770">14 May 2021</span></td>
+    <td class="tg-stf2"></td>
+    <td class="tg-stf2"><span style="color:#FFF;background-color:#000770">No</span></td>
+    <td class="tg-stf2"></td>
+    <td class="tg-stf2"><span style="color:#FFF;background-color:#000770">Holiday (Building closed)</span></td>
+    <td class="tg-f8z6"></td>
+  </tr>
+  <tr>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">21 May 2021</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">09</span></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Yes</span></td>
+    <td class="tg-471q"></td>
+    <td class="tg-471q"><span style="color:#FFF;background-color:#FC1268">Assessment (all day)</span></td>
+    <td class="tg-p5oo">Ollie + external assessor</td>
+  </tr>
+</tbody>
+</table>
 
 
 ------
