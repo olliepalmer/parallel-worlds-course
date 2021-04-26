@@ -294,7 +294,7 @@ This course is taught by [Ollie Palmer](https://olliepalmer.com) and Nick Broman
 <div class="img-wrapper"><img src="/assets/olliepalmer.jpg"></div>
 <div class='caption' markdown='1'>
 
-[Ollie Palmer](https://olliepalmer.com) and performance/production team at [Nybble installation](https://olliepalmer.com/nybble), [V&A Museum](https://vam.ac.uk), 2013.
+_Image:_ [Ollie Palmer](https://olliepalmer.com) and performance/production team at [Nybble installation](https://olliepalmer.com/nybble), [V&A Museum](https://vam.ac.uk), 2013.
 
 </div>
 
@@ -302,10 +302,14 @@ This course is taught by [Ollie Palmer](https://olliepalmer.com) and Nick Broman
 
 ### Nick Bromann
 
-Nick Bromann is a second-year Situtated Design student at MIVC. His background is in graphic design and visual arts, and his own practice asks viewers to reflect on their own position in the world. His work can be found on Instagram at [bromann.nick](https://www.instagram.com/bromann.nick/).
+Nick Bromann is a second-year Situated Design student at MIVC. Born in the USA, and currently residing in the Netherlands, his background is in graphic design and visual arts, and his own practice asks viewers to reflect on their surroundings through wandering and image-making. His work can be found on Instagram at [bromann.nick](https://www.instagram.com/bromann.nick/).
 
-<div class="img-wrapper"><mg src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/42068635_509467309526952_5615468322733686784_n.jpg?tp=1&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=tDtxIMkSn0sAX8EEfEs&edm=ABfd0MgAAAAA&ccb=7-4&oh=59ba779f98c754c4259bf07c456086cd&oe=60A69F7D&_nc_sid=7bff83"></div>
+<div class="img-wrapper"><img src="/assets/olliepalmer.jpg"></div>
+<div class='caption' markdown='1'>
 
+_Image:_ [bromann.nick](https://www.instagram.com/bromann.nick/) on Instagram.
+
+</div>
 
 
 -----
