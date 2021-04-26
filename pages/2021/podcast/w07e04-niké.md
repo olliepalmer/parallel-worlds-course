@@ -16,7 +16,7 @@ has_children: false
 {: .no_toc}
 
 
-# 2021 Week 7 Episode 4:
+# 2021 Week 7 Episode 4: Parallel Perspectives by Niké
 {: .no_toc}
 
 
@@ -34,8 +34,7 @@ For most of the students it’s the first time they’ve recorded and published 
 
 ## Description
 
-It's a quick chit chat with Clara, a Situated Design student at MIVC. She explains one of her work for Parallel Worlds module, Tears are the Drool of the Eye. Check it out!
-
+We focus on food and its relation with art.
 
 ## Transcript
 
@@ -175,7 +174,7 @@ Thank you. Bye.
 
 ## Credits
 
-Produced by Scienthya.
+Interview with Vlad, produced by Niké.
 
 
 ### Subscribe

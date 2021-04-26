@@ -1,9 +1,9 @@
 ---
 layout: page
-title: W07.E01 Mohammad
+title: W07.E06 Elisabet
 parent: Podcast
 grand_parent: 2021
-permalink: /2021/podcast/w07e01
+permalink: /2021/podcast/w07e06
 has_children: false
 ---
 
@@ -16,9 +16,11 @@ has_children: false
 {: .no_toc}
 
 
-# 2021 Week 7 Episode 1: A ChitChat by Mohammad
+# 2021 Week 7 Episode 5: Parallel Perspectives, Food for the Soul by Vlad
 {: .no_toc}
 
+
+_We focus on food and its relation with art_
 
 Note: Hello and welcome to Parallel Worlds!
 
@@ -28,13 +30,22 @@ For most of the students it’s the first time they’ve recorded and published 
 
 ## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W7-E1-Reflection-A-ChitChat-by-Mohammad-evm3db" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W7-E6-Reflection-Elisabet-evn43j" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
 ## Description
 
-I was interviewed by Elisabeth about the last task to do for this module, where we had to write lies to kids and create a narrative story about it
+This is an interview of Mohammad talking about a story he created, which is based on a lies you would tell to kids. This story is about why chickens can't fly.
 
 
 ## Transcript
+
+Introduction
+
+Hello and welcome to Parallel Worlds!
+
+Just a quick note about the Reflection Week recordings this week. They were all produced in class by students on the Parallel Worlds course, who interviewed each other about some work they’d made during the course.
+
+For most of the students it’s the first time they’ve recorded and published audio work, and of course the best way to learn how to do it is just getting on with it: having a task to do, and performing that task to the best of your abilities. The reason we’ve published them on the podcast feed is so that everyone can listen to each others’ work and provide productive feedback on how to improve the recording, scripting, interview techniques, and audio production that will be crucial to their final projects. Enjoy these peer-to-peer interviews.
 
 Elisabet: Hello and welcome to our podcast. Welcome. We'll have a thank you for coming today. Uh, we're really pleased to have you here and today we're going to talk about your work, but first I want you to tell a little bit about yourself. Hi, thanks for having me. I'm really excited about our recent project we worked on, but first let me introduce myself to our listener.
 
@@ -76,7 +87,7 @@ Mohammad: Well, thank you for having me. Uh, it was really fun to be here and it
 
 ## Credits
 
-Conversation between Elisabet and Mohammad, produced by Mohammad.
+Conversation between Elisabet and Mohammad, produced by Elisabet.
 
 
 ### Subscribe

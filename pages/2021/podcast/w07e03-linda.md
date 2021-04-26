@@ -89,7 +89,7 @@ It was to go out and record stuff. You know, you get a more open attitude, I thi
 
 ## Credits
 
-Produced by Scienthya.
+Interview with Joris, produced by Linda.
 
 
 ### Subscribe
