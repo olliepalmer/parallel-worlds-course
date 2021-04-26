@@ -3,7 +3,7 @@ layout: page
 title: W07.E02 Scienthya
 parent: Podcast
 grand_parent: 2021
-permalink: /2021/podcast/w07e01
+permalink: /2021/podcast/w07e02
 has_children: false
 ---
 
@@ -28,7 +28,7 @@ For most of the students it’s the first time they’ve recorded and published 
 
 ## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W7-E2-Reflection-Interview-with-Clara-by-Scienthya-evm3fj" height="100%" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W7-E2-Reflection-Interview-with-Clara-by-Scienthya-evm3fj" height="100%" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## Description
 
