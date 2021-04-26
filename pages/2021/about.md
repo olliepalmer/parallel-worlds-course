@@ -304,7 +304,7 @@ _Image:_ [Ollie Palmer](https://olliepalmer.com) and performance/production team
 
 Nick Bromann is a second-year Situated Design student at MIVC. Born in the USA, and currently residing in the Netherlands, his background is in graphic design and visual arts, and his own practice asks viewers to reflect on their surroundings through wandering and image-making. His work can be found on Instagram at [bromann.nick](https://www.instagram.com/bromann.nick/).
 
-<div class="img-wrapper"><img src="/assets/olliepalmer.jpg"></div>
+<div class="img-wrapper"><img src="/assets/nickbromann.jpg"></div>
 <div class='caption' markdown='1'>
 
 _Image:_ [bromann.nick](https://www.instagram.com/bromann.nick/) on Instagram.
