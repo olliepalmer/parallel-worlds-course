@@ -1,6 +1,6 @@
 ---
 layout: page
-title: W08.E04 Exercises
+title: W08.E05 Exercises
 parent: Podcast
 grand_parent: 2021
 permalink: /2021/podcast/w08e05
