@@ -1,13 +1,13 @@
 ---
 layout: page
-title: W09.E02 Interview with Tim Clare (rebroadcast)
+title: W09.E02 Bonus: Interview with Tim Clare (rebroadcast)
 parent: Podcast
 grand_parent: 2021
 permalink: /2021/podcast/w09e02
 has_children: false
 ---
 
-# Week 09 Episode 02: Interview with Tim Clare
+# Week 09 Episode 02: Bonus: Interview with Tim Clare (rebroadcast)
 {: .no_toc}
 
 ### Table of contents
