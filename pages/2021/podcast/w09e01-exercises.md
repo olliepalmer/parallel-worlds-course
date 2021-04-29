@@ -29,13 +29,7 @@ has_children: false
 
 Hi and welcome to Parallel Worlds.
 
-If you’re listening to this in real-time – by which I mean, if it’s July 2020 and you’ve been waiting for this episode for a while – I’m sorry it’s taken so long.
-
-This will be the final exercise episode of this season. After this, I have two interviews to upload, which I’m quite excited about – and then I will be using this stream to showcase the work of students from the Master Institute of Visual Culture who’ve taken this course.
-
-Later in the year, this same podcast feed will be used for another, similar course, called Scripted Design - I hope you can join us then too.
-
-So, let’s get back to the exercises. We’ll start the same way we always do – with five minutes of reflection on the here and the now, what’s happened to you lately, things you’ve observed, moments you want to capture. As soon as the five-minute timer starts, I’d like you to start writing. And remember, keep that pen, or that metaphorical pen, moving. It doesn’t matter what’s coming out, if it’s gibberish, if it’s nonsense, but think through the writing. There’s something liberating about starting to do something and not knowing what it might look like at the end.
+So, let’s get to the exercises. We’ll start the same way we always do – with five minutes of reflection on the here and the now, what’s happened to you lately, things you’ve observed, moments you want to capture. As soon as the five-minute timer starts, I’d like you to start writing. And remember, keep that pen, or that metaphorical pen, moving. It doesn’t matter what’s coming out, if it’s gibberish, if it’s nonsense, but think through the writing. There’s something liberating about starting to do something and not knowing what it might look like at the end.
 
 So, five minutes - starting now.
 
