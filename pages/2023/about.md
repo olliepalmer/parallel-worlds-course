@@ -159,17 +159,17 @@ Students have the right to one further attempt to pass an exam in the same acade
 
 ## Inclusion
 
-This course is designed to further your creativity and allow you to explore new ideas, techniques, and concepts.
+This course is designed to further your creativity and allow you to explore new ideas, techniques, and concepts. In order to do this, we have a collective responsibility as a class to make sure that everybody feels able to express themselves in a safe environment. It is critical that we are able to show respect for all world-views and perspectives expressed in class.
 
-In order to do this, we need to make sure that everybody feels able to express themselves in a safe environment. At The Master Institute of Visual Cultures we embrace an atmosphere of creativity which is enriched and enhanced by diversity along a number of dimensions, including race, ethnicity and national origins, gender and gender identity, sexuality, class and religion. We are especially committed to increasing the representation of those populations which have historically been excluded from participation in Dutch higher education.
+At The Master Institute of Visual Cultures we embrace an atmosphere of creativity which is enriched and enhanced by diversity along a number of dimensions, including race, ethnicity and national origins, gender and gender identity, sexuality, class, and religion. The school is especially committed to increasing the representation of those populations which have historically been excluded from participation in Dutch higher education.
 
-If you have a name or pronoun which differs from the one we have on record, please let me know. Like many people, I am still in the process of learning about diverse perspectives and identities, and am always eager to hear from students how I can improve in this respect.
+If you have a name or pronoun which differs from the one we have on record, please me know.
 
-It is critical that each class member show respect for all world-views expressed in class. If you feel that something said or done in class is troubling or has caused discomfort, please contact Ollie confidentially.
+If you feel that something said or done in class is troubling or has caused discomfort, please contact me confidentially. Like many people, I am still in the process of learning about diverse perspectives and identities, and am always eager to hear from students how I can improve in this respect.
 
-If you would like to speak to someone outside of the classroom, please contact Renaat Casier, MIVC’s student counsellor. You can make an appointment by calling the Student Information Desk at +31 88 - 525 75 50. You can also find out more information about our student services at [studentinfo.avans.nl/international](https://studentinfo.avans.nl/international).
+If you feel like your performance in the class is being impacted by your experiences outside of class, please speak to me, or contact the Renaat Casier, MIVC’s student counsellor. You can make an appointment by calling the Student Information Desk at +31 88 - 525 75 50. You can also find out more information about Avans student services at [studentinfo.avans.nl/international](https://studentinfo.avans.nl/international).
 
-If you feel like your performance in the class is being impacted by your experiences outside of class, please speak to Ollie or student counsellor, Renaat Casier. Ollie is also available for individual tutorials outside of class for students across MIVC.
+
 
 
 -----
