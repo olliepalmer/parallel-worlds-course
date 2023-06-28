@@ -17,7 +17,7 @@ gem "just-the-docs"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "bundler", "~> 1.17.3"
+  gem "bundler", ">= 2.0.0"
   gem "kramdown-parser-gfm"
 end
 
