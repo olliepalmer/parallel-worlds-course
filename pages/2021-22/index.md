@@ -16,5 +16,3 @@ has_children: true
 Welcome to Parallel Worlds course for 2021.
 
 All of our in-class exercises, the course podcast, the module information, and resources, are archived here for reference. Feel free to take any of the course content and use it for anything you like. Students' work, however, is their own.
-
-More content to follow as the course gets underway...

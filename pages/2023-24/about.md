@@ -55,15 +55,15 @@ This course aims to provide a series of practicable methods that can be used wit
 # Schedule
 
 
-#### Wed 08 Feb: Starting points
+#### Mon 11 Sep: Starting points
 
-#### Thu 09 Feb: Objects
+#### Tues 12 Sep: Objects
 
-#### Mon 13 Feb: Journeys
+#### Weds 13 Sep: Journeys
 
-#### Tue 14 Feb: Environments
+#### Thus 14 Sep: Environments
 
-#### Thu 16 Feb: Assessment preparation (morning) + assessment (afternoon)
+#### Fri 15 Sep: Assessment preparation (morning) + assessment (afternoon)
 
 Classes will be taught in 4 blocks during the day: two 60-minute blocks in the morning, and two 90-minute blocks in the afternoon:
 
@@ -78,7 +78,7 @@ Classes will be taught in 4 blocks during the day: two 60-minute blocks in the m
 
 # Assessment
 
-The final assessment takes place from 13.50-17.10 on Friday 16 Feb. The assessors are Dr. Ollie Palmer and Marton Kabai.
+The final assessment takes place from 13.50-17.10 on Friday 16 Feb. The assessor is your tutor, Dr. Ollie Palmer.
 
 *Pass or fail*
 
@@ -195,7 +195,7 @@ For more information, see [olliepalmer.com](https://olliepalmer.com)
 
 # Website + podcast
 
-There is an accompanying podcast, which takes you through a lot of the course, available [here](2020/podcast/). 
+There is an accompanying podcast, which takes you through a lot of the course, available [here](2020/podcast/).
 
 ## Open access
 
