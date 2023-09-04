@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Module information
-permalink: /2023/about/
-parent: 2023
+permalink: /2022-23/about/
+parent: 2022-23
 nav_order: 1
 has_children: false
 ---
