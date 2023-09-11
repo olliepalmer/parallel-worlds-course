@@ -57,11 +57,11 @@ This course aims to provide a series of practicable methods that can be used wit
 
 #### Mon 11 Sep: Starting points
 
-#### Tues 12 Sep: Objects
+#### Tue 12 Sep: Objects
 
-#### Weds 13 Sep: Journeys
+#### Wed 13 Sep: Journeys
 
-#### Thus 14 Sep: Environments
+#### Thu 14 Sep: Environments
 
 #### Fri 15 Sep: Assessment preparation (morning) + assessment (afternoon)
 
@@ -195,11 +195,14 @@ For more information, see [olliepalmer.com](https://olliepalmer.com)
 
 # Website + podcast
 
-There is an accompanying podcast, which takes you through a lot of the course, available [here](2020/podcast/).
+## Podcast
+
+If you like this course, there is a supplemental podcast version with 25+ hours of guided activities, interviews, and lectures. It's available on all podcast platforms - links to subscribe [here](2020/podcast/).
+
 
 ## Open access
 
-The contents of this course are open access. Please feel free to take and adapt any of the learning materials, try the exercises, start teaching your own course, etc.
+The website and podcast for this course are open access. Please feel free to take and adapt any of the learning materials, try the exercises, start teaching your own course, etc. If you do re-use the content, please let me know! It's always nice to see material take on new forms. :)
 
 Whilst the site and course are open access, there are copyrighted materials on the site. This includes students' work, and images from relevant films, etc. Copyrighted material is clearly marked as such: please respect the original copyright holder. If you like the look of something on the site (e.g. a film, podcast, book, etc), please support its creator! :)
 
