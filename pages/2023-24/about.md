@@ -98,7 +98,9 @@ Each student will also present a 2-4 minute description of their ‘journey’; 
 
 All students are expected to be present for each others’ presentations.
 
-1. Experience: 60% of total grade. To be presented in a format chosen by the student (e.g. video, performance, curated experience, audio installation, etc).
+#### Experience
+
+60% of total grade. To be presented in a format chosen by the student (e.g. video, performance, curated experience, audio installation, etc).
 
 A well worked out experience comprises the following:
 
@@ -106,14 +108,18 @@ A well worked out experience comprises the following:
 - The experience reflects the students’ overall artistic and creative aims, folding the methods and positioning developed through this course into their work.
 - The student has selected appropriate methods and media for creating and presenting their work.
 
-2. Reflection on experience: 20% of final grade. This is given via oral presentation, before or after the examiners have seen the 'experience'.
+#### Reflection on experience
+
+20% of final grade. This is given via oral presentation, before or after the examiners have seen the 'experience'.
 
 A well worked out reflection comprises the following:
 
 - The student is able to clearly articulate and explain the positioning they are presenting, the methods they have selected, and the rationale behind their choices.
 - The student shows an iterative working / thinking process that takes into account both their own intentions and the way in which these are framed for an audience.
 
-3. Participation in course: 20% of final grade.
+#### Participation in course
+
+20% of final grade.
 
 A good participation grade comprises the following:
 
