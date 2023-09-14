@@ -89,9 +89,9 @@ The final assessment takes place from 13.50-17.10 on Friday 16 Feb. The assessor
 
 ## Assessment criteria
 
-Each student will present a 5-10 minute ‘experience’ for the assessors (and peers) which frames their creative practice through a ‘journey’ (this could be a physical installation, a theatrical performance, a video, an audio work, etc).
+Each student will present a 3-5 minute ‘experience’ for the assessors (and peers) which frames their creative practice through a ‘journey’ (this could be a physical installation, a theatrical performance, a video, an audio work, etc).
 
-Each student will also present a 3-5 minute description of their ‘journey’; what their intentions are, and how this frames their creative practice.
+Each student will also present a 2-4 minute description of their ‘journey’; what their intentions are, and how this frames their creative practice.
 
 All students are expected to be present for each others’ presentations.
 
