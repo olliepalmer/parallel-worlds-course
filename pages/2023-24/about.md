@@ -80,16 +80,17 @@ Classes will be taught in 4 blocks during the day: two 60-minute blocks in the m
 
 The final assessment takes place from 13.00-16.30 on Friday 15 Sep. The assessor is your tutor, Dr. [Ollie Palmer](https://olliepalmer.com).
 
-*Pass or fail*
+Each student has a total of 15 mintues to present their work, including all setup time, questions, and feedback. This will be include two presentations; the 'experience' and the 'reflection'.
 
-- 5-10 minute presentation of an ‘experience’ which frames your work
-- 3-5 minute explanation of the ‘experience’ (aims, methods, etc)
+- Experience: 3-5 minute presentation of an ‘experience’ which frames your work
+- Reflection: 2-4 minute explanation of the ‘experience’ (aims, methods, etc)
 - Active participation in exercises, group discussions during classes
+
+At the end of the course students will be graded *PASS* or *FAIL*. Oral feedback will be given during the assessment; minor written feedback will be given within 2 weeks of the assessment date.
 
 
 ## Assessment criteria
 
-Each student has a total of 15 mintues to present their work, including all setup time, questions, and feedback. This will be include two presentations; the 'experience' and the 'description'.
 
 Each student will present a 3-5 minute ‘experience’ for the assessors (and peers) which frames their creative practice through a ‘journey’ (this could be a physical installation, a theatrical performance, a video, an audio work, etc).
 
