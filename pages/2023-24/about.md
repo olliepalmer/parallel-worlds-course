@@ -57,13 +57,13 @@ This course aims to provide a series of practicable methods that can be used wit
 
 #### Mon 11 Sep: Starting points
 
-#### Tue 12 Sep: Objects
+#### Tue 12 Sep: Objects, rituals, behaviours
 
 #### Wed 13 Sep: Journeys
 
-#### Thu 14 Sep: Environments
+#### Thu 14 Sep: Building final project
 
-#### Fri 15 Sep: Assessment preparation (morning) + assessment (afternoon)
+#### Fri 15 Sep: Building final project (morning) + assessment (afternoon)
 
 Classes will be taught in 4 blocks during the day: two 60-minute blocks in the morning, and two 90-minute blocks in the afternoon:
 
@@ -78,7 +78,7 @@ Classes will be taught in 4 blocks during the day: two 60-minute blocks in the m
 
 # Assessment
 
-The final assessment takes place from 13.50-17.10 on Friday 16 Feb. The assessor is your tutor, Dr. Ollie Palmer.
+The final assessment takes place from 13.00-16.30 on Friday 15 Sep. The assessor is your tutor, Dr. [Ollie Palmer](https://olliepalmer.com).
 
 *Pass or fail*
 
