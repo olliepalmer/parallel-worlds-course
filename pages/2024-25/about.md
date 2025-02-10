@@ -45,7 +45,9 @@ This course aims to provide a series of practicable methods that can be used wit
 
 ## Teaching methods
 
-- This course is taught via podcast, and in-person.
+- This course is taught in 2 ways:
+  - In person: we meet in room PR301 each week
+  - Podcast: there are audio essays, interviews, and exercises to listen to between classes via the class podcast feed
 - Students must bring a means of taking notes, drawing, and recording audio, video, and photos. A smartphone, a notebook, and a couple of pens.
 - All group and individual exercises take place within teaching hours. However, preparation for the final assessment may require working outside of teaching hours.
 - Students will work both individually and in groups.
@@ -54,7 +56,22 @@ This course aims to provide a series of practicable methods that can be used wit
 
 # Schedule
 
-TBC
+We meet in room PR301 within the Avans Masters building at 10.30 on a Tuesday. Please be on time!
+
+
+| Class | Date        | Notes                   |
+|-------|-------------|-------------------------|
+|     1 | 11 Feb 2025 | Introduction            |
+|     2 | 18 Feb 2025 |                         |
+|     3 | 25 Feb 2025 |                         |
+| -     |  4 Mar 2025 | No class (spring break) |
+|     4 | 11 Mar 2025 |                         |
+|     5 | 18 Mar 2025 |                         |
+|     6 | 25 Mar 2025 |                         |
+|     7 |  1 Apr 2025 |                         |
+|     8 |  8 Apr 2025 |                         |
+|     9 | 15 Apr 2025 |                         |
+|    10 | 22 Apr 2025 | Assessment              |
 
 
 ----
