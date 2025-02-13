@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Podcast
-parent: 2021
-permalink: 2021/podcast/
+parent: 2024-25
+permalink: 2024-25/podcast
 nav_order: 2
 has_children: true
 ---
