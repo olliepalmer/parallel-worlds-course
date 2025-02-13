@@ -7,9 +7,6 @@ permalink: /2024-25/podcast/w01e04
 has_children: false
 ---
 
-## Reflection week
-{: .no_toc}
-
 # 2021 Week 1 Episode 4: Interview with Amy Butt, Part 2
 {: .no_toc}
 

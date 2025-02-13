@@ -2,16 +2,13 @@
 layout: page
 title: W01.E03 Interview with Amy Butt, Part 1
 parent: Podcast
-grand_parent: 2021
-permalink: /2021/podcast/w01e03
+grand_parent: 2024-25
+permalink: /2024-25/podcast/w01e03
 has_children: false
 ---
 
 1. TOC
 {:toc}
-
-## Reflection week
-{: .no_toc}
 
 # 2021 Week 1 Episode 3: Interview with Amy Butt, Part 1
 {: .no_toc}
@@ -21,6 +18,10 @@ has_children: false
 
 
 ## Listen
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4yqVzX2HXsU2LQKxPQyX62?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+https://creators.spotify.com/pod/show/olliepalmer/episodes/2025-W1E3-Interview-with-Amy-Butt--part-1-e2ur1so
 
 <iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W1-E3-Reflection-Interview-with-Amy-Butt--part-1-erh8dk" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 

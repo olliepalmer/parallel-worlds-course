@@ -2,8 +2,8 @@
 layout: page
 title: W01.E00 Introduction
 parent: Podcast
-grand_parent: 2021
-permalink: /2021/podcast/w01e00
+grand_parent: 2024-25
+permalink: /2024-25/podcast/w01e00
 has_children: false
 ---
 
@@ -17,8 +17,7 @@ has_children: false
 
 ## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-Parallel-Worlds-introduction-er9ooh" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4yqVzX2HXsU2LQKxPQyX62?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Transcript
 
@@ -58,8 +57,6 @@ So, action weeks, with daily activities, and reflection weeks, with things to li
 
 One more thing to mention about the podcast – the episodes are nearly all transcribed. If English isn’t your first language, or you understand things better when you read them, just go to parallel.olliepalmer.com and find the episode there. There are often extra links to additional resources too.
 
-You can also leave voice messages for the show. If you’ve made something you’re proud of, or if you have a question you’d like to ask, please share it! Last year there were a few bonus episodes of the podcast where students had asked questions or shared their work, and it felt so nice to be part of such a generous community. There is a button on the podcast homepage, on each episode page, and in the notes for each podcast episode. If you look at the notes for this episode, the very last part says “Send in a voice message” – just tap that link and you can send a message.
-
 One final thing – I’d like to thank the Situated Art and Design Research Group in the Centre for Applied Research in Art, Design and Technology, which I am a member of, for the ability to put my own artistic research into practice in the creation of this digital syllabus. I’m very grateful to Michel Van Dartel and the steering committee for supporting this project for a second year.
 
 That is it for today. Thank you for listening so far. I hope you’ll stick around, this course should be a lot of fun, I’m excited to be here with you.
@@ -77,5 +74,3 @@ Welcome to Parallel Worlds.
 {: .no_toc}
 
 [RSS](https://anchor.fm/s/1884b008/podcast/rss) / [Apple Podcasts](https://podcasts.apple.com/gb/podcast/parallel-worlds/id1504529134) / [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz) / [PocketCasts](https://pca.st/ha20534r) / [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODg0YjAwOC9wb2RjYXN0L3Jzcw%3D%3D) / [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K) / [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM) / [Breaker](https://www.breaker.audio/parallel-worlds)
-
-_Want to contribute? [Send a voice message!](https://anchor.fm/olliepalmer/message)_
