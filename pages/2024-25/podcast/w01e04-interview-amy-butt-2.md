@@ -18,7 +18,7 @@ has_children: false
 
 ## Listen
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5DY5wAljx03rhBo49rgRHO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5DY5wAljx03rhBo49rgRHO" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Transcript
 
