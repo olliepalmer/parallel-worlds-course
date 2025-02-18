@@ -21,9 +21,23 @@ has_children: false
 
 ## Listen
 
-Episode coming soon
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/10D6gM2wq2x2KaIuKiOnAW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+## Transcript
+Hello, and welcome to the Parallel Worlds podcast. This is the second of the daily activities,the short podcast with exercises to do. Today, I'm going to ask you to write about two topics.Same as we did yesterday, these things will be five-minute exercises. There's five minutes ofabsolute silence for you to get your head down and really think about this stuff.
+
+Just keep your pen moving, get rid of all your distractions, and just write about the topic. And then at the end of the day, we'll just have a little reflection on it.
+
+So first of all, I would like you to write for five minutes about your current circumstances, things that exist in the real world. What is yourday like? How is your routine right now? What changes have you had to make according to yourcurrent circumstances? So without further ado, get ready to write.
+
+(5 minute pause)
+
+Okay, time is up. Okay, time is up. I would now like you to write about a warm memory, something that is sensorially very extreme, something that evokes strong emotions within you, a memory of something thatyou can really feel that you can really feel. Just close your eyes and try to immerse yourself in that feeling of something that is warm from the past. Ready?
+
+(5 minute pause)
+
+Okay, and that is the end of today's podcast. As ever, if you have anything that you'd like to say, if something came up that's particularly strong, or if you hated this, or if you really enjoyed it, please do leave a voicemail for the podcast. There is a link in the show description and the show notes. And yes, I look forward to seeing you again tomorrow, or hearing you maybe.
 
 ## Exercises
 
