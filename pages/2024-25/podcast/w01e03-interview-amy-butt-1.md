@@ -41,7 +41,7 @@ The transcript is not yet available.
 ### Essays / Theory:
 
 - J. G. Ballard (1962) _“Which way to inner space”_, New Worlds, \#118
-- Kodwo Eshun (2003) _‘__Further Considerations on Afrofuturism’_ The New Centennial Review, Volume 3, Number 2 - (quoted -  “Assemble counter memories that contest the historical archive”)
+- Kodwo Eshun (2003) _‘Further Considerations on Afrofuturism’_ The New Centennial Review, Volume 3, Number 2 - (quoted -  “Assemble counter memories that contest the historical archive”)
 - Kodwo Eshun (1998) _More Brilliant than the Sun_ (book on the music of Afrofuturism)
 - Dan Hassler-Forest (2014) _“The Politics of World-Building: Heteroglossia in Janelle Monáe's Afrofuturist WondaLand”_ Para-doxa Volume 26
 - Kathleen Spencer (1983) ‘_"The Red Sun Is High, the Blue Low": Towards a Stylistic Description of Science Fiction_’ Science Fiction Studies, Vol. 10, No. 1

@@ -21,8 +21,7 @@ has_children: false
 
 Episode coming soon
 
-<!--https://creators.spotify.com/pod/show/olliepalmer/episodes/2025-W2E3-Freewriting-e2v0k2l-->
-<!--iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe-->
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6u5DTAxDtZm7ykM2zop2eb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Exercises
 
