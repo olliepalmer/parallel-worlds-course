@@ -28,9 +28,9 @@ The transcript is not yet available.
 
 ### Novels / Short stories:
 
-- Pamela Zoline (1988) _“The Heat Death of the Universe”_
+- Pamela Zoline (1988) _The Heat Death of the Universe_
 - JG Ballard (1975) _High Rise_
-Moshin Hamid (2017) _Exit West_
+- Moshin Hamid (2017) _Exit West_
 - Doris Lessing (1974) _Memoirs of a survivor_
 - Kim Stanley Robinson (2017) _New York 2140_ (and briefly the _California Trilogy_!)
 - Octavia Butler (1993) _Parable of the Sower_
@@ -40,7 +40,7 @@ Moshin Hamid (2017) _Exit West_
 ### Essays / Theory:
 
 - J. G. Ballard (1962) _“Which way to inner space”_, New Worlds, \#118
-- Kodwo Eshun (2003) _‘__Further Considerations on Afrofuturism’_ The New Centennial Review, Volume 3, Number 2 - (quoted -  “Assemble counter memories that contest the historical archive”)
+- Kodwo Eshun (2003) _‘Further Considerations on Afrofuturism’_ The New Centennial Review, Volume 3, Number 2 - (quoted -  “Assemble counter memories that contest the historical archive”)
 - Kodwo Eshun (1998) _More Brilliant than the Sun_ (book on the music of Afrofuturism)
 - Dan Hassler-Forest (2014) _“The Politics of World-Building: Heteroglossia in Janelle Monáe's Afrofuturist WondaLand”_ Para-doxa Volume 26
 - Kathleen Spencer (1983) ‘_"The Red Sun Is High, the Blue Low": Towards a Stylistic Description of Science Fiction_’ Science Fiction Studies, Vol. 10, No. 1

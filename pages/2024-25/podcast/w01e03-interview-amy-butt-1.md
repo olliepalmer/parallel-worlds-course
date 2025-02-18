@@ -29,9 +29,9 @@ The transcript is not yet available.
 
 ### Novels / Short stories:
 
-- Pamela Zoline (1988) _“The Heat Death of the Universe”_
+- Pamela Zoline (1988) _The Heat Death of the Universe_
 - JG Ballard (1975) _High Rise_
-Moshin Hamid (2017) _Exit West_
+- Moshin Hamid (2017) _Exit West_
 - Doris Lessing (1974) _Memoirs of a survivor_
 - Kim Stanley Robinson (2017) _New York 2140_ (and briefly the _California Trilogy_!)
 - Octavia Butler (1993) _Parable of the Sower_
