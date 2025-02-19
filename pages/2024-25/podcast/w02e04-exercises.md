@@ -22,9 +22,22 @@ has_children: false
 
 ## Listen
 
-Episode coming soon
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4H5ZBicjbSXbHz7JOMBlga?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Transcript
+
+Hi, and welcome back to the Parallel Worlds podcast. This is, again, one of the short podcasts that comes out every day. And today I'm going to ask you to do a very similar exercise to the one that you did for the last three days. First of all, I would like you to do a free write with no distractions, nothing else around you, just your pen and some paper, if you're using that, typing, if you're using typing, whatever it is. But, five minutes of just moving those fingers and getting some words down. Don't worry about what people will think of the writing, you never have to show it to them. You can just throw it away immediately if you want to. The idea of this is just to get your thoughts clear in some way. But, the first thing I would like you to write about is the same as the last two days. Daily life, what's going on right now, reflect on the world that's around you, the real world. What is happening around you right now? Where are you? What's going on?
+
+Okay, are you ready? Let's go.
+
+[5 minutes]
+
+Now, I'd like you to write about 'a narrow escape'. Ready?
+
+[5 minutes]
+
+That's it for today, see you again tomorrow!
 
 ## Exercises
 

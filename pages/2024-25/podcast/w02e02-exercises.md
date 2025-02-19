@@ -25,6 +25,7 @@ has_children: false
 
 
 ## Transcript
+
 Hello, and welcome to the Parallel Worlds podcast. This is the second of the daily activities,the short podcast with exercises to do. Today, I'm going to ask you to write about two topics.Same as we did yesterday, these things will be five-minute exercises. There's five minutes ofabsolute silence for you to get your head down and really think about this stuff.
 
 Just keep your pen moving, get rid of all your distractions, and just write about the topic. And then at the end of the day, we'll just have a little reflection on it.

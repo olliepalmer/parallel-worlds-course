@@ -19,9 +19,26 @@ has_children: false
 
 ## Listen
 
-Episode coming soon
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6u5DTAxDtZm7ykM2zop2eb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+## Transcript
+
+Hi, and welcome to the Parallel Worlds podcast. This is the third of the free writing activities that we're going to be doing. Today, it's going to be the same as it was the last two days. Five minutes of free writing on two topics. So, the first topic is again about your daily life. How is it now? What's your circumstance like? How are you coping with what's going on? Just think about the here, the now, maybe the space that you're in, the routine you have, the things you do.
+
+Five minutes, no distractions, go.
+
+[5 minutes]
+
+Okay, welcome back. The next thing I would like you to think about is an instance that might have been. This can be something that's from the real world or something that is fantastical. But I would like you to think about the idea of what might have been.
+
+Ready? Go.
+
+[5 minutes]
+
+Okay, welcome back to the part of the podcast where I talk to you. How were the writing activities? Did you pause the podcast and continue a bit longer after you heard the sound? Or did you stop immediately? Were you frozen for minutes? Did anything strong come up when you were thinking about those sort of counterfactual memories of things that could have been, things that never existed? Please, if anything came up that was strong, if you loved it, if you hated it, whatever else, please do summarize what you wrote, if you want, in the voice memos, in the voicemail for this podcast. I'd be really curious to hear what people thought. When we ran this activity in class with warm memories and that kind of thing, there were quite a few strong emotions that came up. So I would be surprised if people didn't have a strong reaction to what might have been.
+
+Okay, thanks and see you tomorrow.
 
 ## Exercises
 
