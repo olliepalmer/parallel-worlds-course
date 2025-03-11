@@ -20,9 +20,7 @@ has_children: false
 
 ## Listen
 
-coming soon
-
-<!--iframe style="border-radius:12px" src="https://open.spotify.com/episode/0zNWubb9FXjg1axJp9E5T9?si=mEn0b5k1SumXr6sYXjLq-A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe-->
+<iframe style="border-radius:12px" src="https://open.spotify.com/episode/7DTu9l7YCaKFu8YONw0pm0?si=Bc_vkkxvR8OjoGhiTWxNTQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></ifram>
 
 ## Transcript
 
