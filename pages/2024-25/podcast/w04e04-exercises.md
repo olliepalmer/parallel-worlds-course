@@ -1,0 +1,76 @@
+---
+layout: page
+title: W04.E04 Exercises
+parent: Podcast
+grand_parent: 2024-25
+permalink: /2024-25/podcast/w04e04
+has_children: false
+---
+
+
+
+# Week 04 Episode 04: Exercises
+{: .no_toc}
+
+### Table of contents
+{: .no_toc}
+
+1. TOC
+{:toc}
+
+## Listen
+
+coming soon
+
+<!--iframe style="border-radius:12px" src="https://open.spotify.com/episode/0zNWubb9FXjg1axJp9E5T9?si=mEn0b5k1SumXr6sYXjLq-A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe-->
+
+## Transcript
+
+Hi there, and welcome to Parallel Worlds.
+
+How are you today? What’s that? Wait, don’t tell me now, put it down in a 5-minute freewrite. Or a 5-minute free record, if you like. Ready? Go.
+
+```
+5 mins
+```
+
+OK, how was that? Have you looked back, or listened back, to your earlier writing or recordings yet? How is it shaping up? Has anything been impacted by this constant recording of thoughts? What’s the overall shape of your life looking like right now? This kind of reflection is going to be useful as we draw narratives and parallels between the real world and fictional worlds later.
+
+Now, I’d like to do something a bit different. This next exercisehas the potential to become a bit overwhelming, so don’t feel an obligation to write a really really really long list. Let me explain.
+
+So far we’ve produced things based on perspectives. A detective, or an art critic, trying to read a room. A travel guide, recommending things in that space. Now I’d like you to become as objective as you possibly can, and produce an audio catalogue.
+
+Your task today is to list the items that surround you as precisely and objectively as possible, as if they were in a catalogue. Then, I’d like for you to order that catalogue in a way that makes sense to you. You could, for example, go in size order, listing your pens then your phone then your cup, or you could go in the order you acquired the objects, or by colour, material, function, texture – whatever you like. The key rule is to be consistent. I’d recommend a short, factual description – _one coffee cup, white, heavily tea-stained on the inside. One Muji pen, 0.38mm, translucent polypropylene._
+
+If you have lots of things around you, of course you can limit your cataloguing. Perhaps choose things that are within a one metre diameter of your eyes. But be consistent in your application of whatever rule you choose. The idea is to produce a new ordering and relationship between objects you’ve already described a few times before.
+
+I will let you do this once the podcast ends. Keep up the audio recording of the sounds of daily life, too! Have you found a sound you like recording each day yet? Perhaps that clank of a saucepan on the hob, perhaps the opening of a can of beans. Keep your phone nearby and keep recording!
+
+I will be back tomorrow. I hope you have a nice day, or night.
+
+
+
+
+## Exercises
+
+### Today’s writing exercises
+
+- 5-minute free write about life and surroundings at the moment. Has anything changed recently?
+
+### Today’s audio exercise: catalogue
+
+1. Make a list of every object you can see in your immediate vicinity. Find a way of ordering your list. The simplest way would be to go from large to small.
+2. Make a recording of this list as an ordered catalogue, describing each object briefly as if they’re in a catalogue. _e.g. One white cup, with tea-stains in the interior. One glasses case, of dark brown faux leather, embossed with the brand Persol, containing one microfibre cloth and one alcohol glasses wipe. One thermally insulated flask, black, chipped._ Note that you cannot describe anything that you cannot objectively see. How do your relationships to the objects, to the space, change?
+
+
+
+
+
+## Further Reading
+
+- [Resources](/resources) - resources and inspiration for writing, producing, and editing audio stories
+- [Transom.org](https://transom.org) - a great list of audio resources
+
+## Subscribe
+
+[RSS](https://anchor.fm/s/1884b008/podcast/rss) / [Apple Podcasts](https://podcasts.apple.com/gb/podcast/parallel-worlds/id1504529134) / [Spotify](https://open.spotify.com/show/3L3RhKaoqQZoU9fIcLuZjz) / [PocketCasts](https://pca.st/ha20534r) / [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODg0YjAwOC9wb2RjYXN0L3Jzcw%3D%3D) / [RadioPublic](https://radiopublic.com/parallel-worlds-WzVy1K) / [CastBox](https://castbox.fm/channel/id2710471?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_2710471&utm_content=Parallel%20Worlds-CastBox_FM) / [Breaker](https://www.breaker.audio/parallel-worlds)
