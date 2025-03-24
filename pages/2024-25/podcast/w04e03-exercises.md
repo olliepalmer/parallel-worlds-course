@@ -22,7 +22,7 @@ has_children: false
 
 ## Listen
 
-<iframe style="border-radius:12px" src="hhttps://open.spotify.com/episode/61OqcG64Vwik494QR3XTBT?si=u0q3g3N7QYGSscC2k3FREg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/61OqcG64Vwik494QR3XTBT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Transcript
 

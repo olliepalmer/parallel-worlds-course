@@ -20,7 +20,7 @@ has_children: false
 
 ## Listen
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/episode/7DTu9l7YCaKFu8YONw0pm0?si=Bc_vkkxvR8OjoGhiTWxNTQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></ifram>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7DTu9l7YCaKFu8YONw0pm0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Transcript
 

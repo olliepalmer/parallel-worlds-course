@@ -21,7 +21,7 @@ has_children: false
 
 ## Listen
 
-<iframe style="border-radius:12px" src="hhttps://open.spotify.com/episode/1lrIR4jwWhYc7HFBk0A5yE?si=4aA0aO6oRvWXRtloM_PMgQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1lrIR4jwWhYc7HFBk0A5yE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Transcript
 
