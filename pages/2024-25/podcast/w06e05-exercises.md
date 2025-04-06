@@ -3,7 +3,7 @@ layout: page
 title: W06.E05 Exercises
 parent: Podcast
 grand_parent: 2024-25
-permalink: /2024-25/podcast/w05e02
+permalink: /2024-25/podcast/w06e05
 has_children: false
 ---
 
