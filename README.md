@@ -3,7 +3,7 @@
 
 # Parallel Worlds course: Jekyll website
 
-This is the source code for the [Parallel Worlds](https://parallel.olliepalmer.com) course I teach at [The Master Institute of Visual Cultures, AKV St Joost](https://www.akvstjoostmasters.nl/programmes/situated-design), a 10-class course.
+This is the source code for the [Parallel Worlds](https://parallel.olliepalmer.com) course I teach at [The Master Institute of Visual Cultures, Avans Creative Innovation](https://www.akvstjoostmasters.nl/programmes/situated-design), a 10-class course.
 
 
 ## About the course
