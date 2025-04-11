@@ -7,7 +7,7 @@ permalink: /2024-25/podcast/w07e03
 has_children: false
 ---
 
-# Week 08 Episode 03: Synthesis
+# Week 07 Episode 03: Synthesis
 {: .no_toc}
 
 ### Table of contents
@@ -18,7 +18,7 @@ has_children: false
 
 ## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W8-E3-Action-Synthesis-evn6f4" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/57SBr0SpulvSn3ZEeU79mf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Transcript
 
