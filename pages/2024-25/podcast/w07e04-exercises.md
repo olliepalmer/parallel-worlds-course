@@ -7,7 +7,7 @@ permalink: /2024-25/podcast/w07e04
 has_children: false
 ---
 
-# Week 08 Episode 04: Exercises - your best review
+# Week 07 Episode 04: Exercises - your best review
 {: .no_toc}
 
 ### Table of contents
@@ -18,7 +18,7 @@ has_children: false
 
 ## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W8-E4-Action-Your-best-review-evn5tr" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6pNWNCXdscfvPIc1XNqw7c?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Subscribe
 

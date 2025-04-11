@@ -7,7 +7,7 @@ permalink: /2024-25/podcast/w07e05
 has_children: false
 ---
 
-# Week 08 Episode 05: Exercises - your worst review
+# Week 07 Episode 05: Exercises - your worst review
 {: .no_toc}
 
 ### Table of contents
@@ -18,7 +18,7 @@ has_children: false
 
 ## Listen
 
-<iframe src="https://anchor.fm/olliepalmer/embed/episodes/2021-W8-E5-Action-Your-worst-review-evn6og" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1WnNBfpbYPeEd3RO52GEYC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Subscribe
 
