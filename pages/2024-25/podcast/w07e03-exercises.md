@@ -24,7 +24,7 @@ has_children: false
 
 Hello, welcome back to Parallel Worlds.
 
-Today, we’re going to be using two sources for our work: your list of contexts from [Week 4, Episode 5](/2021/podcat/w04e05), and your list of things or concepts from [yesterday](/2021/podcast/w08e02). If you can’t find these right now, you might want to go back and redo the exercises.
+Today, we’re going to be using two sources for our work: your list of contexts from [Week 4, Episode 5](/2024-25/podcast/w04e05#exercises), and your list of things or concepts from [yesterday](/2024-25/podcast/w07e02#exercises). If you can’t find these right now, you might want to go back and redo the exercises.
 
 But first, you know what we’re going to do. Your daily reflection, five minutes of freedom to fish into your mind and find out what’s floating around in there.
 
