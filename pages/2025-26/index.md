@@ -10,8 +10,8 @@ has_children: true
 
 <h1>Parallel Worlds 2025-26</h1>
 
-Welcome to Parallel Worlds course for 2025.
+Welcome to Parallel Worlds course for 2025-26.
 
 All of the module information, our in-class exercises, and resources are archived here for reference. Feel free to take any of the course content and use it for anything you like. Students' work, however, is their own.
 
-Parallel Worlds is run as an elective module within Avans Masters of Arts.
+Parallel Worlds is run as an intensive pathway-specific module within Avans Masters of Arts for Situated Design students.
