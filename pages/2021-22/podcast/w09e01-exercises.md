@@ -2,7 +2,7 @@
 layout: page
 title: W09.E01 Final exercise
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w09e01
 has_children: false
 ---
@@ -77,7 +77,7 @@ But for now, thank you for listening, and good luck with the final exercise!
 
 ## Exercises
 
-- Continuous writing, in reflection on your life, thoughts, and feelings at the moment  
+- Continuous writing, in reflection on your life, thoughts, and feelings at the moment
 _5 minutes_
 
 - Make a narrative audio work of 6-12 minutes’ length which includes elements of:

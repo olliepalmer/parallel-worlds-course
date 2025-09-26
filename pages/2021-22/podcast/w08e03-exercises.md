@@ -2,7 +2,7 @@
 layout: page
 title: W08.E03 Exercises
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w08e03
 has_children: false
 ---
@@ -46,7 +46,7 @@ A few years ago I went to a workshop run by the British immersive theatre compan
 
 It’s hard to create something from scratch. Something that catches, that people want to experience, to be part of. We often rely on metaphors when we’re describing things to other people. Oh, you’ll love this – it’s got the drama and epic worlds of Game of Thrones, mixed with the tragedy of Shakespeare’s King Lear, with a soundtrack like Grand Theft Auto 4, but set in 1930s Brooklyn.
 
-The approach that I learned in the Punchdrunk workshop was to make a triangle. At two of the points of the triangle, you put themes, or works of fiction. And at the third point you put a context, a place and time. You then use those three influences to make a new thing. For their show A Drowned Man, which took place in a huge former post office building, they took the unfinished play Woyzeck by Georg Büchner, which has themes of jealousy, and culminates in a man drowning; they combined this with Nathaniel West’s book Day of the Locust, which is about a young set-painter in Hollywood who becomes disillusioned with the American dream – and they combined these stories in a 1960s Hollywood, a place which provides a rich contrast between the glamour of film sets and the strange out-of-town deserts and forests. What they created is truly new, it didn’t exist before, but they did this through synthesising elements from three places.  
+The approach that I learned in the Punchdrunk workshop was to make a triangle. At two of the points of the triangle, you put themes, or works of fiction. And at the third point you put a context, a place and time. You then use those three influences to make a new thing. For their show A Drowned Man, which took place in a huge former post office building, they took the unfinished play Woyzeck by Georg Büchner, which has themes of jealousy, and culminates in a man drowning; they combined this with Nathaniel West’s book Day of the Locust, which is about a young set-painter in Hollywood who becomes disillusioned with the American dream – and they combined these stories in a 1960s Hollywood, a place which provides a rich contrast between the glamour of film sets and the strange out-of-town deserts and forests. What they created is truly new, it didn’t exist before, but they did this through synthesising elements from three places.
 
 So that’s what we’re going to do today.
 
@@ -78,7 +78,7 @@ I think that’s my two minutes up. Let’s do some other draws from my supply. 
 
 Or I could do one about:
 
-- Stanley Kubrick’s _2001: A Space Odyssey_...  
+- Stanley Kubrick’s _2001: A Space Odyssey_...
 - ...mixed with the _Parallel Worlds_ podcast...
 - ...n a budget bodybuilder’s gym in Tel Aviv in the 1970s
 

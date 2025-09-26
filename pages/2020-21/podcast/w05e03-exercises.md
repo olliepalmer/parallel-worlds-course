@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W05E03 Final exercise
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w05e03
 has_children: false
 ---
@@ -83,7 +83,7 @@ But for now, thank you for listening, and good luck with the final exercise!
 
 ## Exercises
 
-- Continuous writing, in reflection on your life, thoughts, and feelings at the moment  
+- Continuous writing, in reflection on your life, thoughts, and feelings at the moment
 _5 minutes_
 
 - Make a narrative audio work of 6-12 minutes’ length which includes elements of:

@@ -2,7 +2,7 @@
 layout: page
 title: W05.E02 Long listen
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w05e02
 has_children: false
 ---

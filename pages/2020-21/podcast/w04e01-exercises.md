@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W04E01 Six House Parties
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w04e01
 has_children: false
 ---

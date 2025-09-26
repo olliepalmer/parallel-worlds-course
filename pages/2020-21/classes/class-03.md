@@ -2,7 +2,7 @@
 layout: page
 title: 2020 Class 03 – Social Objects
 parent: Classes
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/classes/03
 has_toc: true
 has_children: false

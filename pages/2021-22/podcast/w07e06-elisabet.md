@@ -2,7 +2,7 @@
 layout: page
 title: W07.E06 Elisabet
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w07e06
 has_children: false
 ---

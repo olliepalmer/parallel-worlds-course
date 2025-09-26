@@ -2,7 +2,7 @@
 layout: page
 title: W09.E03 Bonus: Interview with Abi Palmer (rebroadcast)
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w09e03
 has_children: false
 ---

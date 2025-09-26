@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W02E05 Exercises
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w02e05
 has_children: false
 ---

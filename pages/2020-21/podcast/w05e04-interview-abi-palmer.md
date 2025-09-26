@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W05E04 Interview with Abi Palmer
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w05e04
 has_children: false
 ---

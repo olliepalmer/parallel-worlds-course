@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W01E02 Freewriting
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w01e02
 has_children: false
 ---

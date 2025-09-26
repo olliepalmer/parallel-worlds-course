@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W01E00 Introduction
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w01e00
 has_children: false
 ---
@@ -24,7 +24,7 @@ has_children: false
 
 Hello! And welcome to the audio part of the parallel worlds course.My name is Ollie Palmer.
 
-This is a course that I, Ollie Palmer, run at the Master Institute of Visual Cultures at AKV St Joost. But it’s also a podcast that’s available for everyone to download and listen to, supplemented by the course website at parallel.olliepalmer.com – there’s a link in the podcast description.  
+This is a course that I, Ollie Palmer, run at the Master Institute of Visual Cultures at AKV St Joost. But it’s also a podcast that’s available for everyone to download and listen to, supplemented by the course website at parallel.olliepalmer.com – there’s a link in the podcast description.
 
 What’s this course about? Well, perhaps I can read you the synopsis:
 

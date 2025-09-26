@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W05E05 Interview with Tim Clare
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w05e05
 has_children: false
 ---

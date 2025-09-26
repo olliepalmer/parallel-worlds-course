@@ -2,7 +2,7 @@
 layout: page
 title: W04.E02 Exercises
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w04e02
 has_children: false
 ---

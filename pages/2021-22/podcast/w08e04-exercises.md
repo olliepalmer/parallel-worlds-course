@@ -2,7 +2,7 @@
 layout: page
 title: W08.E04 Exercises
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w08e04
 has_children: false
 ---
@@ -92,9 +92,9 @@ Take care of yourself, I’ll be back soon.
 
 ## Exercises
 
-- Continuous writing, in reflection on your life, thoughts, and feelings at the moment  
+- Continuous writing, in reflection on your life, thoughts, and feelings at the moment
 _5 minutes_
-- Write a list of great works, artists, authors, creators, that you’re inspired by, from any discipline (not just your own). Think about what foreknowledge you need to have about the context of the work for it to make sense.  
+- Write a list of great works, artists, authors, creators, that you’re inspired by, from any discipline (not just your own). Think about what foreknowledge you need to have about the context of the work for it to make sense.
 _3 minutes_
-- Write the best possible review of your work, from the perspective of the best possible fan of your work, without discussing the work itself. Try to capture the emotional journey that person will have gone through – how would they ideally encounter your work in the first place? Where would the ultimate context be for it to be shown? How do they feel when they are in the presence of your work? What do they think about afterwards? What would they tell their friends if they were talking about your work?  
+- Write the best possible review of your work, from the perspective of the best possible fan of your work, without discussing the work itself. Try to capture the emotional journey that person will have gone through – how would they ideally encounter your work in the first place? Where would the ultimate context be for it to be shown? How do they feel when they are in the presence of your work? What do they think about afterwards? What would they tell their friends if they were talking about your work?
 _10 minutes_

@@ -2,7 +2,7 @@
 layout: page
 title: W06.E05 Exercises
 parent: Podcast
-grand_parent: 2021
+grand_parent: 2021-22
 permalink: /2021/podcast/w06e05
 has_children: false
 ---
@@ -63,7 +63,7 @@ I will be back for a long episode soon.
 ## Exercises
 
 - Self-reflection free write (5 minutes)
-- Foley exercise. You are going to do the same exercise as yesterday – trying to recreate the sound you chose in multi-track audio – but today you’re going to use other objects to do it. You can’t use the original object, or anything like it. But you can choose anything else that you have to hand. Try to recreate the sound using the most opposite objects you can! For example, if your sound is wet, try to use the driest objects you have. If your sound is metallic, try using something soft like fabrics. Again, work through the elements one by one, layering the parts into a multi-track audio file.  
+- Foley exercise. You are going to do the same exercise as yesterday – trying to recreate the sound you chose in multi-track audio – but today you’re going to use other objects to do it. You can’t use the original object, or anything like it. But you can choose anything else that you have to hand. Try to recreate the sound using the most opposite objects you can! For example, if your sound is wet, try to use the driest objects you have. If your sound is metallic, try using something soft like fabrics. Again, work through the elements one by one, layering the parts into a multi-track audio file.
 Once you’re done, listen to the original sound, the sound you recorded yesterday, and the one you made today. What are the characteristics of each sound? How do they make you feel? Are you able to detach the making of the sound from the sound itself? Try sending the sounds to a friend and seeing what their reflection is. Can they identify the original sound without being told what it is? Could they recognise your imitations?
 
 ## Further reading

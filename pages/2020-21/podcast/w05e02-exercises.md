@@ -2,7 +2,7 @@
 layout: page
 title: 2020.W05E02 Exercises
 parent: Podcast
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/podcast/w05e02
 has_children: false
 ---
@@ -78,9 +78,9 @@ OK, I will be back soon with more. In the meantime, be kind to yourself and thos
 
 ## Exercises
 
-- Continuous writing, in reflection on your life, thoughts, and feelings at the moment  
+- Continuous writing, in reflection on your life, thoughts, and feelings at the moment
 _5 minutes_
-- Write a list of great works, artists, authors, creators, that you’re inspired by, from any discipline (not just your own). Think about what foreknowledge you need to have about the context of the work for it to make sense.  
+- Write a list of great works, artists, authors, creators, that you’re inspired by, from any discipline (not just your own). Think about what foreknowledge you need to have about the context of the work for it to make sense.
 _3 minutes_
 - Write the worst possible review of your work. What are you unsure about? What are you insecure about? What is the worst thing someone could say about your work?
 _10 minutes_

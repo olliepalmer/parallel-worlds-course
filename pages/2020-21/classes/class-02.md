@@ -2,7 +2,7 @@
 layout: page
 title: 2020 Class 02 – Objects
 parent: Classes
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/classes/02
 has_toc: true
 has_children: true
@@ -118,7 +118,7 @@ The world is set a couple of hundred years into the future. Our species has colo
 
 ### Google's No Internet T-rex Runner game
 
-*Google,	Released September 2014,	Game*		
+*Google,	Released September 2014,	Game*
 
 Our protagonist, a lone t-rex, passes the time by exercising. Running through an infinite desert at gradually increasing speeds, dodging obstacles such as cacti and pterodactyls until eventually they get the best of him or her. At which point they have to start over.
 
@@ -212,7 +212,7 @@ When I watched the film, I have the same sensation as the protagonist because th
 The best part of the movie for me to feel calm through the movie and felt like meditated at the end. events unfold in the movie in a very absurd way and you always feel an uncertainness. Spirited away have a big fan community through all around the globe. The style that they chosen to show in the movie always makes you feel something. Every time I watch this movie I feel like I did accomplish something in myself that makes me a whole again.
 
 
-### Top Gun 	
+### Top Gun
 *Director - Tony Scott,	1986,	Film*	(Inspired by magazine article "Top Guns" and there is a book.)
 
 This world takes you back in time to 1980's. The film was filmed in the 80's during the cold war and it takes the viewer right into that time frame using language (catch phrases), clothing (leather jackets, aviator sunglasses), hair styles, music (Take My Breath Away and Danger Zone) and the specific scenes and settings (in the aeroplane, hangers, offices, smokey bars and the beach).
@@ -238,12 +238,12 @@ it is the horror village.she is killed.Laura Palmer is killed.FBI agent is looki
 *Brian Acton, Jan Koum, 2009, mobile application*
 
 ```
-Ring Ring  
-Who are you?  
-I am your mom  
-tik tik (typing)  
-I am in class mom,call you later  
-calling mom  
+Ring Ring
+Who are you?
+I am your mom
+tik tik (typing)
+I am in class mom,call you later
+calling mom
 ringing
 Hi mom
 are you at home

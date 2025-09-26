@@ -2,7 +2,7 @@
 layout: page
 title: 2020 Class 01 – ️Introduction
 parent: Classes
-grand_parent: 2020
+grand_parent: 2020-21
 permalink: /2020/classes/01
 has_toc: true
 has_children: false

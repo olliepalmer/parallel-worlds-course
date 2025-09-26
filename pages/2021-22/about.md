@@ -2,7 +2,7 @@
 layout: page
 title: Module information
 permalink: /2021/about/
-parent: 2021
+parent: 2021-22
 nav_order: 1
 has_children: false
 ---

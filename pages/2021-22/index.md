@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 2021
+grand_parent: 2021-22
 permalink: /2021/
 has_children: true
 ---
