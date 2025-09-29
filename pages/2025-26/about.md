@@ -56,16 +56,16 @@ This course aims to provide a series of practicable methods that can be used wit
 
 # Schedule
 
-We meet in room PP319 within the ACI building at 10.40 every morning. Please be on time!
+We meet in a room within the ACI building at 10.40 every morning. Please be on time!
 
 
 | Class | Date        | Notes                   |
 |-------|-------------|-------------------------|
-|     1 | 29 Sep 2025 | Introduction            |
-|     2 | 30 Sep 2025 |                         |
-|     3 | 01 Oct 2025 |                         |
-|     4 | 02 Oct 2025 |                         |
-|     5 | 03 Oct 2025 | Assessment with [Alice Ladenburg](https://aliceladenburg.com) and [Ollie Palmer](https://olliepalmer.com) |
+|     1 | 29 Sep 2025 | Room PP206            |
+|     2 | 30 Sep 2025 | Room PP211            |
+|     3 | 01 Oct 2025 | Room PP320            |
+|     4 | 02 Oct 2025 | Room PP202            |
+|     5 | 03 Oct 2025 | Room PP057 Assessment with [Alice Ladenburg](https://aliceladenburg.com) and [Ollie Palmer](https://olliepalmer.com) |
 
 ----
 
