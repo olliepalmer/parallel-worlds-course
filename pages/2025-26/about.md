@@ -56,29 +56,22 @@ This course aims to provide a series of practicable methods that can be used wit
 
 # Schedule
 
-We meet in room PR301 within the Avans Masters building at 10.30 on a Tuesday. Please be on time!
+We meet in room PP319 within the ACI building at 10.40 every morning. Please be on time!
 
 
 | Class | Date        | Notes                   |
 |-------|-------------|-------------------------|
-|     1 | 11 Feb 2025 | Introduction            |
-|     2 | 18 Feb 2025 |                         |
-|     3 | 25 Feb 2025 |                         |
-| -     |  4 Mar 2025 | No class (spring break) |
-|     4 | 11 Mar 2025 |                         |
-|     5 | 18 Mar 2025 |                         |
-|     6 | 25 Mar 2025 |                         |
-|     7 |  1 Apr 2025 |                         |
-|     8 |  8 Apr 2025 |                         |
-|     9 | 15 Apr 2025 |                         |
-|    10 | 22 Apr 2025 | Assessment              |
-
+|     1 | 29 Sep 2025 | Introduction            |
+|     2 | 30 Sep 2025 |                         |
+|     3 | 01 Oct 2025 |                         |
+|     4 | 02 Oct 2025 |                         |
+|     5 | 03 Oct 2025 | Assessment with [Alice Ladenburg](https://aliceladenburg.com) and [Ollie Palmer](https://olliepalmer.com) |
 
 ----
 
 # Assessment
 
-The final assessment date to be conformed. The assessor is your tutor, Dr. [Ollie Palmer](https://olliepalmer.com).
+The final assessment will take place in the EKP building on 3 Oct 2025. The assessor is your tutor, Dr. [Ollie Palmer](https://olliepalmer.com), and we will have expert feedback from artist [Alice Ladenburg](https://aliceladenburg.com).
 
 Each student has a total of 15 minutes to present their work, including all setup time, questions, and feedback. This will be include two presentations; the 'experience' and the 'reflection'.
 
@@ -200,13 +193,27 @@ Commercially, he has worked as a design consultant with clients such as BBC Worl
 For more information, see [olliepalmer.com](https://olliepalmer.com)
 
 
+## External critic
+
+[Alice Ladenburg](https://aliceladenburg.com) is an artist and researcher. Her artist statement reads:
+
+> The environmental crisis needs to be approached from multiple perspectives, both pragmatically and imaginatively.
+
+> Working collaboratively and across disciplines, my practice combines an auto-ethnographic approach with scientific research, and develops art-science methods and modes of presentation to foster a deeper and more nuanced understanding of our shared planet.
+
+> Projects have been realised with and presented at institutions including: Environmental Change Institute, Oxford University; the School of Geosciences, Edinburgh University; LASER, Central St Martins, London; Wageningen University; RADIUS Center for Contemporary Art and Ecology, Delft; Amsterdam Research Institute for the Arts & Sciences; WAAG FutureLab, Amsterdam; Museum Boijmans; International Film Festival Rotterdam.
+
+> I trained in Fine Art at Edinburgh College of Art and in Cultural Geography at Royal Holloway University of London. Major funds and grants include: Creative Scotland; the Arts and Humanities Research Council, UK; CBK Rotterdam, Stimuleringsfonds, and Mondriaan Fund. I currently live and work in Rotterdam.
+
+
+
 ----
 
 # Website + podcast
 
 ## Podcast
 
-This year we'll be using teh pre-recorded audio content for structured exercises. But you don't have to sign up to the class to listen to the podcast - anyone can listen [here](2020/podcast/).
+This year we'll be using the pre-recorded audio content for some structured exercises. But you don't have to sign up to the class to listen to the podcast - anyone can listen [here](2020/podcast/).
 
 
 ## Open access
