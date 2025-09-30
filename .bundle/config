@@ -1,0 +1,3 @@
+---
+BUNDLE_BUILD__EVENTMACHINE: "--with-openssl-dir=/opt/homebrew/opt/openssl@3"
+BUNDLE_FORCE_RUBY_PLATFORM: "true"

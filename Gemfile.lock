@@ -66,7 +66,6 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    logger (1.7.0)
     mercenary (0.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -99,20 +98,19 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  csv
-  jekyll (~> 4.3)
+  jekyll (~> 4.4)
   jekyll-feed (~> 0.17)
   jekyll-include-cache (~> 0.2)
   just-the-docs
   kramdown-parser-gfm (~> 1.1)
-  logger
+  sass-embedded (~> 1.77)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
   webrick (~> 1.8)
 
 RUBY VERSION
-   ruby 3.3.9p170
+   ruby 3.4.6p54
 
 BUNDLED WITH
    2.4.14
