@@ -30,6 +30,7 @@ nav_order: 5
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/i27IKil-LXw?si=-sXJA56DGZr0zWg1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Writing a script. This lecture by Craig Mazin (The Last of Us, Chernobyl) is a great place to start. It's a 45-minute listen, but does such a good job of describing how stories are _structured_ to be satisfying. What's the story behind the story?
 - [Scriptnotes podcast](https://scriptnotes.net) - "A podcast about screenwriting and things interesting to screenwriters." If you're into writing, or analysing films, this is a great resource. Sometimes it has a lot of content about the film industry itself - specifically working within the studio system - but there is always something interesting to learn.
+- [Prompt generator](https://here.olliepalmer.com) - a prompt generator for making fun scenes, which we sometimes use in the class.
 
 ## Recording audio
 
