@@ -27,6 +27,9 @@ nav_order: 5
 - [BBC Writers Room](https://www.bbc.co.uk/writersroom/) - The BBC has a great set of resources for writing all manner of scripts, including lots of examples of scripts for TV programmes, radio shows, etc.
 - [The Script Gym](https://www.bbc.co.uk/writersroom/writers-lab/script-gym) (from the *Writers Room*) is a series of exercises to start writing fiction, taking you from a blank piece of paper to a fully-finished story.
 - [Couch to 80k Bootcamp](http://www.timclarepoet.co.uk/couchto80kwritingbootcamp/) - want to hone your writing skills? This free podcast is a superb place to start. It consists of a structured series of ~20 minute activities every day, so you can fit it round your life. Tim’s a great writing coach.
+- Writing a script. This lecture by Craig Mazin (The Last of Us, Chernobyl) is a great place to start. It's a 45-minute listen, but does such a good job of describing how stories are _structured_:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i27IKil-LXw?si=-sXJA56DGZr0zWg1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Scriptnotes podcast](https://scriptnotes.net) - "A podcast about screenwriting and things interesting to screenwriters." If you're into writing, or analysing films, this is a great resource. Sometimes it has a lot of content about the film industry itself - specifically working within the studio system - but there is always something interesting to learn.
 
 ## Recording audio
 
@@ -42,6 +45,7 @@ You don’t need expensive equipment to produce audio stories! Most production c
 - [Ffmpeg](https://www.ffmpeg.org/) is a command-line tool for converting audio and video between formats, joining files together, splicing, extracting audio from video, etc. You can translate between any formats – you have to master the command line, but it’s free and anything you want to do is only a Google away.
 - [GarageBand](https://www.apple.com/mac/garageband/) is free if you have a Mac, and is pretty good for audio production. It’s more fully featured than you might think.
 - [Adobe Audition](https://www.adobe.com/products/audition.html) is included in many peoples’ Creative Cloud bundles. It’s a very powerful audio production platform.
+- [Descript](https://descript.com) - software that lets you edit audio and video as if they are documents. The free tier contains 1 hour of media you can ingest/transcibe per month.
 
 ## Publishing
 
@@ -51,9 +55,9 @@ You don’t need expensive equipment to produce audio stories! Most production c
 
 Here are a list of some of the many podcasts that I enjoy, which you might also like to listen to!
 
-## [Imaginary Advice](https://imaginaryadvice.com)  
+## [Imaginary Advice](https://imaginaryadvice.com)
 
-*Experiments in audio fiction by Ross Sutherland*  
+*Experiments in audio fiction by Ross Sutherland*
 
 Ross is one of my favourite writers, and over the past 5 years he has used podcasts to create a whole series of audio worlds. I like that each episode can be a completely different style of writing, have a completely different topic, but still be unmistakably Imaginary Advice. I also love the audio production on many of them (Black Eye is my favourite for this).
 - Genre: storytelling, fiction
@@ -77,7 +81,7 @@ I listen to this podcast whenever I'm in a curious mood – just selecting an ep
   - [Kowloon walled city](https://99percentinvisible.org/episode/episode-66-kowloon-walled-city/)
   - [Separation anxiety](https://99percentinvisible.org/episode/separation-anxiety/)
 
-## [Heavyweight](https://gimletmedia.com/shows/heavyweight/episodes#show-tab-picker)  
+## [Heavyweight](https://gimletmedia.com/shows/heavyweight/episodes#show-tab-picker)
 
 I love this podcast. I listen to it whenever I need to feel that the world is actually a great place! What I particularly like is that the episodes all seem to start with something completely mundane, a silly problem that someone wants to solve, but always turn into something much more profound and life-affirming.
 
@@ -95,7 +99,7 @@ This is quite a UK-based podcast, but builds on the writer Reni Eddo-Lodge's boo
   - Episode length: 20-30 mins
   - Good starter episodes: start at #1 and work through, otherwise some parts won't make sense.
 
-## [Radiolab](https://radiolab.org)  
+## [Radiolab](https://radiolab.org)
 
 One of my all-time favourite podcasts! I listen when I want to feel a sense of wonder. I like that they can explain complex topics in such a way that you end up feeling like you really know a lot about them, and could describe them to friends. So many of these episodes have continued to linger in my mind after I stopped listening.
 
@@ -106,9 +110,9 @@ One of my all-time favourite podcasts! I listen when I want to feel a sense of w
     - [From Tree to Shining Tree](https://www.wnycstudios.org/podcasts/radiolab/articles/from-tree-to-shining-tree) – this one blew my mind. A communication layer between trees!
     - [The Other Latif](https://www.wnycstudios.org/podcasts/radiolab/articles/other-latif-episode-1) mini-series: a history of Guantanamo Bay through the story of one inmate.
 
-## [Reply All](https://gimletmedia.com/shows/reply-all)  
+## [Reply All](https://gimletmedia.com/shows/reply-all)
 
-A show predominantly about technology, but sometimes about weird and interesting subcultures.  
+A show predominantly about technology, but sometimes about weird and interesting subcultures.
 Sometimes the podcast is conversational, and sometimes it's investigative journalism, and sometimes both. The part of me that likes this show is the same part that gets lost on Wikipedia for hours reading about bizarre conspiracy theories.
 
 - Genre: investigative journalism, usually technology-based
@@ -119,7 +123,7 @@ Sometimes the podcast is conversational, and sometimes it's investigative journa
   - [The Case of the Phantom Caller](https://gimletmedia.com/shows/reply-all/n8ho3a/104-the-case-of-the-phantom-caller) - a bizarre series of voicemails uncover a huge scam.
   - [The Cathedral](https://gimletmedia.com/shows/reply-all/6nh34m/50-the-cathedral) - tragic: listen if you want to be reminded how precious life is (and maybe have a good ol' cry).
 
-## [Death of 1000 Cuts](http://www.timclarepoet.co.uk/tag/death-of-1000-cuts/)  
+## [Death of 1000 Cuts](http://www.timclarepoet.co.uk/tag/death-of-1000-cuts/)
 
 A great podcast by [Tim Clare](http://www.timclarepoet.co.uk) about writing. There is so much to recommend:
 
